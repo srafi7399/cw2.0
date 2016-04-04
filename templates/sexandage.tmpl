@@ -1,0 +1,155 @@
+<script src="${pageContext.request.contextPath}/js/icharts-min.js"></script> 
+ <script>
+  $(document).ready(function() 
+          {   
+			
+	  var re= ${fipcode};	  
+	  var dat ;
+	  $.ajax({
+			url : '${pageContext.request.contextPath}/charts',
+			type : "GET",			
+			headers: {
+		        'resource':re
+			},
+			dataType : "json",
+			contentType : "application/json",
+				success: function(data){     
+	             var obj= JSON.parse(JSON.stringify(data));           
+	             var temp = obj.idToJsonMap; 
+	            for (var key in temp) {
+   			 	drawchart(key,temp[key]);
+				}
+	              
+	             }
+		});
+			        	 
+        	 
+ });
+</script>
+
+<div itemscope itemtype="http://schema.org/Dataset">				
+		<div id = "sexsection" class="panel panel-default">
+		
+			<div class="panel-heading">
+				<h3 class="panel-title"><span itemprop="about">The ratio of Male to Female population in {{value_name}} (2013 Census Estimates)</h3>
+			</div>
+			<div  class="panel-body">
+			<div class = "col-lg-4">		
+			<p>	Total population : <span class="label label-primary">{{value_total_population}}</span>
+			</p><div id="name_male_female_percentage" style="min-width: 175px; height: 250px; max-width: 300px;"></div>	
+			<div class="table-responsive">
+						<table
+							class="table table-condensed table-striped table-bordered table-hover no-margin">
+							<thead>
+								<tr>
+									<th style="width: 10%">{{name_male_female_percentage}}</th>								
+									<th style="width: 10%">Estimate (%)</th>
+								</tr>
+							</thead>
+							<tbody>
+
+								<tr>
+									<td>{{name_total_population_male}}</td>								
+									<td>{{value_total_population_male}}</td>
+								</tr>
+								<tr>
+									<td>{{name_total_population_female}}</td>								
+									<td>{{value_total_population_female}}</td>
+								</tr>						
+							
+							</tbody>
+						</table>
+					</div>							
+			</div>
+			<div class="col-lg-4">		
+			<p>{{name_18_years_and_over_cdp}}: <span class="label label-primary">{{value_18_years_and_over_cdp}}</span>
+			</p><div id="name_18_years_and_over_cdp" style="min-width: 175px; height: 250px; max-width: 300px;"></div>	
+			<div class="table-responsive">
+						<table
+							class="table table-condensed table-striped table-bordered table-hover no-margin">
+							<thead>
+								<tr>
+									<th style="width: 10%">{{name_18_years_and_over_cdp}}</th>								
+									<th style="width: 10%">Estimate (%)</th>
+								</tr>
+							</thead>
+							<tbody>
+
+								<tr>
+									<td>{{name_18_years_and_over_male}}</td>								
+									<td>{{value_18_years_and_over_male}}</td>
+								</tr>
+								<tr>
+									<td>{{name_18_years_and_over_female}}</td>								
+									<td>{{value_18_years_and_over_female}}</td>
+								</tr>											
+								
+							</tbody>
+						</table>
+					</div>							
+			</div>
+			<div class="col-lg-4">			
+			<p>{{name_65_years_and_over_cdp}}: <span class="label label-primary">{{value_65_years_and_over_cdp}}</span>
+			</p>
+			<div id="name_65_years_and_over_cdp" style="min-width: 175px; height: 250px; max-width: 300px;"></div>	
+			<div class="table-responsive">
+						<table
+							class="table table-condensed table-striped table-bordered table-hover no-margin">
+							<thead>
+								<tr>
+									<th style="width: 10%">{{name_65_years_and_over_cdp}}</th>								
+									<th style="width: 10%">Estimate (%)</th>
+								</tr>
+							</thead>
+							<tbody>
+
+								<tr>
+									<td>{{name_65_years_and_over_male}}</td>								
+									<td>{{value_65_years_and_over_male}}</td>
+								</tr>
+								<tr>
+									<td>{{name_65_years_and_over_fe_male}}</td>								
+									<td>{{value_65_years_and_over_fe_male}}</td>
+								</tr>
+												
+								
+							</tbody>
+						</table>
+					</div>							
+			</div>
+			</div>
+			</div>
+		
+		<div>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- below-sex-data-horizontal -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-3154845825068093"
+     data-ad-slot="3578399368"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+		<div class="panel panel-default">
+			<div class="panel-heading">
+				<h3 class="panel-title"><span itemprop="about">Age details for {{value_name}} (2013 Census Estimates) </h3>
+			</div>	
+			<div id="agesection" class="panel-body">
+			<div class = "col-lg-4">		
+			<p>{{name_median_age_in_years}}: <span class="label label-primary">{{value_median_age_in_years}} years</span>
+			<p>{{name_18_years_and_over}}: <span class="label label-primary">{{value_18_years_and_over}}%</span>
+			<p>{{name_21_years_and_over}}: <span class="label label-primary">{{value_21_years_and_over}}%</span>
+			<p>{{name_62_years_and_over}}: <span class="label label-primary">{{value_62_years_and_over}}%</span>
+			<p>{{name_65_years_and_over}}: <span class="label label-primary">{{value_65_years_and_over}}%</span>								
+			</div>
+			<div class = "col-lg-8">				
+			<div id="name_age_distribution" style="min-width: 250px; height: 350px; max-width: 600px;"></div>						
+			</div>					
+		</div>
+		</div>
+		
+		</div>
+					
+		

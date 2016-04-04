@@ -1,0 +1,22 @@
+  <section class="content-header">  
+           <div class="row">        
+           <ol class="breadcrumb">
+	    {{#links}}		
+            <li><a href="{{linkValue}}"><i class="fa fa-dashboard"></i> {{linkName}}</a></li>
+             {{/links}}
+            <li class="active">{{active}}</li>
+          </ol>
+ </div>
+        </section>
+
+
+<div class="row">
+    <ul>
+        <a href="{{citieslink}}" class="btn bg-navy btn-flat margin">Cities in {{active}}</a>
+        <a href="{{countieslink}}" class="btn bg-navy btn-flat margin">Counties in {{active}}</a>
+        <a href="{{metrolink}}" class="btn bg-navy btn-flat margin">Metros in {{active}}</a>
+        <a href="{{microlink}}" class="btn bg-navy btn-flat margin">Micros in {{active}}</a>       
+    </ul>
+
+    </div>
+                    		
