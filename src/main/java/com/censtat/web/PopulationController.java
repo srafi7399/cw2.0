@@ -1,8 +1,6 @@
 package com.censtat.web;
 
 import java.net.UnknownHostException;
-import java.text.DateFormat;
-import java.util.Date;
 import java.util.List;
 import java.util.Locale;
 
@@ -15,12 +13,10 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
-import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 import com.censtat.db.connect.CensusAccess;
-import com.censtat.db.connect.CensusConst;
-import com.census.db.main.MongoApp;
+import com.censtat.db.connect.MongoApp;
 import com.mongodb.DBCursor;
 import com.mongodb.DBObject;
 

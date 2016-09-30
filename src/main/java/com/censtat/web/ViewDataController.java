@@ -14,11 +14,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 
+import com.censtat.db.connect.CensusAccess;
 import com.censtat.node.router.CenstatViewDataNodeProxy;
-import com.census.db.main.CensusAccess;
-import com.mongodb.DBObject;
-import com.mongodb.util.JSON;
-import com.censtat.node.router.*;
 @Controller
 public class ViewDataController {
 	private CensusAccess access = new CensusAccess();	
