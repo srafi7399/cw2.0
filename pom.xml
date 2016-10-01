@@ -164,11 +164,6 @@
 			<version>1.6.1.RELEASE</version>
 		</dependency>
 		<dependency>
-			<groupId>CensusDBService</groupId>
-			<artifactId>CensusDBService</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
-		<dependency>
 			<groupId>com.google.code.gson</groupId>
 			<artifactId>gson</artifactId>
 			<version>2.3.1</version>
@@ -227,8 +222,12 @@
                 <artifactId>exec-maven-plugin</artifactId>
                 <version>1.2.1</version>
                 <configuration>
-                    <mainClass>org.test.int1.Main</mainClass>
+                    <mainClass>com.censtat.data.tools.CenstatPageGenTool</mainClass>
                 </configuration>
+            </plugin>
+            <plugin>
+            	<groupId>org.codehaus.mojo</groupId>
+            	<artifactId>exec-maven-plugin</artifactId>
             </plugin>
         </plugins>
     </build>
