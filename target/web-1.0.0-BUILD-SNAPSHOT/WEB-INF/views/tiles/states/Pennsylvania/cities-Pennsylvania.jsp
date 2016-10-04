@@ -465,38 +465,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Pennsylvania/cities/Allison-Park">Allison Park</a></span>
-        </td>        
-        <td>21494     
-        </td>
-        <td>50.4% Male and 49.6% female
-        </td>
-        <td>41.9 years        
-        </td>
-        <td>52
-        </td>
-        <td>0.7 
-        </td>
-        <td> 3.09
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Pennsylvania/cities/Levittown">Levittown</a></span>
-        </td>        
-        <td>50533     
-        </td>
-        <td>48.8% Male and 51.2% female
-        </td>
-        <td>40 years        
-        </td>
-        <td>16.2
-        </td>
-        <td>5.8 
-        </td>
-        <td> 3.25
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Pennsylvania/cities/York-city">York city</a></span>
         </td>        
         <td>43760     
@@ -513,19 +481,19 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Pennsylvania/cities/Pottstown-borough">Pottstown borough</a></span>
+          <span class="name"> <a href="/states/Pennsylvania/cities/Allison-Park">Allison Park</a></span>
         </td>        
-        <td>22506     
+        <td>21494     
         </td>
-        <td>46.6% Male and 53.4% female
+        <td>50.4% Male and 49.6% female
         </td>
-        <td>35.7 years        
+        <td>41.9 years        
         </td>
-        <td>16.8
+        <td>52
         </td>
-        <td>7 
+        <td>0.7 
         </td>
-        <td> 3.19
+        <td> 3.09
         </td>        
       <tr>       
         <td>        
@@ -558,6 +526,38 @@
         <td>37.1 
         </td>
         <td> 3.32
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Pennsylvania/cities/Levittown">Levittown</a></span>
+        </td>        
+        <td>50533     
+        </td>
+        <td>48.8% Male and 51.2% female
+        </td>
+        <td>40 years        
+        </td>
+        <td>16.2
+        </td>
+        <td>5.8 
+        </td>
+        <td> 3.25
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Pennsylvania/cities/Pottstown-borough">Pottstown borough</a></span>
+        </td>        
+        <td>22506     
+        </td>
+        <td>46.6% Male and 53.4% female
+        </td>
+        <td>35.7 years        
+        </td>
+        <td>16.8
+        </td>
+        <td>7 
+        </td>
+        <td> 3.19
         </td>        
          </tbody>
   </table>

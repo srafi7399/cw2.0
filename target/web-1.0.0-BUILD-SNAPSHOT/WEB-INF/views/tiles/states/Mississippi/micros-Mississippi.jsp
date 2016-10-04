@@ -273,6 +273,22 @@
         </td>        
       <tr>       
         <td>        
+          <span class="name"> <a href="/states/Mississippi/micros/Natchez">Natchez</a></span>
+        </td>        
+        <td>52781     
+        </td>
+        <td>50.1% Male and 49.9% female
+        </td>
+        <td>39.7 years        
+        </td>
+        <td>14.7
+        </td>
+        <td>4.9 
+        </td>
+        <td> 3.17
+        </td>        
+      <tr>       
+        <td>        
           <span class="name"> <a href="/states/Mississippi/micros/Picayune">Picayune</a></span>
         </td>        
         <td>55319     
@@ -318,22 +334,6 @@
         <td>2.1 
         </td>
         <td> 3.41
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Mississippi/micros/Natchez">Natchez</a></span>
-        </td>        
-        <td>52781     
-        </td>
-        <td>50.1% Male and 49.9% female
-        </td>
-        <td>39.7 years        
-        </td>
-        <td>14.7
-        </td>
-        <td>4.9 
-        </td>
-        <td> 3.17
         </td>        
          </tbody>
   </table>

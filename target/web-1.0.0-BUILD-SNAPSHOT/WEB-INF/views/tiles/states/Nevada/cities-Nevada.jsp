@@ -241,22 +241,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Nevada/cities/Carson-City">Carson City</a></span>
-        </td>        
-        <td>54481     
-        </td>
-        <td>51.2% Male and 48.8% female
-        </td>
-        <td>42 years        
-        </td>
-        <td>19.8
-        </td>
-        <td>22.4 
-        </td>
-        <td> 3.19
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Nevada/cities/Pahrump">Pahrump</a></span>
         </td>        
         <td>34620     
@@ -270,6 +254,22 @@
         <td>13.5 
         </td>
         <td> 2.84
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Nevada/cities/Carson-City">Carson City</a></span>
+        </td>        
+        <td>54481     
+        </td>
+        <td>51.2% Male and 48.8% female
+        </td>
+        <td>42 years        
+        </td>
+        <td>19.8
+        </td>
+        <td>22.4 
+        </td>
+        <td> 3.19
         </td>        
          </tbody>
   </table>

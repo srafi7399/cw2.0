@@ -209,22 +209,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Pennsylvania/micros/Oil-City">Oil City</a></span>
-        </td>        
-        <td>54304     
-        </td>
-        <td>49% Male and 51% female
-        </td>
-        <td>45 years        
-        </td>
-        <td>15.2
-        </td>
-        <td>1 
-        </td>
-        <td> 2.86
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Pennsylvania/micros/Lewisburg">Lewisburg</a></span>
         </td>        
         <td>44967     
@@ -238,22 +222,6 @@
         <td>5.5 
         </td>
         <td> 2.95
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Pennsylvania/micros/Sayre">Sayre</a></span>
-        </td>        
-        <td>62704     
-        </td>
-        <td>49.5% Male and 50.5% female
-        </td>
-        <td>43.8 years        
-        </td>
-        <td>16.8
-        </td>
-        <td>1.4 
-        </td>
-        <td> 3.05
         </td>        
       <tr>       
         <td>        
@@ -273,6 +241,38 @@
         </td>        
       <tr>       
         <td>        
+          <span class="name"> <a href="/states/Pennsylvania/micros/Sunbury">Sunbury</a></span>
+        </td>        
+        <td>94366     
+        </td>
+        <td>50.7% Male and 49.3% female
+        </td>
+        <td>43.5 years        
+        </td>
+        <td>14.5
+        </td>
+        <td>2.7 
+        </td>
+        <td> 2.84
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Pennsylvania/micros/Oil-City">Oil City</a></span>
+        </td>        
+        <td>54304     
+        </td>
+        <td>49% Male and 51% female
+        </td>
+        <td>45 years        
+        </td>
+        <td>15.2
+        </td>
+        <td>1 
+        </td>
+        <td> 2.86
+        </td>        
+      <tr>       
+        <td>        
           <span class="name"> <a href="/states/Pennsylvania/micros/DuBois">DuBois</a></span>
         </td>        
         <td>81392     
@@ -289,19 +289,19 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Pennsylvania/micros/Sunbury">Sunbury</a></span>
+          <span class="name"> <a href="/states/Pennsylvania/micros/Sayre">Sayre</a></span>
         </td>        
-        <td>94366     
+        <td>62704     
         </td>
-        <td>50.7% Male and 49.3% female
+        <td>49.5% Male and 50.5% female
         </td>
-        <td>43.5 years        
+        <td>43.8 years        
         </td>
-        <td>14.5
+        <td>16.8
         </td>
-        <td>2.7 
+        <td>1.4 
         </td>
-        <td> 2.84
+        <td> 3.05
         </td>        
          </tbody>
   </table>

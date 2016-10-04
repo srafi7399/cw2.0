@@ -81,22 +81,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/West-Virginia/micros/Bluefield">Bluefield</a></span>
-        </td>        
-        <td>106637     
-        </td>
-        <td>48.7% Male and 51.3% female
-        </td>
-        <td>42.5 years        
-        </td>
-        <td>15.7
-        </td>
-        <td>0.9 
-        </td>
-        <td> 2.89
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/West-Virginia/micros/Clarksburg">Clarksburg</a></span>
         </td>        
         <td>94337     
@@ -110,6 +94,22 @@
         <td>1.2 
         </td>
         <td> 3
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/West-Virginia/micros/Bluefield">Bluefield</a></span>
+        </td>        
+        <td>106637     
+        </td>
+        <td>48.7% Male and 51.3% female
+        </td>
+        <td>42.5 years        
+        </td>
+        <td>15.7
+        </td>
+        <td>0.9 
+        </td>
+        <td> 2.89
         </td>        
          </tbody>
   </table>

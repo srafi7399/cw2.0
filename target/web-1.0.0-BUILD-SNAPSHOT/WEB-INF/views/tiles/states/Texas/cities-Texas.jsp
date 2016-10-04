@@ -1713,22 +1713,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Texas/cities/Killeen-city">Killeen city</a></span>
-        </td>        
-        <td>134483     
-        </td>
-        <td>49.3% Male and 50.7% female
-        </td>
-        <td>27.8 years        
-        </td>
-        <td>19.5
-        </td>
-        <td>25.1 
-        </td>
-        <td> 3.7
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Texas/cities/Kyle-city">Kyle city</a></span>
         </td>        
         <td>30681     
@@ -1745,131 +1729,51 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Texas/cities/The-Colony-city">The Colony city</a></span>
+          <span class="name"> <a href="/states/Texas/cities/Midland-city">Midland city</a></span>
         </td>        
-        <td>38569     
+        <td>119171     
         </td>
-        <td>50.4% Male and 49.6% female
+        <td>48.7% Male and 51.3% female
         </td>
-        <td>34.4 years        
+        <td>31.9 years        
         </td>
-        <td>32.5
+        <td>25.4
         </td>
-        <td>18.5 
+        <td>39.9 
         </td>
-        <td> 3.4
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Texas/cities/Colleyville-city">Colleyville city</a></span>
-        </td>        
-        <td>23936     
-        </td>
-        <td>49.3% Male and 50.7% female
-        </td>
-        <td>46.6 years        
-        </td>
-        <td>67.2
-        </td>
-        <td>8.2 
-        </td>
-        <td> 3.03
+        <td> 3.38
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Texas/cities/La-Porte-city">La Porte city</a></span>
+          <span class="name"> <a href="/states/Texas/cities/Socorro-city">Socorro city</a></span>
         </td>        
-        <td>34398     
+        <td>32518     
         </td>
-        <td>52% Male and 48% female
+        <td>49.8% Male and 50.2% female
         </td>
-        <td>35.4 years        
+        <td>31.3 years        
         </td>
-        <td>14.3
+        <td>6.7
         </td>
-        <td>31.1 
+        <td>96.1 
         </td>
-        <td> 3.35
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Texas/cities/San-Juan-city">San Juan city</a></span>
-        </td>        
-        <td>35157     
-        </td>
-        <td>48.5% Male and 51.5% female
-        </td>
-        <td>28.7 years        
-        </td>
-        <td>9.5
-        </td>
-        <td>98.5 
-        </td>
-        <td> 4.26
+        <td> 3.99
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Texas/cities/Atascocita">Atascocita</a></span>
+          <span class="name"> <a href="/states/Texas/cities/Laredo-city">Laredo city</a></span>
         </td>        
-        <td>68146     
+        <td>244586     
         </td>
-        <td>50.4% Male and 49.6% female
+        <td>48.7% Male and 51.3% female
         </td>
-        <td>32.3 years        
+        <td>28.6 years        
         </td>
-        <td>32.2
+        <td>16.8
         </td>
-        <td>20.9 
+        <td>95.2 
         </td>
-        <td> 3.53
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Texas/cities/The-Woodlands">The Woodlands</a></span>
-        </td>        
-        <td>105177     
-        </td>
-        <td>48.9% Male and 51.1% female
-        </td>
-        <td>38.6 years        
-        </td>
-        <td>59.8
-        </td>
-        <td>15.1 
-        </td>
-        <td> 3.31
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Texas/cities/Fort-Hood">Fort Hood</a></span>
-        </td>        
-        <td>31382     
-        </td>
-        <td>61.3% Male and 38.7% female
-        </td>
-        <td>22.1 years        
-        </td>
-        <td>13.1
-        </td>
-        <td>21 
-        </td>
-        <td> 4.18
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Texas/cities/Corsicana-city">Corsicana city</a></span>
-        </td>        
-        <td>23966     
-        </td>
-        <td>50.6% Male and 49.4% female
-        </td>
-        <td>33.4 years        
-        </td>
-        <td>15.7
-        </td>
-        <td>31.3 
-        </td>
-        <td> 3.41
+        <td> 4.16
         </td>        
       <tr>       
         <td>        
@@ -1889,6 +1793,102 @@
         </td>        
       <tr>       
         <td>        
+          <span class="name"> <a href="/states/Texas/cities/Atascocita">Atascocita</a></span>
+        </td>        
+        <td>68146     
+        </td>
+        <td>50.4% Male and 49.6% female
+        </td>
+        <td>32.3 years        
+        </td>
+        <td>32.2
+        </td>
+        <td>20.9 
+        </td>
+        <td> 3.53
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Texas/cities/La-Porte-city">La Porte city</a></span>
+        </td>        
+        <td>34398     
+        </td>
+        <td>52% Male and 48% female
+        </td>
+        <td>35.4 years        
+        </td>
+        <td>14.3
+        </td>
+        <td>31.1 
+        </td>
+        <td> 3.35
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Texas/cities/Colleyville-city">Colleyville city</a></span>
+        </td>        
+        <td>23936     
+        </td>
+        <td>49.3% Male and 50.7% female
+        </td>
+        <td>46.6 years        
+        </td>
+        <td>67.2
+        </td>
+        <td>8.2 
+        </td>
+        <td> 3.03
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Texas/cities/The-Woodlands">The Woodlands</a></span>
+        </td>        
+        <td>105177     
+        </td>
+        <td>48.9% Male and 51.1% female
+        </td>
+        <td>38.6 years        
+        </td>
+        <td>59.8
+        </td>
+        <td>15.1 
+        </td>
+        <td> 3.31
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Texas/cities/San-Juan-city">San Juan city</a></span>
+        </td>        
+        <td>35157     
+        </td>
+        <td>48.5% Male and 51.5% female
+        </td>
+        <td>28.7 years        
+        </td>
+        <td>9.5
+        </td>
+        <td>98.5 
+        </td>
+        <td> 4.26
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Texas/cities/Eagle-Pass-city">Eagle Pass city</a></span>
+        </td>        
+        <td>27364     
+        </td>
+        <td>49.6% Male and 50.4% female
+        </td>
+        <td>31.8 years        
+        </td>
+        <td>17.6
+        </td>
+        <td>95.3 
+        </td>
+        <td> 3.64
+        </td>        
+      <tr>       
+        <td>        
           <span class="name"> <a href="/states/Texas/cities/Plainview-city">Plainview city</a></span>
         </td>        
         <td>22094     
@@ -1905,19 +1905,147 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Texas/cities/Midland-city">Midland city</a></span>
+          <span class="name"> <a href="/states/Texas/cities/Farmers-Branch-city">Farmers Branch city</a></span>
         </td>        
-        <td>119171     
+        <td>30033     
         </td>
-        <td>48.7% Male and 51.3% female
+        <td>47.5% Male and 52.5% female
         </td>
-        <td>31.9 years        
+        <td>36.8 years        
         </td>
-        <td>25.4
+        <td>30.7
         </td>
-        <td>39.9 
+        <td>43.6 
         </td>
-        <td> 3.38
+        <td> 3.46
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Texas/cities/College-Station-city">College Station city</a></span>
+        </td>        
+        <td>97885     
+        </td>
+        <td>50.9% Male and 49.1% female
+        </td>
+        <td>22.5 years        
+        </td>
+        <td>53
+        </td>
+        <td>14.3 
+        </td>
+        <td> 3.08
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Texas/cities/Sugar-Land-city">Sugar Land city</a></span>
+        </td>        
+        <td>82204     
+        </td>
+        <td>48.9% Male and 51.1% female
+        </td>
+        <td>41.8 years        
+        </td>
+        <td>53.9
+        </td>
+        <td>10.7 
+        </td>
+        <td> 3.39
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Texas/cities/Southlake-city">Southlake city</a></span>
+        </td>        
+        <td>27584     
+        </td>
+        <td>50.3% Male and 49.7% female
+        </td>
+        <td>42.5 years        
+        </td>
+        <td>67.7
+        </td>
+        <td>7.3 
+        </td>
+        <td> 3.41
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Texas/cities/Lufkin-city">Lufkin city</a></span>
+        </td>        
+        <td>35833     
+        </td>
+        <td>48.9% Male and 51.1% female
+        </td>
+        <td>34.6 years        
+        </td>
+        <td>19.6
+        </td>
+        <td>24.5 
+        </td>
+        <td> 3.17
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Texas/cities/Hurst-city">Hurst city</a></span>
+        </td>        
+        <td>38133     
+        </td>
+        <td>49.9% Male and 50.1% female
+        </td>
+        <td>37.4 years        
+        </td>
+        <td>26.7
+        </td>
+        <td>21.8 
+        </td>
+        <td> 3.18
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Texas/cities/Killeen-city">Killeen city</a></span>
+        </td>        
+        <td>134483     
+        </td>
+        <td>49.3% Male and 50.7% female
+        </td>
+        <td>27.8 years        
+        </td>
+        <td>19.5
+        </td>
+        <td>25.1 
+        </td>
+        <td> 3.7
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Texas/cities/Saginaw-city">Saginaw city</a></span>
+        </td>        
+        <td>20839     
+        </td>
+        <td>51.3% Male and 48.7% female
+        </td>
+        <td>34.1 years        
+        </td>
+        <td>20.1
+        </td>
+        <td>19.9 
+        </td>
+        <td> 3.52
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Texas/cities/Fort-Hood">Fort Hood</a></span>
+        </td>        
+        <td>31382     
+        </td>
+        <td>61.3% Male and 38.7% female
+        </td>
+        <td>22.1 years        
+        </td>
+        <td>13.1
+        </td>
+        <td>21 
+        </td>
+        <td> 4.18
         </td>        
       <tr>       
         <td>        
@@ -1953,115 +2081,19 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Texas/cities/Saginaw-city">Saginaw city</a></span>
+          <span class="name"> <a href="/states/Texas/cities/Keller-city">Keller city</a></span>
         </td>        
-        <td>20839     
+        <td>41921     
         </td>
-        <td>51.3% Male and 48.7% female
+        <td>49.8% Male and 50.2% female
         </td>
-        <td>34.1 years        
+        <td>40 years        
         </td>
-        <td>20.1
-        </td>
-        <td>19.9 
-        </td>
-        <td> 3.52
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Texas/cities/Conroe-city">Conroe city</a></span>
-        </td>        
-        <td>61463     
-        </td>
-        <td>47.3% Male and 52.7% female
-        </td>
-        <td>32.5 years        
-        </td>
-        <td>19.6
-        </td>
-        <td>35.8 
-        </td>
-        <td> 3.41
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Texas/cities/Sugar-Land-city">Sugar Land city</a></span>
-        </td>        
-        <td>82204     
-        </td>
-        <td>48.9% Male and 51.1% female
-        </td>
-        <td>41.8 years        
-        </td>
-        <td>53.9
-        </td>
-        <td>10.7 
-        </td>
-        <td> 3.39
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Texas/cities/Hurst-city">Hurst city</a></span>
-        </td>        
-        <td>38133     
-        </td>
-        <td>49.9% Male and 50.1% female
-        </td>
-        <td>37.4 years        
-        </td>
-        <td>26.7
-        </td>
-        <td>21.8 
-        </td>
-        <td> 3.18
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Texas/cities/Southlake-city">Southlake city</a></span>
-        </td>        
-        <td>27584     
-        </td>
-        <td>50.3% Male and 49.7% female
-        </td>
-        <td>42.5 years        
-        </td>
-        <td>67.7
+        <td>57
         </td>
         <td>7.3 
         </td>
-        <td> 3.41
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Texas/cities/Deer-Park-city">Deer Park city</a></span>
-        </td>        
-        <td>32924     
-        </td>
-        <td>48.5% Male and 51.5% female
-        </td>
-        <td>34.6 years        
-        </td>
-        <td>18.7
-        </td>
-        <td>25.3 
-        </td>
-        <td> 3.22
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Texas/cities/Farmers-Branch-city">Farmers Branch city</a></span>
-        </td>        
-        <td>30033     
-        </td>
-        <td>47.5% Male and 52.5% female
-        </td>
-        <td>36.8 years        
-        </td>
-        <td>30.7
-        </td>
-        <td>43.6 
-        </td>
-        <td> 3.46
+        <td> 3.32
         </td>        
       <tr>       
         <td>        
@@ -2081,38 +2113,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Texas/cities/College-Station-city">College Station city</a></span>
-        </td>        
-        <td>97885     
-        </td>
-        <td>50.9% Male and 49.1% female
-        </td>
-        <td>22.5 years        
-        </td>
-        <td>53
-        </td>
-        <td>14.3 
-        </td>
-        <td> 3.08
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Texas/cities/Keller-city">Keller city</a></span>
-        </td>        
-        <td>41921     
-        </td>
-        <td>49.8% Male and 50.2% female
-        </td>
-        <td>40 years        
-        </td>
-        <td>57
-        </td>
-        <td>7.3 
-        </td>
-        <td> 3.32
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Texas/cities/El-Paso-city">El Paso city</a></span>
         </td>        
         <td>671058     
@@ -2129,67 +2129,67 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Texas/cities/Laredo-city">Laredo city</a></span>
+          <span class="name"> <a href="/states/Texas/cities/Corsicana-city">Corsicana city</a></span>
         </td>        
-        <td>244586     
+        <td>23966     
         </td>
-        <td>48.7% Male and 51.3% female
+        <td>50.6% Male and 49.4% female
         </td>
-        <td>28.6 years        
+        <td>33.4 years        
         </td>
-        <td>16.8
+        <td>15.7
         </td>
-        <td>95.2 
+        <td>31.3 
         </td>
-        <td> 4.16
+        <td> 3.41
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Texas/cities/Lufkin-city">Lufkin city</a></span>
+          <span class="name"> <a href="/states/Texas/cities/Conroe-city">Conroe city</a></span>
         </td>        
-        <td>35833     
+        <td>61463     
         </td>
-        <td>48.9% Male and 51.1% female
+        <td>47.3% Male and 52.7% female
         </td>
-        <td>34.6 years        
+        <td>32.5 years        
         </td>
         <td>19.6
         </td>
-        <td>24.5 
+        <td>35.8 
         </td>
-        <td> 3.17
+        <td> 3.41
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Texas/cities/Socorro-city">Socorro city</a></span>
+          <span class="name"> <a href="/states/Texas/cities/The-Colony-city">The Colony city</a></span>
         </td>        
-        <td>32518     
+        <td>38569     
         </td>
-        <td>49.8% Male and 50.2% female
+        <td>50.4% Male and 49.6% female
         </td>
-        <td>31.3 years        
+        <td>34.4 years        
         </td>
-        <td>6.7
+        <td>32.5
         </td>
-        <td>96.1 
+        <td>18.5 
         </td>
-        <td> 3.99
+        <td> 3.4
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Texas/cities/Eagle-Pass-city">Eagle Pass city</a></span>
+          <span class="name"> <a href="/states/Texas/cities/Deer-Park-city">Deer Park city</a></span>
         </td>        
-        <td>27364     
+        <td>32924     
         </td>
-        <td>49.6% Male and 50.4% female
+        <td>48.5% Male and 51.5% female
         </td>
-        <td>31.8 years        
+        <td>34.6 years        
         </td>
-        <td>17.6
+        <td>18.7
         </td>
-        <td>95.3 
+        <td>25.3 
         </td>
-        <td> 3.64
+        <td> 3.22
         </td>        
          </tbody>
   </table>

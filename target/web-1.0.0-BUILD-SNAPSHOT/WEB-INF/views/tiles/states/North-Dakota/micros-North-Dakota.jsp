@@ -97,22 +97,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/North-Dakota/micros/Dickinson">Dickinson</a></span>
-        </td>        
-        <td>26734     
-        </td>
-        <td>51.4% Male and 48.6% female
-        </td>
-        <td>36 years        
-        </td>
-        <td>24.8
-        </td>
-        <td>3.2 
-        </td>
-        <td> 3.01
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/North-Dakota/micros/Jamestown">Jamestown</a></span>
         </td>        
         <td>21035     
@@ -126,6 +110,22 @@
         <td>1.8 
         </td>
         <td> 2.68
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/North-Dakota/micros/Dickinson">Dickinson</a></span>
+        </td>        
+        <td>26734     
+        </td>
+        <td>51.4% Male and 48.6% female
+        </td>
+        <td>36 years        
+        </td>
+        <td>24.8
+        </td>
+        <td>3.2 
+        </td>
+        <td> 3.01
         </td>        
          </tbody>
   </table>

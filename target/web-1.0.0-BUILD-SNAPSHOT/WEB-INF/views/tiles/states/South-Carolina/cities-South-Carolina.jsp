@@ -337,22 +337,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/South-Carolina/cities/Greer-city">Greer city</a></span>
-        </td>        
-        <td>26009     
-        </td>
-        <td>48.2% Male and 51.8% female
-        </td>
-        <td>33.5 years        
-        </td>
-        <td>28.3
-        </td>
-        <td>17.7 
-        </td>
-        <td> 3.33
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/South-Carolina/cities/Mauldin-city">Mauldin city</a></span>
         </td>        
         <td>24036     
@@ -382,6 +366,22 @@
         <td>6.2 
         </td>
         <td> 2.99
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/South-Carolina/cities/Greer-city">Greer city</a></span>
+        </td>        
+        <td>26009     
+        </td>
+        <td>48.2% Male and 51.8% female
+        </td>
+        <td>33.5 years        
+        </td>
+        <td>28.3
+        </td>
+        <td>17.7 
+        </td>
+        <td> 3.33
         </td>        
          </tbody>
   </table>

@@ -417,22 +417,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Tennessee/cities/Shelbyville-city">Shelbyville city</a></span>
-        </td>        
-        <td>20614     
-        </td>
-        <td>49.9% Male and 50.1% female
-        </td>
-        <td>31.8 years        
-        </td>
-        <td>6.1
-        </td>
-        <td>20.9 
-        </td>
-        <td> 3.22
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Tennessee/cities/Spring-Hill-city">Spring Hill city</a></span>
         </td>        
         <td>30925     
@@ -465,19 +449,19 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Tennessee/cities/Germantown-city">Germantown city</a></span>
+          <span class="name"> <a href="/states/Tennessee/cities/Smyrna-town">Smyrna town</a></span>
         </td>        
-        <td>39311     
+        <td>41910     
         </td>
-        <td>50% Male and 50% female
+        <td>47.3% Male and 52.7% female
         </td>
-        <td>44.8 years        
+        <td>33 years        
         </td>
-        <td>65.1
+        <td>25.5
         </td>
-        <td>3.4 
+        <td>12.1 
         </td>
-        <td> 3.21
+        <td> 3.42
         </td>        
       <tr>       
         <td>        
@@ -497,35 +481,35 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Tennessee/cities/Smyrna-town">Smyrna town</a></span>
+          <span class="name"> <a href="/states/Tennessee/cities/Shelbyville-city">Shelbyville city</a></span>
         </td>        
-        <td>41910     
+        <td>20614     
         </td>
-        <td>47.3% Male and 52.7% female
+        <td>49.9% Male and 50.1% female
         </td>
-        <td>33 years        
+        <td>31.8 years        
         </td>
-        <td>25.5
+        <td>6.1
         </td>
-        <td>12.1 
+        <td>20.9 
         </td>
-        <td> 3.42
+        <td> 3.22
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Tennessee/cities/Bristol-city">Bristol city</a></span>
+          <span class="name"> <a href="/states/Tennessee/cities/Germantown-city">Germantown city</a></span>
         </td>        
-        <td>26677     
+        <td>39311     
         </td>
-        <td>49.4% Male and 50.6% female
+        <td>50% Male and 50% female
         </td>
-        <td>41.4 years        
+        <td>44.8 years        
         </td>
-        <td>22.5
+        <td>65.1
         </td>
-        <td>2.6 
+        <td>3.4 
         </td>
-        <td> 2.97
+        <td> 3.21
         </td>        
       <tr>       
         <td>        
@@ -542,6 +526,22 @@
         <td>6.2 
         </td>
         <td> 2.98
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Tennessee/cities/Bristol-city">Bristol city</a></span>
+        </td>        
+        <td>26677     
+        </td>
+        <td>49.4% Male and 50.6% female
+        </td>
+        <td>41.4 years        
+        </td>
+        <td>22.5
+        </td>
+        <td>2.6 
+        </td>
+        <td> 2.97
         </td>        
          </tbody>
   </table>

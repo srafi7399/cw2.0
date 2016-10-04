@@ -2289,246 +2289,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Florida/cities/Lehigh-Acres">Lehigh Acres</a></span>
-        </td>        
-        <td>107049     
-        </td>
-        <td>49.8% Male and 50.2% female
-        </td>
-        <td>33.1 years        
-        </td>
-        <td>12.6
-        </td>
-        <td>35.8 
-        </td>
-        <td> 3.91
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Florida/cities/Dania-Beach-city">Dania Beach city</a></span>
-        </td>        
-        <td>30445     
-        </td>
-        <td>48.2% Male and 51.8% female
-        </td>
-        <td>39.7 years        
-        </td>
-        <td>23.9
-        </td>
-        <td>24.7 
-        </td>
-        <td> 3.38
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Florida/cities/Sarasota-city">Sarasota city</a></span>
-        </td>        
-        <td>52888     
-        </td>
-        <td>48.8% Male and 51.2% female
-        </td>
-        <td>45.6 years        
-        </td>
-        <td>31.8
-        </td>
-        <td>18 
-        </td>
-        <td> 2.91
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Florida/cities/Panama-City-city">Panama City city</a></span>
-        </td>        
-        <td>36285     
-        </td>
-        <td>47.6% Male and 52.4% female
-        </td>
-        <td>38.1 years        
-        </td>
-        <td>21.7
-        </td>
-        <td>8.1 
-        </td>
-        <td> 3.2
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Florida/cities/Hallandale-Beach-city">Hallandale Beach city</a></span>
-        </td>        
-        <td>38252     
-        </td>
-        <td>47.2% Male and 52.8% female
-        </td>
-        <td>46.9 years        
-        </td>
-        <td>29.3
-        </td>
-        <td>30.7 
-        </td>
-        <td> 2.9
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Florida/cities/Cutler-Bay-town">Cutler Bay town</a></span>
-        </td>        
-        <td>42444     
-        </td>
-        <td>51.5% Male and 48.5% female
-        </td>
-        <td>35.1 years        
-        </td>
-        <td>28
-        </td>
-        <td>49.8 
-        </td>
-        <td> 3.84
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Florida/cities/Melbourne-city">Melbourne city</a></span>
-        </td>        
-        <td>77033     
-        </td>
-        <td>48.4% Male and 51.6% female
-        </td>
-        <td>45.6 years        
-        </td>
-        <td>24.1
-        </td>
-        <td>8.3 
-        </td>
-        <td> 3.11
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Florida/cities/Clearwater-city">Clearwater city</a></span>
-        </td>        
-        <td>108966     
-        </td>
-        <td>47.8% Male and 52.2% female
-        </td>
-        <td>44 years        
-        </td>
-        <td>26.9
-        </td>
-        <td>12.9 
-        </td>
-        <td> 3.02
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Florida/cities/Navarre">Navarre</a></span>
-        </td>        
-        <td>31426     
-        </td>
-        <td>49% Male and 51% female
-        </td>
-        <td>36 years        
-        </td>
-        <td>30.3
-        </td>
-        <td>5.3 
-        </td>
-        <td> 3
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Florida/cities/Westchase">Westchase</a></span>
-        </td>        
-        <td>22087     
-        </td>
-        <td>50.9% Male and 49.1% female
-        </td>
-        <td>37.3 years        
-        </td>
-        <td>59.4
-        </td>
-        <td>10.9 
-        </td>
-        <td> 3.22
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Florida/cities/Kendale-Lakes">Kendale Lakes</a></span>
-        </td>        
-        <td>59449     
-        </td>
-        <td>47.1% Male and 52.9% female
-        </td>
-        <td>41.3 years        
-        </td>
-        <td>24.5
-        </td>
-        <td>89.8 
-        </td>
-        <td> 3.65
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Florida/cities/Sunrise-city">Sunrise city</a></span>
-        </td>        
-        <td>88427     
-        </td>
-        <td>45% Male and 55% female
-        </td>
-        <td>39.3 years        
-        </td>
-        <td>24.2
-        </td>
-        <td>27.6 
-        </td>
-        <td> 3.44
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Florida/cities/Pensacola-city">Pensacola city</a></span>
-        </td>        
-        <td>52367     
-        </td>
-        <td>48.5% Male and 51.5% female
-        </td>
-        <td>41.2 years        
-        </td>
-        <td>33.6
-        </td>
-        <td>3.9 
-        </td>
-        <td> 3.25
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Florida/cities/Sanford-city">Sanford city</a></span>
-        </td>        
-        <td>54869     
-        </td>
-        <td>47.9% Male and 52.1% female
-        </td>
-        <td>32.9 years        
-        </td>
-        <td>22.1
-        </td>
-        <td>20.7 
-        </td>
-        <td> 3.87
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Florida/cities/North-Fort-Myers">North Fort Myers</a></span>
-        </td>        
-        <td>40735     
-        </td>
-        <td>46.9% Male and 53.1% female
-        </td>
-        <td>62.1 years        
-        </td>
-        <td>18.4
-        </td>
-        <td>7.3 
-        </td>
-        <td> 2.87
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Florida/cities/Tamiami">Tamiami</a></span>
         </td>        
         <td>54267     
@@ -2545,38 +2305,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Florida/cities/Kissimmee-city">Kissimmee city</a></span>
-        </td>        
-        <td>63317     
-        </td>
-        <td>49.3% Male and 50.7% female
-        </td>
-        <td>32.7 years        
-        </td>
-        <td>14.6
-        </td>
-        <td>63.1 
-        </td>
-        <td> 3.67
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Florida/cities/Lake-Worth-city">Lake Worth city</a></span>
-        </td>        
-        <td>35664     
-        </td>
-        <td>53.3% Male and 46.7% female
-        </td>
-        <td>35.5 years        
-        </td>
-        <td>19
-        </td>
-        <td>40.5 
-        </td>
-        <td> 3.63
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Florida/cities/Parkland-city">Parkland city</a></span>
         </td>        
         <td>25716     
@@ -2590,54 +2318,6 @@
         <td>15.3 
         </td>
         <td> 3.54
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Florida/cities/Clermont-city">Clermont city</a></span>
-        </td>        
-        <td>29561     
-        </td>
-        <td>49.5% Male and 50.5% female
-        </td>
-        <td>40.6 years        
-        </td>
-        <td>29.1
-        </td>
-        <td>19.8 
-        </td>
-        <td> 3.1
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Florida/cities/Margate-city">Margate city</a></span>
-        </td>        
-        <td>54881     
-        </td>
-        <td>48% Male and 52% female
-        </td>
-        <td>43.3 years        
-        </td>
-        <td>21.7
-        </td>
-        <td>22.9 
-        </td>
-        <td> 3.31
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Florida/cities/Davie-town">Davie town</a></span>
-        </td>        
-        <td>95340     
-        </td>
-        <td>48% Male and 52% female
-        </td>
-        <td>36.9 years        
-        </td>
-        <td>34
-        </td>
-        <td>32.8 
-        </td>
-        <td> 3.44
         </td>        
       <tr>       
         <td>        
@@ -2673,6 +2353,38 @@
         </td>        
       <tr>       
         <td>        
+          <span class="name"> <a href="/states/Florida/cities/Cutler-Bay-town">Cutler Bay town</a></span>
+        </td>        
+        <td>42444     
+        </td>
+        <td>51.5% Male and 48.5% female
+        </td>
+        <td>35.1 years        
+        </td>
+        <td>28
+        </td>
+        <td>49.8 
+        </td>
+        <td> 3.84
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Florida/cities/Northdale">Northdale</a></span>
+        </td>        
+        <td>20831     
+        </td>
+        <td>46.2% Male and 53.8% female
+        </td>
+        <td>39.3 years        
+        </td>
+        <td>38.6
+        </td>
+        <td>27.1 
+        </td>
+        <td> 3.09
+        </td>        
+      <tr>       
+        <td>        
           <span class="name"> <a href="/states/Florida/cities/Haines-City-city">Haines City city</a></span>
         </td>        
         <td>21135     
@@ -2689,19 +2401,19 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Florida/cities/Ferry-Pass">Ferry Pass</a></span>
+          <span class="name"> <a href="/states/Florida/cities/Dania-Beach-city">Dania Beach city</a></span>
         </td>        
-        <td>29747     
+        <td>30445     
         </td>
-        <td>44.3% Male and 55.7% female
+        <td>48.2% Male and 51.8% female
         </td>
-        <td>35.5 years        
+        <td>39.7 years        
         </td>
-        <td>29.2
+        <td>23.9
         </td>
-        <td>5.5 
+        <td>24.7 
         </td>
-        <td> 3.06
+        <td> 3.38
         </td>        
       <tr>       
         <td>        
@@ -2721,83 +2433,19 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Florida/cities/Cape-Coral-city">Cape Coral city</a></span>
+          <span class="name"> <a href="/states/Florida/cities/Navarre">Navarre</a></span>
         </td>        
-        <td>161692     
+        <td>31426     
         </td>
-        <td>48.9% Male and 51.1% female
+        <td>49% Male and 51% female
         </td>
-        <td>43 years        
+        <td>36 years        
         </td>
-        <td>20.6
+        <td>30.3
         </td>
-        <td>19.1 
+        <td>5.3 
         </td>
-        <td> 3.36
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Florida/cities/South-Bradenton">South Bradenton</a></span>
-        </td>        
-        <td>22283     
-        </td>
-        <td>50% Male and 50% female
-        </td>
-        <td>48 years        
-        </td>
-        <td>13.1
-        </td>
-        <td>15.3 
-        </td>
-        <td> 2.98
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Florida/cities/Fruit-Cove">Fruit Cove</a></span>
-        </td>        
-        <td>27783     
-        </td>
-        <td>48.1% Male and 51.9% female
-        </td>
-        <td>43.2 years        
-        </td>
-        <td>47.2
-        </td>
-        <td>8.6 
-        </td>
-        <td> 3.2
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Florida/cities/Aventura-city">Aventura city</a></span>
-        </td>        
-        <td>36981     
-        </td>
-        <td>46.8% Male and 53.2% female
-        </td>
-        <td>46 years        
-        </td>
-        <td>48.8
-        </td>
-        <td>33.1 
-        </td>
-        <td> 2.77
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Florida/cities/Northdale">Northdale</a></span>
-        </td>        
-        <td>20831     
-        </td>
-        <td>46.2% Male and 53.8% female
-        </td>
-        <td>39.3 years        
-        </td>
-        <td>38.6
-        </td>
-        <td>27.1 
-        </td>
-        <td> 3.09
+        <td> 3
         </td>        
       <tr>       
         <td>        
@@ -2833,6 +2481,86 @@
         </td>        
       <tr>       
         <td>        
+          <span class="name"> <a href="/states/Florida/cities/Cape-Coral-city">Cape Coral city</a></span>
+        </td>        
+        <td>161692     
+        </td>
+        <td>48.9% Male and 51.1% female
+        </td>
+        <td>43 years        
+        </td>
+        <td>20.6
+        </td>
+        <td>19.1 
+        </td>
+        <td> 3.36
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Florida/cities/Kendale-Lakes">Kendale Lakes</a></span>
+        </td>        
+        <td>59449     
+        </td>
+        <td>47.1% Male and 52.9% female
+        </td>
+        <td>41.3 years        
+        </td>
+        <td>24.5
+        </td>
+        <td>89.8 
+        </td>
+        <td> 3.65
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Florida/cities/Margate-city">Margate city</a></span>
+        </td>        
+        <td>54881     
+        </td>
+        <td>48% Male and 52% female
+        </td>
+        <td>43.3 years        
+        </td>
+        <td>21.7
+        </td>
+        <td>22.9 
+        </td>
+        <td> 3.31
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Florida/cities/Lehigh-Acres">Lehigh Acres</a></span>
+        </td>        
+        <td>107049     
+        </td>
+        <td>49.8% Male and 50.2% female
+        </td>
+        <td>33.1 years        
+        </td>
+        <td>12.6
+        </td>
+        <td>35.8 
+        </td>
+        <td> 3.91
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Florida/cities/Aventura-city">Aventura city</a></span>
+        </td>        
+        <td>36981     
+        </td>
+        <td>46.8% Male and 53.2% female
+        </td>
+        <td>46 years        
+        </td>
+        <td>48.8
+        </td>
+        <td>33.1 
+        </td>
+        <td> 2.77
+        </td>        
+      <tr>       
+        <td>        
           <span class="name"> <a href="/states/Florida/cities/Altamonte-Springs-city">Altamonte Springs city</a></span>
         </td>        
         <td>41920     
@@ -2846,6 +2574,278 @@
         <td>23.8 
         </td>
         <td> 3.51
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Florida/cities/South-Bradenton">South Bradenton</a></span>
+        </td>        
+        <td>22283     
+        </td>
+        <td>50% Male and 50% female
+        </td>
+        <td>48 years        
+        </td>
+        <td>13.1
+        </td>
+        <td>15.3 
+        </td>
+        <td> 2.98
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Florida/cities/Pensacola-city">Pensacola city</a></span>
+        </td>        
+        <td>52367     
+        </td>
+        <td>48.5% Male and 51.5% female
+        </td>
+        <td>41.2 years        
+        </td>
+        <td>33.6
+        </td>
+        <td>3.9 
+        </td>
+        <td> 3.25
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Florida/cities/Davie-town">Davie town</a></span>
+        </td>        
+        <td>95340     
+        </td>
+        <td>48% Male and 52% female
+        </td>
+        <td>36.9 years        
+        </td>
+        <td>34
+        </td>
+        <td>32.8 
+        </td>
+        <td> 3.44
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Florida/cities/Lake-Worth-city">Lake Worth city</a></span>
+        </td>        
+        <td>35664     
+        </td>
+        <td>53.3% Male and 46.7% female
+        </td>
+        <td>35.5 years        
+        </td>
+        <td>19
+        </td>
+        <td>40.5 
+        </td>
+        <td> 3.63
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Florida/cities/Sunrise-city">Sunrise city</a></span>
+        </td>        
+        <td>88427     
+        </td>
+        <td>45% Male and 55% female
+        </td>
+        <td>39.3 years        
+        </td>
+        <td>24.2
+        </td>
+        <td>27.6 
+        </td>
+        <td> 3.44
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Florida/cities/Hallandale-Beach-city">Hallandale Beach city</a></span>
+        </td>        
+        <td>38252     
+        </td>
+        <td>47.2% Male and 52.8% female
+        </td>
+        <td>46.9 years        
+        </td>
+        <td>29.3
+        </td>
+        <td>30.7 
+        </td>
+        <td> 2.9
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Florida/cities/North-Fort-Myers">North Fort Myers</a></span>
+        </td>        
+        <td>40735     
+        </td>
+        <td>46.9% Male and 53.1% female
+        </td>
+        <td>62.1 years        
+        </td>
+        <td>18.4
+        </td>
+        <td>7.3 
+        </td>
+        <td> 2.87
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Florida/cities/Fruit-Cove">Fruit Cove</a></span>
+        </td>        
+        <td>27783     
+        </td>
+        <td>48.1% Male and 51.9% female
+        </td>
+        <td>43.2 years        
+        </td>
+        <td>47.2
+        </td>
+        <td>8.6 
+        </td>
+        <td> 3.2
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Florida/cities/Westchase">Westchase</a></span>
+        </td>        
+        <td>22087     
+        </td>
+        <td>50.9% Male and 49.1% female
+        </td>
+        <td>37.3 years        
+        </td>
+        <td>59.4
+        </td>
+        <td>10.9 
+        </td>
+        <td> 3.22
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Florida/cities/Ferry-Pass">Ferry Pass</a></span>
+        </td>        
+        <td>29747     
+        </td>
+        <td>44.3% Male and 55.7% female
+        </td>
+        <td>35.5 years        
+        </td>
+        <td>29.2
+        </td>
+        <td>5.5 
+        </td>
+        <td> 3.06
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Florida/cities/Sarasota-city">Sarasota city</a></span>
+        </td>        
+        <td>52888     
+        </td>
+        <td>48.8% Male and 51.2% female
+        </td>
+        <td>45.6 years        
+        </td>
+        <td>31.8
+        </td>
+        <td>18 
+        </td>
+        <td> 2.91
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Florida/cities/Kissimmee-city">Kissimmee city</a></span>
+        </td>        
+        <td>63317     
+        </td>
+        <td>49.3% Male and 50.7% female
+        </td>
+        <td>32.7 years        
+        </td>
+        <td>14.6
+        </td>
+        <td>63.1 
+        </td>
+        <td> 3.67
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Florida/cities/Sanford-city">Sanford city</a></span>
+        </td>        
+        <td>54869     
+        </td>
+        <td>47.9% Male and 52.1% female
+        </td>
+        <td>32.9 years        
+        </td>
+        <td>22.1
+        </td>
+        <td>20.7 
+        </td>
+        <td> 3.87
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Florida/cities/Panama-City-city">Panama City city</a></span>
+        </td>        
+        <td>36285     
+        </td>
+        <td>47.6% Male and 52.4% female
+        </td>
+        <td>38.1 years        
+        </td>
+        <td>21.7
+        </td>
+        <td>8.1 
+        </td>
+        <td> 3.2
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Florida/cities/Clearwater-city">Clearwater city</a></span>
+        </td>        
+        <td>108966     
+        </td>
+        <td>47.8% Male and 52.2% female
+        </td>
+        <td>44 years        
+        </td>
+        <td>26.9
+        </td>
+        <td>12.9 
+        </td>
+        <td> 3.02
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Florida/cities/Melbourne-city">Melbourne city</a></span>
+        </td>        
+        <td>77033     
+        </td>
+        <td>48.4% Male and 51.6% female
+        </td>
+        <td>45.6 years        
+        </td>
+        <td>24.1
+        </td>
+        <td>8.3 
+        </td>
+        <td> 3.11
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Florida/cities/Clermont-city">Clermont city</a></span>
+        </td>        
+        <td>29561     
+        </td>
+        <td>49.5% Male and 50.5% female
+        </td>
+        <td>40.6 years        
+        </td>
+        <td>29.1
+        </td>
+        <td>19.8 
+        </td>
+        <td> 3.1
         </td>        
          </tbody>
   </table>

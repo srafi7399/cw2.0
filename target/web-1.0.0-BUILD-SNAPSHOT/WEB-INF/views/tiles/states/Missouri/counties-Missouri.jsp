@@ -785,38 +785,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Missouri/counties/Washington-County">Washington County</a></span>
-        </td>        
-        <td>25131     
-        </td>
-        <td>51.1% Male and 48.9% female
-        </td>
-        <td>40 years        
-        </td>
-        <td>7.4
-        </td>
-        <td>0.7 
-        </td>
-        <td> 3.21
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Missouri/counties/Vernon-County">Vernon County</a></span>
-        </td>        
-        <td>20911     
-        </td>
-        <td>48.3% Male and 51.7% female
-        </td>
-        <td>40.5 years        
-        </td>
-        <td>13.1
-        </td>
-        <td>1.8 
-        </td>
-        <td> 3.03
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Missouri/counties/Taney-County">Taney County</a></span>
         </td>        
         <td>53114     
@@ -830,54 +798,6 @@
         <td>5.2 
         </td>
         <td> 2.97
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Missouri/counties/Scott-County">Scott County</a></span>
-        </td>        
-        <td>39215     
-        </td>
-        <td>49.1% Male and 50.9% female
-        </td>
-        <td>39.6 years        
-        </td>
-        <td>14.2
-        </td>
-        <td>2 
-        </td>
-        <td> 3.02
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Missouri/counties/Texas-County">Texas County</a></span>
-        </td>        
-        <td>25778     
-        </td>
-        <td>51.7% Male and 48.3% female
-        </td>
-        <td>42 years        
-        </td>
-        <td>11
-        </td>
-        <td>1.9 
-        </td>
-        <td> 3.2
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Missouri/counties/Stone-County">Stone County</a></span>
-        </td>        
-        <td>31607     
-        </td>
-        <td>49% Male and 51% female
-        </td>
-        <td>50.7 years        
-        </td>
-        <td>15.2
-        </td>
-        <td>1.9 
-        </td>
-        <td> 2.95
         </td>        
       <tr>       
         <td>        
@@ -913,6 +833,22 @@
         </td>        
       <tr>       
         <td>        
+          <span class="name"> <a href="/states/Missouri/counties/Texas-County">Texas County</a></span>
+        </td>        
+        <td>25778     
+        </td>
+        <td>51.7% Male and 48.3% female
+        </td>
+        <td>42 years        
+        </td>
+        <td>11
+        </td>
+        <td>1.9 
+        </td>
+        <td> 3.2
+        </td>        
+      <tr>       
+        <td>        
           <span class="name"> <a href="/states/Missouri/counties/Warren-County">Warren County</a></span>
         </td>        
         <td>32812     
@@ -926,6 +862,70 @@
         <td>3.1 
         </td>
         <td> 3.07
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Missouri/counties/Stone-County">Stone County</a></span>
+        </td>        
+        <td>31607     
+        </td>
+        <td>49% Male and 51% female
+        </td>
+        <td>50.7 years        
+        </td>
+        <td>15.2
+        </td>
+        <td>1.9 
+        </td>
+        <td> 2.95
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Missouri/counties/Washington-County">Washington County</a></span>
+        </td>        
+        <td>25131     
+        </td>
+        <td>51.1% Male and 48.9% female
+        </td>
+        <td>40 years        
+        </td>
+        <td>7.4
+        </td>
+        <td>0.7 
+        </td>
+        <td> 3.21
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Missouri/counties/Scott-County">Scott County</a></span>
+        </td>        
+        <td>39215     
+        </td>
+        <td>49.1% Male and 50.9% female
+        </td>
+        <td>39.6 years        
+        </td>
+        <td>14.2
+        </td>
+        <td>2 
+        </td>
+        <td> 3.02
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Missouri/counties/Vernon-County">Vernon County</a></span>
+        </td>        
+        <td>20911     
+        </td>
+        <td>48.3% Male and 51.7% female
+        </td>
+        <td>40.5 years        
+        </td>
+        <td>13.1
+        </td>
+        <td>1.8 
+        </td>
+        <td> 3.03
         </td>        
          </tbody>
   </table>

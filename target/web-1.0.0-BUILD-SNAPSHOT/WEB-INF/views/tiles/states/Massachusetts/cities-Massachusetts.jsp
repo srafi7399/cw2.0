@@ -945,70 +945,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Massachusetts/cities/Woburn-city">Woburn city</a></span>
-        </td>        
-        <td>38824     
-        </td>
-        <td>50.1% Male and 49.9% female
-        </td>
-        <td>39 years        
-        </td>
-        <td>34.2
-        </td>
-        <td>3 
-        </td>
-        <td> 3.31
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Massachusetts/cities/Newton-city">Newton city</a></span>
-        </td>        
-        <td>87018     
-        </td>
-        <td>47.2% Male and 52.8% female
-        </td>
-        <td>40.1 years        
-        </td>
-        <td>76.6
-        </td>
-        <td>4.9 
-        </td>
-        <td> 3.04
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Massachusetts/cities/Needham">Needham</a></span>
-        </td>        
-        <td>29425     
-        </td>
-        <td>49.2% Male and 50.8% female
-        </td>
-        <td>42.4 years        
-        </td>
-        <td>75.3
-        </td>
-        <td>2.5 
-        </td>
-        <td> 3.29
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Massachusetts/cities/Salem-city">Salem city</a></span>
-        </td>        
-        <td>42239     
-        </td>
-        <td>46.1% Male and 53.9% female
-        </td>
-        <td>38.2 years        
-        </td>
-        <td>37.5
-        </td>
-        <td>14.6 
-        </td>
-        <td> 2.84
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Massachusetts/cities/Watertown-Town-city">Watertown Town city</a></span>
         </td>        
         <td>32669     
@@ -1041,35 +977,35 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Massachusetts/cities/Lexington">Lexington</a></span>
+          <span class="name"> <a href="/states/Massachusetts/cities/Salem-city">Salem city</a></span>
         </td>        
-        <td>32236     
+        <td>42239     
         </td>
-        <td>47.9% Male and 52.1% female
+        <td>46.1% Male and 53.9% female
         </td>
-        <td>45.7 years        
+        <td>38.2 years        
         </td>
-        <td>76.1
+        <td>37.5
         </td>
-        <td>1.9 
+        <td>14.6 
         </td>
-        <td> 3.21
+        <td> 2.84
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Massachusetts/cities/Brockton-city">Brockton city</a></span>
+          <span class="name"> <a href="/states/Massachusetts/cities/Newton-city">Newton city</a></span>
         </td>        
-        <td>93971     
+        <td>87018     
         </td>
-        <td>48% Male and 52% female
+        <td>47.2% Male and 52.8% female
         </td>
-        <td>36.1 years        
+        <td>40.1 years        
         </td>
-        <td>17.8
+        <td>76.6
         </td>
-        <td>8.9 
+        <td>4.9 
         </td>
-        <td> 3.47
+        <td> 3.04
         </td>        
       <tr>       
         <td>        
@@ -1102,6 +1038,70 @@
         <td>9.3 
         </td>
         <td> 3.15
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Massachusetts/cities/Woburn-city">Woburn city</a></span>
+        </td>        
+        <td>38824     
+        </td>
+        <td>50.1% Male and 49.9% female
+        </td>
+        <td>39 years        
+        </td>
+        <td>34.2
+        </td>
+        <td>3 
+        </td>
+        <td> 3.31
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Massachusetts/cities/Needham">Needham</a></span>
+        </td>        
+        <td>29425     
+        </td>
+        <td>49.2% Male and 50.8% female
+        </td>
+        <td>42.4 years        
+        </td>
+        <td>75.3
+        </td>
+        <td>2.5 
+        </td>
+        <td> 3.29
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Massachusetts/cities/Brockton-city">Brockton city</a></span>
+        </td>        
+        <td>93971     
+        </td>
+        <td>48% Male and 52% female
+        </td>
+        <td>36.1 years        
+        </td>
+        <td>17.8
+        </td>
+        <td>8.9 
+        </td>
+        <td> 3.47
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Massachusetts/cities/Lexington">Lexington</a></span>
+        </td>        
+        <td>32236     
+        </td>
+        <td>47.9% Male and 52.1% female
+        </td>
+        <td>45.7 years        
+        </td>
+        <td>76.1
+        </td>
+        <td>1.9 
+        </td>
+        <td> 3.21
         </td>        
          </tbody>
   </table>

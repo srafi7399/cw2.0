@@ -113,22 +113,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/New-Hampshire/cities/Portsmouth-city">Portsmouth city</a></span>
-        </td>        
-        <td>21373     
-        </td>
-        <td>48.5% Male and 51.5% female
-        </td>
-        <td>41.4 years        
-        </td>
-        <td>57.7
-        </td>
-        <td>3.1 
-        </td>
-        <td> 2.78
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/New-Hampshire/cities/Rochester-city">Rochester city</a></span>
         </td>        
         <td>29826     
@@ -142,6 +126,22 @@
         <td>2 
         </td>
         <td> 2.79
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/New-Hampshire/cities/Dover-city">Dover city</a></span>
+        </td>        
+        <td>30385     
+        </td>
+        <td>49% Male and 51% female
+        </td>
+        <td>37.3 years        
+        </td>
+        <td>36.6
+        </td>
+        <td>1.8 
+        </td>
+        <td> 2.92
         </td>        
       <tr>       
         <td>        
@@ -161,19 +161,19 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/New-Hampshire/cities/Dover-city">Dover city</a></span>
+          <span class="name"> <a href="/states/New-Hampshire/cities/Portsmouth-city">Portsmouth city</a></span>
         </td>        
-        <td>30385     
+        <td>21373     
         </td>
-        <td>49% Male and 51% female
+        <td>48.5% Male and 51.5% female
         </td>
-        <td>37.3 years        
+        <td>41.4 years        
         </td>
-        <td>36.6
+        <td>57.7
         </td>
-        <td>1.8 
+        <td>3.1 
         </td>
-        <td> 2.92
+        <td> 2.78
         </td>        
          </tbody>
   </table>

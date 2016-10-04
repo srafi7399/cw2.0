@@ -657,19 +657,19 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Georgia/cities/Hinesville-city">Hinesville city</a></span>
+          <span class="name"> <a href="/states/Georgia/cities/Carrollton-city">Carrollton city</a></span>
         </td>        
-        <td>34517     
+        <td>24885     
         </td>
-        <td>48.4% Male and 51.6% female
+        <td>46.3% Male and 53.7% female
         </td>
-        <td>26.8 years        
+        <td>26 years        
         </td>
-        <td>20.7
+        <td>28.8
         </td>
-        <td>12.7 
+        <td>13.8 
         </td>
-        <td> 3.14
+        <td> 3.31
         </td>        
       <tr>       
         <td>        
@@ -689,35 +689,19 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Georgia/cities/Carrollton-city">Carrollton city</a></span>
+          <span class="name"> <a href="/states/Georgia/cities/Hinesville-city">Hinesville city</a></span>
         </td>        
-        <td>24885     
+        <td>34517     
         </td>
-        <td>46.3% Male and 53.7% female
+        <td>48.4% Male and 51.6% female
         </td>
-        <td>26 years        
+        <td>26.8 years        
         </td>
-        <td>28.8
+        <td>20.7
         </td>
-        <td>13.8 
+        <td>12.7 
         </td>
-        <td> 3.31
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Georgia/cities/Peachtree-City-city">Peachtree City city</a></span>
-        </td>        
-        <td>34733     
-        </td>
-        <td>48.5% Male and 51.5% female
-        </td>
-        <td>42 years        
-        </td>
-        <td>54.3
-        </td>
-        <td>6.5 
-        </td>
-        <td> 3.29
+        <td> 3.14
         </td>        
       <tr>       
         <td>        
@@ -734,6 +718,22 @@
         <td>1.5 
         </td>
         <td> 3.6
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Georgia/cities/Peachtree-City-city">Peachtree City city</a></span>
+        </td>        
+        <td>34733     
+        </td>
+        <td>48.5% Male and 51.5% female
+        </td>
+        <td>42 years        
+        </td>
+        <td>54.3
+        </td>
+        <td>6.5 
+        </td>
+        <td> 3.29
         </td>        
          </tbody>
   </table>

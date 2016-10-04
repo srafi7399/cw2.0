@@ -641,6 +641,22 @@
         </td>        
       <tr>       
         <td>        
+          <span class="name"> <a href="/states/Michigan/counties/Wayne-County">Wayne County</a></span>
+        </td>        
+        <td>1789819     
+        </td>
+        <td>48.1% Male and 51.9% female
+        </td>
+        <td>37.8 years        
+        </td>
+        <td>21.5
+        </td>
+        <td>5.4 
+        </td>
+        <td> 3.44
+        </td>        
+      <tr>       
+        <td>        
           <span class="name"> <a href="/states/Michigan/counties/Mecosta-County">Mecosta County</a></span>
         </td>        
         <td>43198     
@@ -657,99 +673,35 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Michigan/counties/Monroe-County">Monroe County</a></span>
+          <span class="name"> <a href="/states/Michigan/counties/Oceana-County">Oceana County</a></span>
         </td>        
-        <td>150944     
+        <td>26327     
         </td>
-        <td>49.1% Male and 50.9% female
+        <td>50% Male and 50% female
         </td>
-        <td>41.4 years        
+        <td>42.3 years        
         </td>
-        <td>18.3
+        <td>15.4
         </td>
-        <td>3.2 
+        <td>14.1 
         </td>
-        <td> 3.06
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Michigan/counties/Marquette-County">Marquette County</a></span>
-        </td>        
-        <td>67643     
-        </td>
-        <td>50.5% Male and 49.5% female
-        </td>
-        <td>39.3 years        
-        </td>
-        <td>27.8
-        </td>
-        <td>1.3 
-        </td>
-        <td> 2.98
+        <td> 3.19
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Michigan/counties/Saginaw-County">Saginaw County</a></span>
+          <span class="name"> <a href="/states/Michigan/counties/Newaygo-County">Newaygo County</a></span>
         </td>        
-        <td>197832     
+        <td>48123     
         </td>
-        <td>48.5% Male and 51.5% female
+        <td>50.4% Male and 49.6% female
         </td>
-        <td>40.2 years        
+        <td>42.2 years        
         </td>
-        <td>19.4
+        <td>13
         </td>
-        <td>8 
+        <td>5.7 
         </td>
         <td> 3.1
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Michigan/counties/Sanilac-County">Sanilac County</a></span>
-        </td>        
-        <td>42272     
-        </td>
-        <td>49.4% Male and 50.6% female
-        </td>
-        <td>43.9 years        
-        </td>
-        <td>11.2
-        </td>
-        <td>3.6 
-        </td>
-        <td> 3.29
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Michigan/counties/Oakland-County">Oakland County</a></span>
-        </td>        
-        <td>1221103     
-        </td>
-        <td>48.5% Male and 51.5% female
-        </td>
-        <td>40.7 years        
-        </td>
-        <td>43.4
-        </td>
-        <td>3.6 
-        </td>
-        <td> 3.09
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Michigan/counties/Ottawa-County">Ottawa County</a></span>
-        </td>        
-        <td>269384     
-        </td>
-        <td>49.2% Male and 50.8% female
-        </td>
-        <td>34.7 years        
-        </td>
-        <td>29.9
-        </td>
-        <td>9.1 
-        </td>
-        <td> 3.16
         </td>        
       <tr>       
         <td>        
@@ -769,6 +721,22 @@
         </td>        
       <tr>       
         <td>        
+          <span class="name"> <a href="/states/Michigan/counties/Van-Buren-County">Van Buren County</a></span>
+        </td>        
+        <td>75582     
+        </td>
+        <td>49.2% Male and 50.8% female
+        </td>
+        <td>40.6 years        
+        </td>
+        <td>18.7
+        </td>
+        <td>10.6 
+        </td>
+        <td> 3.15
+        </td>        
+      <tr>       
+        <td>        
           <span class="name"> <a href="/states/Michigan/counties/St-Clair-County">St. Clair County</a></span>
         </td>        
         <td>160878     
@@ -785,17 +753,209 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Michigan/counties/Tuscola-County">Tuscola County</a></span>
+          <span class="name"> <a href="/states/Michigan/counties/Monroe-County">Monroe County</a></span>
         </td>        
-        <td>54760     
+        <td>150944     
+        </td>
+        <td>49.1% Male and 50.9% female
+        </td>
+        <td>41.4 years        
+        </td>
+        <td>18.3
+        </td>
+        <td>3.2 
+        </td>
+        <td> 3.06
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Michigan/counties/Ottawa-County">Ottawa County</a></span>
+        </td>        
+        <td>269384     
+        </td>
+        <td>49.2% Male and 50.8% female
+        </td>
+        <td>34.7 years        
+        </td>
+        <td>29.9
+        </td>
+        <td>9.1 
+        </td>
+        <td> 3.16
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Michigan/counties/Oakland-County">Oakland County</a></span>
+        </td>        
+        <td>1221103     
+        </td>
+        <td>48.5% Male and 51.5% female
+        </td>
+        <td>40.7 years        
+        </td>
+        <td>43.4
+        </td>
+        <td>3.6 
+        </td>
+        <td> 3.09
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Michigan/counties/Shiawassee-County">Shiawassee County</a></span>
+        </td>        
+        <td>69400     
+        </td>
+        <td>49.3% Male and 50.7% female
+        </td>
+        <td>41.3 years        
+        </td>
+        <td>14.7
+        </td>
+        <td>2.6 
+        </td>
+        <td> 2.93
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Michigan/counties/Otsego-County">Otsego County</a></span>
+        </td>        
+        <td>24097     
+        </td>
+        <td>49.2% Male and 50.8% female
+        </td>
+        <td>44.3 years        
+        </td>
+        <td>19.9
+        </td>
+        <td>1.4 
+        </td>
+        <td> 2.79
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Michigan/counties/Sanilac-County">Sanilac County</a></span>
+        </td>        
+        <td>42272     
+        </td>
+        <td>49.4% Male and 50.6% female
+        </td>
+        <td>43.9 years        
+        </td>
+        <td>11.2
+        </td>
+        <td>3.6 
+        </td>
+        <td> 3.29
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Michigan/counties/Midland-County">Midland County</a></span>
+        </td>        
+        <td>83971     
+        </td>
+        <td>49.1% Male and 50.9% female
+        </td>
+        <td>40.8 years        
+        </td>
+        <td>32.2
+        </td>
+        <td>2.3 
+        </td>
+        <td> 2.98
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Michigan/counties/Marquette-County">Marquette County</a></span>
+        </td>        
+        <td>67643     
+        </td>
+        <td>50.5% Male and 49.5% female
+        </td>
+        <td>39.3 years        
+        </td>
+        <td>27.8
+        </td>
+        <td>1.3 
+        </td>
+        <td> 2.98
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Michigan/counties/Menominee-County">Menominee County</a></span>
+        </td>        
+        <td>23830     
+        </td>
+        <td>50.5% Male and 49.5% female
+        </td>
+        <td>47.3 years        
+        </td>
+        <td>15
+        </td>
+        <td>1.4 
+        </td>
+        <td> 2.75
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Michigan/counties/Muskegon-County">Muskegon County</a></span>
+        </td>        
+        <td>170362     
+        </td>
+        <td>49.4% Male and 50.6% female
+        </td>
+        <td>39 years        
+        </td>
+        <td>17.5
+        </td>
+        <td>5.1 
+        </td>
+        <td> 3.08
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Michigan/counties/Manistee-County">Manistee County</a></span>
+        </td>        
+        <td>24589     
+        </td>
+        <td>52% Male and 48% female
+        </td>
+        <td>48 years        
+        </td>
+        <td>19.5
+        </td>
+        <td>2.8 
+        </td>
+        <td> 2.67
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Michigan/counties/Washtenaw-County">Washtenaw County</a></span>
+        </td>        
+        <td>351345     
+        </td>
+        <td>49.3% Male and 50.7% female
+        </td>
+        <td>33.4 years        
+        </td>
+        <td>51.5
+        </td>
+        <td>4.3 
+        </td>
+        <td> 3.08
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Michigan/counties/Osceola-County">Osceola County</a></span>
+        </td>        
+        <td>23329     
         </td>
         <td>50.2% Male and 49.8% female
         </td>
-        <td>42.7 years        
+        <td>42.1 years        
         </td>
-        <td>13
+        <td>13.6
         </td>
-        <td>3 
+        <td>1.6 
         </td>
         <td> 3.06
         </td>        
@@ -833,177 +993,33 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Michigan/counties/Menominee-County">Menominee County</a></span>
+          <span class="name"> <a href="/states/Michigan/counties/Saginaw-County">Saginaw County</a></span>
         </td>        
-        <td>23830     
+        <td>197832     
         </td>
-        <td>50.5% Male and 49.5% female
+        <td>48.5% Male and 51.5% female
         </td>
-        <td>47.3 years        
+        <td>40.2 years        
         </td>
-        <td>15
+        <td>19.4
         </td>
-        <td>1.4 
-        </td>
-        <td> 2.75
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Michigan/counties/Midland-County">Midland County</a></span>
-        </td>        
-        <td>83971     
-        </td>
-        <td>49.1% Male and 50.9% female
-        </td>
-        <td>40.8 years        
-        </td>
-        <td>32.2
-        </td>
-        <td>2.3 
-        </td>
-        <td> 2.98
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Michigan/counties/Oceana-County">Oceana County</a></span>
-        </td>        
-        <td>26327     
-        </td>
-        <td>50% Male and 50% female
-        </td>
-        <td>42.3 years        
-        </td>
-        <td>15.4
-        </td>
-        <td>14.1 
-        </td>
-        <td> 3.19
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Michigan/counties/Manistee-County">Manistee County</a></span>
-        </td>        
-        <td>24589     
-        </td>
-        <td>52% Male and 48% female
-        </td>
-        <td>48 years        
-        </td>
-        <td>19.5
-        </td>
-        <td>2.8 
-        </td>
-        <td> 2.67
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Michigan/counties/Newaygo-County">Newaygo County</a></span>
-        </td>        
-        <td>48123     
-        </td>
-        <td>50.4% Male and 49.6% female
-        </td>
-        <td>42.2 years        
-        </td>
-        <td>13
-        </td>
-        <td>5.7 
+        <td>8 
         </td>
         <td> 3.1
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Michigan/counties/Shiawassee-County">Shiawassee County</a></span>
+          <span class="name"> <a href="/states/Michigan/counties/Tuscola-County">Tuscola County</a></span>
         </td>        
-        <td>69400     
-        </td>
-        <td>49.3% Male and 50.7% female
-        </td>
-        <td>41.3 years        
-        </td>
-        <td>14.7
-        </td>
-        <td>2.6 
-        </td>
-        <td> 2.93
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Michigan/counties/St-Joseph-County">St. Joseph County</a></span>
-        </td>        
-        <td>60958     
-        </td>
-        <td>49.3% Male and 50.7% female
-        </td>
-        <td>38.6 years        
-        </td>
-        <td>14.3
-        </td>
-        <td>6.9 
-        </td>
-        <td> 3.17
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Michigan/counties/Roscommon-County">Roscommon County</a></span>
-        </td>        
-        <td>24154     
-        </td>
-        <td>49.6% Male and 50.4% female
-        </td>
-        <td>54.6 years        
-        </td>
-        <td>13.1
-        </td>
-        <td>1.3 
-        </td>
-        <td> 2.58
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Michigan/counties/Muskegon-County">Muskegon County</a></span>
-        </td>        
-        <td>170362     
-        </td>
-        <td>49.4% Male and 50.6% female
-        </td>
-        <td>39 years        
-        </td>
-        <td>17.5
-        </td>
-        <td>5.1 
-        </td>
-        <td> 3.08
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Michigan/counties/Otsego-County">Otsego County</a></span>
-        </td>        
-        <td>24097     
-        </td>
-        <td>49.2% Male and 50.8% female
-        </td>
-        <td>44.3 years        
-        </td>
-        <td>19.9
-        </td>
-        <td>1.4 
-        </td>
-        <td> 2.79
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Michigan/counties/Osceola-County">Osceola County</a></span>
-        </td>        
-        <td>23329     
+        <td>54760     
         </td>
         <td>50.2% Male and 49.8% female
         </td>
-        <td>42.1 years        
+        <td>42.7 years        
         </td>
-        <td>13.6
+        <td>13
         </td>
-        <td>1.6 
+        <td>3 
         </td>
         <td> 3.06
         </td>        
@@ -1025,51 +1041,35 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Michigan/counties/Van-Buren-County">Van Buren County</a></span>
+          <span class="name"> <a href="/states/Michigan/counties/Roscommon-County">Roscommon County</a></span>
         </td>        
-        <td>75582     
+        <td>24154     
         </td>
-        <td>49.2% Male and 50.8% female
+        <td>49.6% Male and 50.4% female
         </td>
-        <td>40.6 years        
+        <td>54.6 years        
         </td>
-        <td>18.7
+        <td>13.1
         </td>
-        <td>10.6 
+        <td>1.3 
         </td>
-        <td> 3.15
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Michigan/counties/Wayne-County">Wayne County</a></span>
-        </td>        
-        <td>1789819     
-        </td>
-        <td>48.1% Male and 51.9% female
-        </td>
-        <td>37.8 years        
-        </td>
-        <td>21.5
-        </td>
-        <td>5.4 
-        </td>
-        <td> 3.44
+        <td> 2.58
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Michigan/counties/Washtenaw-County">Washtenaw County</a></span>
+          <span class="name"> <a href="/states/Michigan/counties/St-Joseph-County">St. Joseph County</a></span>
         </td>        
-        <td>351345     
+        <td>60958     
         </td>
         <td>49.3% Male and 50.7% female
         </td>
-        <td>33.4 years        
+        <td>38.6 years        
         </td>
-        <td>51.5
+        <td>14.3
         </td>
-        <td>4.3 
+        <td>6.9 
         </td>
-        <td> 3.08
+        <td> 3.17
         </td>        
          </tbody>
   </table>

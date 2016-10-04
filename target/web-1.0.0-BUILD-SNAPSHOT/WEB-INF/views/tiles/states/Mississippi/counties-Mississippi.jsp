@@ -337,211 +337,19 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Mississippi/counties/Madison-County">Madison County</a></span>
+          <span class="name"> <a href="/states/Mississippi/counties/Covington-County">Covington County</a></span>
         </td>        
-        <td>98696     
+        <td>19496     
         </td>
-        <td>47.9% Male and 52.1% female
-        </td>
-        <td>36.8 years        
-        </td>
-        <td>47.3
-        </td>
-        <td>2.9 
-        </td>
-        <td> 3.22
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Mississippi/counties/George-County">George County</a></span>
-        </td>        
-        <td>22950     
-        </td>
-        <td>50.9% Male and 49.1% female
-        </td>
-        <td>37.8 years        
-        </td>
-        <td>11.4
-        </td>
-        <td>0.9 
-        </td>
-        <td> 3.52
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Mississippi/counties/Leflore-County">Leflore County</a></span>
-        </td>        
-        <td>31707     
-        </td>
-        <td>48.2% Male and 51.8% female
-        </td>
-        <td>32.4 years        
-        </td>
-        <td>19.1
-        </td>
-        <td>2.4 
-        </td>
-        <td> 3.57
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Mississippi/counties/Copiah-County">Copiah County</a></span>
-        </td>        
-        <td>29040     
-        </td>
-        <td>48.2% Male and 51.8% female
-        </td>
-        <td>38.2 years        
-        </td>
-        <td>13.5
-        </td>
-        <td>2.8 
-        </td>
-        <td> 3.7
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Mississippi/counties/Neshoba-County">Neshoba County</a></span>
-        </td>        
-        <td>29639     
-        </td>
-        <td>48.4% Male and 51.6% female
-        </td>
-        <td>35.6 years        
-        </td>
-        <td>13.6
-        </td>
-        <td>1.8 
-        </td>
-        <td> 3.3
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Mississippi/counties/Hinds-County">Hinds County</a></span>
-        </td>        
-        <td>247117     
-        </td>
-        <td>47% Male and 53% female
-        </td>
-        <td>33.4 years        
-        </td>
-        <td>27.3
-        </td>
-        <td>1.5 
-        </td>
-        <td> 3.42
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Mississippi/counties/Jones-County">Jones County</a></span>
-        </td>        
-        <td>68514     
-        </td>
-        <td>48.6% Male and 51.4% female
-        </td>
-        <td>36.9 years        
-        </td>
-        <td>17.3
-        </td>
-        <td>4.4 
-        </td>
-        <td> 3.23
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Mississippi/counties/Itawamba-County">Itawamba County</a></span>
-        </td>        
-        <td>23369     
-        </td>
-        <td>49.2% Male and 50.8% female
-        </td>
-        <td>39.6 years        
-        </td>
-        <td>14.4
-        </td>
-        <td>0.6 
-        </td>
-        <td> 3.1
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Mississippi/counties/Lincoln-County">Lincoln County</a></span>
-        </td>        
-        <td>34863     
-        </td>
-        <td>48.6% Male and 51.4% female
-        </td>
-        <td>37.9 years        
-        </td>
-        <td>14.8
-        </td>
-        <td>1.2 
-        </td>
-        <td> 3.14
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Mississippi/counties/DeSoto-County">DeSoto County</a></span>
-        </td>        
-        <td>166132     
-        </td>
-        <td>48.5% Male and 51.5% female
-        </td>
-        <td>35.8 years        
-        </td>
-        <td>22
-        </td>
-        <td>4.9 
-        </td>
-        <td> 3.26
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Mississippi/counties/Adams-County">Adams County</a></span>
-        </td>        
-        <td>32215     
-        </td>
-        <td>49.9% Male and 50.1% female
+        <td>46% Male and 54% female
         </td>
         <td>40.6 years        
         </td>
-        <td>17.2
+        <td>14.6
         </td>
-        <td>7.5 
+        <td>2.6 
         </td>
-        <td> 3.35
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Mississippi/counties/Lauderdale-County">Lauderdale County</a></span>
-        </td>        
-        <td>80361     
-        </td>
-        <td>48.5% Male and 51.5% female
-        </td>
-        <td>37.4 years        
-        </td>
-        <td>19.2
-        </td>
-        <td>1.9 
-        </td>
-        <td> 3.15
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Mississippi/counties/Marshall-County">Marshall County</a></span>
-        </td>        
-        <td>36602     
-        </td>
-        <td>49.4% Male and 50.6% female
-        </td>
-        <td>40.3 years        
-        </td>
-        <td>11.9
-        </td>
-        <td>3.3 
-        </td>
-        <td> 3.2
+        <td> 3.24
         </td>        
       <tr>       
         <td>        
@@ -561,19 +369,163 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Mississippi/counties/Forrest-County">Forrest County</a></span>
+          <span class="name"> <a href="/states/Mississippi/counties/Marshall-County">Marshall County</a></span>
         </td>        
-        <td>76670     
+        <td>36602     
+        </td>
+        <td>49.4% Male and 50.6% female
+        </td>
+        <td>40.3 years        
+        </td>
+        <td>11.9
+        </td>
+        <td>3.3 
+        </td>
+        <td> 3.2
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Mississippi/counties/George-County">George County</a></span>
+        </td>        
+        <td>22950     
+        </td>
+        <td>50.9% Male and 49.1% female
+        </td>
+        <td>37.8 years        
+        </td>
+        <td>11.4
+        </td>
+        <td>0.9 
+        </td>
+        <td> 3.52
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Mississippi/counties/Adams-County">Adams County</a></span>
+        </td>        
+        <td>32215     
+        </td>
+        <td>49.9% Male and 50.1% female
+        </td>
+        <td>40.6 years        
+        </td>
+        <td>17.2
+        </td>
+        <td>7.5 
+        </td>
+        <td> 3.35
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Mississippi/counties/Alcorn-County">Alcorn County</a></span>
+        </td>        
+        <td>37272     
+        </td>
+        <td>49% Male and 51% female
+        </td>
+        <td>40.7 years        
+        </td>
+        <td>17.4
+        </td>
+        <td>2.8 
+        </td>
+        <td> 2.97
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Mississippi/counties/Leake-County">Leake County</a></span>
+        </td>        
+        <td>23340     
+        </td>
+        <td>50.2% Male and 49.8% female
+        </td>
+        <td>34.1 years        
+        </td>
+        <td>10.5
+        </td>
+        <td>4.3 
+        </td>
+        <td> 3.28
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Mississippi/counties/Copiah-County">Copiah County</a></span>
+        </td>        
+        <td>29040     
+        </td>
+        <td>48.2% Male and 51.8% female
+        </td>
+        <td>38.2 years        
+        </td>
+        <td>13.5
+        </td>
+        <td>2.8 
+        </td>
+        <td> 3.7
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Mississippi/counties/Lincoln-County">Lincoln County</a></span>
+        </td>        
+        <td>34863     
+        </td>
+        <td>48.6% Male and 51.4% female
+        </td>
+        <td>37.9 years        
+        </td>
+        <td>14.8
+        </td>
+        <td>1.2 
+        </td>
+        <td> 3.14
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Mississippi/counties/Bolivar-County">Bolivar County</a></span>
+        </td>        
+        <td>33988     
+        </td>
+        <td>47% Male and 53% female
+        </td>
+        <td>34.5 years        
+        </td>
+        <td>21.9
+        </td>
+        <td>2.1 
+        </td>
+        <td> 3.41
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Mississippi/counties/Lee-County">Lee County</a></span>
+        </td>        
+        <td>84800     
         </td>
         <td>47.6% Male and 52.4% female
         </td>
-        <td>31.2 years        
+        <td>36.4 years        
         </td>
-        <td>27.2
+        <td>21.9
         </td>
-        <td>3.4 
+        <td>2.4 
         </td>
-        <td> 3.28
+        <td> 3.15
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Mississippi/counties/Jones-County">Jones County</a></span>
+        </td>        
+        <td>68514     
+        </td>
+        <td>48.6% Male and 51.4% female
+        </td>
+        <td>36.9 years        
+        </td>
+        <td>17.3
+        </td>
+        <td>4.4 
+        </td>
+        <td> 3.23
         </td>        
       <tr>       
         <td>        
@@ -593,19 +545,19 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Mississippi/counties/Grenada-County">Grenada County</a></span>
+          <span class="name"> <a href="/states/Mississippi/counties/Jackson-County">Jackson County</a></span>
         </td>        
-        <td>21608     
+        <td>140231     
         </td>
-        <td>47.3% Male and 52.7% female
+        <td>49.2% Male and 50.8% female
         </td>
-        <td>40.3 years        
+        <td>37.3 years        
         </td>
-        <td>13
+        <td>19.8
         </td>
-        <td>0 
+        <td>5 
         </td>
-        <td> 4.11
+        <td> 3.38
         </td>        
       <tr>       
         <td>        
@@ -625,6 +577,86 @@
         </td>        
       <tr>       
         <td>        
+          <span class="name"> <a href="/states/Mississippi/counties/Madison-County">Madison County</a></span>
+        </td>        
+        <td>98696     
+        </td>
+        <td>47.9% Male and 52.1% female
+        </td>
+        <td>36.8 years        
+        </td>
+        <td>47.3
+        </td>
+        <td>2.9 
+        </td>
+        <td> 3.22
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Mississippi/counties/Lauderdale-County">Lauderdale County</a></span>
+        </td>        
+        <td>80361     
+        </td>
+        <td>48.5% Male and 51.5% female
+        </td>
+        <td>37.4 years        
+        </td>
+        <td>19.2
+        </td>
+        <td>1.9 
+        </td>
+        <td> 3.15
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Mississippi/counties/DeSoto-County">DeSoto County</a></span>
+        </td>        
+        <td>166132     
+        </td>
+        <td>48.5% Male and 51.5% female
+        </td>
+        <td>35.8 years        
+        </td>
+        <td>22
+        </td>
+        <td>4.9 
+        </td>
+        <td> 3.26
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Mississippi/counties/Harrison-County">Harrison County</a></span>
+        </td>        
+        <td>193684     
+        </td>
+        <td>49.7% Male and 50.3% female
+        </td>
+        <td>35.3 years        
+        </td>
+        <td>20.2
+        </td>
+        <td>5.4 
+        </td>
+        <td> 3.14
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Mississippi/counties/Lowndes-County">Lowndes County</a></span>
+        </td>        
+        <td>59749     
+        </td>
+        <td>47.7% Male and 52.3% female
+        </td>
+        <td>35.9 years        
+        </td>
+        <td>20.3
+        </td>
+        <td>1.7 
+        </td>
+        <td> 3.13
+        </td>        
+      <tr>       
+        <td>        
           <span class="name"> <a href="/states/Mississippi/counties/Marion-County">Marion County</a></span>
         </td>        
         <td>26443     
@@ -638,6 +670,86 @@
         <td>1.4 
         </td>
         <td> 3.04
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Mississippi/counties/Hinds-County">Hinds County</a></span>
+        </td>        
+        <td>247117     
+        </td>
+        <td>47% Male and 53% female
+        </td>
+        <td>33.4 years        
+        </td>
+        <td>27.3
+        </td>
+        <td>1.5 
+        </td>
+        <td> 3.42
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Mississippi/counties/Forrest-County">Forrest County</a></span>
+        </td>        
+        <td>76670     
+        </td>
+        <td>47.6% Male and 52.4% female
+        </td>
+        <td>31.2 years        
+        </td>
+        <td>27.2
+        </td>
+        <td>3.4 
+        </td>
+        <td> 3.28
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Mississippi/counties/Monroe-County">Monroe County</a></span>
+        </td>        
+        <td>36370     
+        </td>
+        <td>47.7% Male and 52.3% female
+        </td>
+        <td>40.5 years        
+        </td>
+        <td>13
+        </td>
+        <td>1 
+        </td>
+        <td> 3.16
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Mississippi/counties/Neshoba-County">Neshoba County</a></span>
+        </td>        
+        <td>29639     
+        </td>
+        <td>48.4% Male and 51.6% female
+        </td>
+        <td>35.6 years        
+        </td>
+        <td>13.6
+        </td>
+        <td>1.8 
+        </td>
+        <td> 3.3
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Mississippi/counties/Leflore-County">Leflore County</a></span>
+        </td>        
+        <td>31707     
+        </td>
+        <td>48.2% Male and 51.8% female
+        </td>
+        <td>32.4 years        
+        </td>
+        <td>19.1
+        </td>
+        <td>2.4 
+        </td>
+        <td> 3.57
         </td>        
       <tr>       
         <td>        
@@ -673,147 +785,35 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Mississippi/counties/Lowndes-County">Lowndes County</a></span>
+          <span class="name"> <a href="/states/Mississippi/counties/Grenada-County">Grenada County</a></span>
         </td>        
-        <td>59749     
+        <td>21608     
         </td>
-        <td>47.7% Male and 52.3% female
+        <td>47.3% Male and 52.7% female
         </td>
-        <td>35.9 years        
-        </td>
-        <td>20.3
-        </td>
-        <td>1.7 
-        </td>
-        <td> 3.13
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Mississippi/counties/Monroe-County">Monroe County</a></span>
-        </td>        
-        <td>36370     
-        </td>
-        <td>47.7% Male and 52.3% female
-        </td>
-        <td>40.5 years        
+        <td>40.3 years        
         </td>
         <td>13
         </td>
-        <td>1 
+        <td>0 
         </td>
-        <td> 3.16
+        <td> 4.11
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Mississippi/counties/Jackson-County">Jackson County</a></span>
+          <span class="name"> <a href="/states/Mississippi/counties/Itawamba-County">Itawamba County</a></span>
         </td>        
-        <td>140231     
+        <td>23369     
         </td>
         <td>49.2% Male and 50.8% female
         </td>
-        <td>37.3 years        
+        <td>39.6 years        
         </td>
-        <td>19.8
+        <td>14.4
         </td>
-        <td>5 
+        <td>0.6 
         </td>
-        <td> 3.38
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Mississippi/counties/Leake-County">Leake County</a></span>
-        </td>        
-        <td>23340     
-        </td>
-        <td>50.2% Male and 49.8% female
-        </td>
-        <td>34.1 years        
-        </td>
-        <td>10.5
-        </td>
-        <td>4.3 
-        </td>
-        <td> 3.28
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Mississippi/counties/Alcorn-County">Alcorn County</a></span>
-        </td>        
-        <td>37272     
-        </td>
-        <td>49% Male and 51% female
-        </td>
-        <td>40.7 years        
-        </td>
-        <td>17.4
-        </td>
-        <td>2.8 
-        </td>
-        <td> 2.97
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Mississippi/counties/Bolivar-County">Bolivar County</a></span>
-        </td>        
-        <td>33988     
-        </td>
-        <td>47% Male and 53% female
-        </td>
-        <td>34.5 years        
-        </td>
-        <td>21.9
-        </td>
-        <td>2.1 
-        </td>
-        <td> 3.41
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Mississippi/counties/Harrison-County">Harrison County</a></span>
-        </td>        
-        <td>193684     
-        </td>
-        <td>49.7% Male and 50.3% female
-        </td>
-        <td>35.3 years        
-        </td>
-        <td>20.2
-        </td>
-        <td>5.4 
-        </td>
-        <td> 3.14
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Mississippi/counties/Lee-County">Lee County</a></span>
-        </td>        
-        <td>84800     
-        </td>
-        <td>47.6% Male and 52.4% female
-        </td>
-        <td>36.4 years        
-        </td>
-        <td>21.9
-        </td>
-        <td>2.4 
-        </td>
-        <td> 3.15
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Mississippi/counties/Covington-County">Covington County</a></span>
-        </td>        
-        <td>19496     
-        </td>
-        <td>46% Male and 54% female
-        </td>
-        <td>40.6 years        
-        </td>
-        <td>14.6
-        </td>
-        <td>2.6 
-        </td>
-        <td> 3.24
+        <td> 3.1
         </td>        
          </tbody>
   </table>

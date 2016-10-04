@@ -929,22 +929,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Illinois/counties/Winnebago-County">Winnebago County</a></span>
-        </td>        
-        <td>292054     
-        </td>
-        <td>48.8% Male and 51.2% female
-        </td>
-        <td>38.9 years        
-        </td>
-        <td>21.4
-        </td>
-        <td>11.5 
-        </td>
-        <td> 3.14
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Illinois/counties/Woodford-County">Woodford County</a></span>
         </td>        
         <td>39063     
@@ -958,6 +942,22 @@
         <td>1.6 
         </td>
         <td> 3.08
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Illinois/counties/Winnebago-County">Winnebago County</a></span>
+        </td>        
+        <td>292054     
+        </td>
+        <td>48.8% Male and 51.2% female
+        </td>
+        <td>38.9 years        
+        </td>
+        <td>21.4
+        </td>
+        <td>11.5 
+        </td>
+        <td> 3.14
         </td>        
          </tbody>
   </table>

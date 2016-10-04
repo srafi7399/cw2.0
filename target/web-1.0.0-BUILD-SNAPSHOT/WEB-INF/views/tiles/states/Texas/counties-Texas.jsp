@@ -1441,38 +1441,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Texas/counties/Lubbock-County">Lubbock County</a></span>
-        </td>        
-        <td>286228     
-        </td>
-        <td>49.4% Male and 50.6% female
-        </td>
-        <td>30.7 years        
-        </td>
-        <td>27.6
-        </td>
-        <td>32.9 
-        </td>
-        <td> 3.21
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Texas/counties/Rockwall-County">Rockwall County</a></span>
-        </td>        
-        <td>83152     
-        </td>
-        <td>49.3% Male and 50.7% female
-        </td>
-        <td>36.2 years        
-        </td>
-        <td>35.4
-        </td>
-        <td>16.5 
-        </td>
-        <td> 3.32
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Texas/counties/Uvalde-County">Uvalde County</a></span>
         </td>        
         <td>26737     
@@ -1486,102 +1454,6 @@
         <td>69.9 
         </td>
         <td> 3.82
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Texas/counties/Milam-County">Milam County</a></span>
-        </td>        
-        <td>24316     
-        </td>
-        <td>47.9% Male and 52.1% female
-        </td>
-        <td>41.4 years        
-        </td>
-        <td>16.9
-        </td>
-        <td>24.4 
-        </td>
-        <td> 3.35
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Texas/counties/Maverick-County">Maverick County</a></span>
-        </td>        
-        <td>55496     
-        </td>
-        <td>49.2% Male and 50.8% female
-        </td>
-        <td>29.9 years        
-        </td>
-        <td>11.6
-        </td>
-        <td>95.2 
-        </td>
-        <td> 3.9
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Texas/counties/Polk-County">Polk County</a></span>
-        </td>        
-        <td>45711     
-        </td>
-        <td>53.3% Male and 46.7% female
-        </td>
-        <td>43.1 years        
-        </td>
-        <td>12.1
-        </td>
-        <td>13.8 
-        </td>
-        <td> 2.88
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Texas/counties/Upshur-County">Upshur County</a></span>
-        </td>        
-        <td>39907     
-        </td>
-        <td>49.8% Male and 50.2% female
-        </td>
-        <td>40.6 years        
-        </td>
-        <td>12.6
-        </td>
-        <td>7.1 
-        </td>
-        <td> 3.29
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Texas/counties/Midland-County">Midland County</a></span>
-        </td>        
-        <td>146085     
-        </td>
-        <td>49.6% Male and 50.4% female
-        </td>
-        <td>32.4 years        
-        </td>
-        <td>25.4
-        </td>
-        <td>39.9 
-        </td>
-        <td> 3.37
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Texas/counties/Panola-County">Panola County</a></span>
-        </td>        
-        <td>23974     
-        </td>
-        <td>48.7% Male and 51.3% female
-        </td>
-        <td>37.8 years        
-        </td>
-        <td>12.8
-        </td>
-        <td>8.6 
-        </td>
-        <td> 3.13
         </td>        
       <tr>       
         <td>        
@@ -1601,54 +1473,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Texas/counties/Tarrant-County">Tarrant County</a></span>
-        </td>        
-        <td>1880361     
-        </td>
-        <td>49.1% Male and 50.9% female
-        </td>
-        <td>33.7 years        
-        </td>
-        <td>29.7
-        </td>
-        <td>27.3 
-        </td>
-        <td> 3.41
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Texas/counties/Nueces-County">Nueces County</a></span>
-        </td>        
-        <td>347585     
-        </td>
-        <td>49.2% Male and 50.8% female
-        </td>
-        <td>35 years        
-        </td>
-        <td>19.9
-        </td>
-        <td>61.6 
-        </td>
-        <td> 3.3
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Texas/counties/Matagorda-County">Matagorda County</a></span>
-        </td>        
-        <td>36630     
-        </td>
-        <td>49.1% Male and 50.9% female
-        </td>
-        <td>37.4 years        
-        </td>
-        <td>16.1
-        </td>
-        <td>39.5 
-        </td>
-        <td> 3.4
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Texas/counties/Randall-County">Randall County</a></span>
         </td>        
         <td>125013     
@@ -1662,38 +1486,6 @@
         <td>18 
         </td>
         <td> 3.04
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Texas/counties/Navarro-County">Navarro County</a></span>
-        </td>        
-        <td>48024     
-        </td>
-        <td>49.8% Male and 50.2% female
-        </td>
-        <td>37.1 years        
-        </td>
-        <td>15.7
-        </td>
-        <td>24.8 
-        </td>
-        <td> 3.29
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Texas/counties/Nacogdoches-County">Nacogdoches County</a></span>
-        </td>        
-        <td>65586     
-        </td>
-        <td>47.9% Male and 52.1% female
-        </td>
-        <td>29.8 years        
-        </td>
-        <td>24.9
-        </td>
-        <td>18.3 
-        </td>
-        <td> 3.27
         </td>        
       <tr>       
         <td>        
@@ -1713,54 +1505,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Texas/counties/McLennan-County">McLennan County</a></span>
-        </td>        
-        <td>239642     
-        </td>
-        <td>48.7% Male and 51.3% female
-        </td>
-        <td>32.9 years        
-        </td>
-        <td>22.1
-        </td>
-        <td>24.4 
-        </td>
-        <td> 3.26
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Texas/counties/Van-Zandt-County">Van Zandt County</a></span>
-        </td>        
-        <td>52518     
-        </td>
-        <td>49.3% Male and 50.7% female
-        </td>
-        <td>43.3 years        
-        </td>
-        <td>14
-        </td>
-        <td>9.7 
-        </td>
-        <td> 3.35
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Texas/counties/Victoria-County">Victoria County</a></span>
-        </td>        
-        <td>88949     
-        </td>
-        <td>48.8% Male and 51.2% female
-        </td>
-        <td>36.1 years        
-        </td>
-        <td>15.8
-        </td>
-        <td>44.5 
-        </td>
-        <td> 3.23
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Texas/counties/Moore-County">Moore County</a></span>
         </td>        
         <td>22193     
@@ -1777,35 +1521,67 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Texas/counties/Parker-County">Parker County</a></span>
+          <span class="name"> <a href="/states/Texas/counties/Val-Verde-County">Val Verde County</a></span>
         </td>        
-        <td>119771     
+        <td>48728     
         </td>
-        <td>50.3% Male and 49.7% female
+        <td>50.8% Male and 49.2% female
         </td>
-        <td>39 years        
+        <td>31.6 years        
         </td>
-        <td>25.9
+        <td>15.8
         </td>
-        <td>11.1 
+        <td>80.2 
         </td>
-        <td> 3.19
+        <td> 3.66
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Texas/counties/Medina-County">Medina County</a></span>
+          <span class="name"> <a href="/states/Texas/counties/Orange-County">Orange County</a></span>
         </td>        
-        <td>46933     
+        <td>82762     
         </td>
-        <td>51.8% Male and 48.2% female
+        <td>49.6% Male and 50.4% female
         </td>
-        <td>37.6 years        
+        <td>38.9 years        
         </td>
-        <td>19.6
+        <td>13.6
         </td>
-        <td>50.4 
+        <td>6.5 
         </td>
-        <td> 3.33
+        <td> 3.15
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Texas/counties/Panola-County">Panola County</a></span>
+        </td>        
+        <td>23974     
+        </td>
+        <td>48.7% Male and 51.3% female
+        </td>
+        <td>37.8 years        
+        </td>
+        <td>12.8
+        </td>
+        <td>8.6 
+        </td>
+        <td> 3.13
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Texas/counties/Upshur-County">Upshur County</a></span>
+        </td>        
+        <td>39907     
+        </td>
+        <td>49.8% Male and 50.2% female
+        </td>
+        <td>40.6 years        
+        </td>
+        <td>12.6
+        </td>
+        <td>7.1 
+        </td>
+        <td> 3.29
         </td>        
       <tr>       
         <td>        
@@ -1825,6 +1601,22 @@
         </td>        
       <tr>       
         <td>        
+          <span class="name"> <a href="/states/Texas/counties/Victoria-County">Victoria County</a></span>
+        </td>        
+        <td>88949     
+        </td>
+        <td>48.8% Male and 51.2% female
+        </td>
+        <td>36.1 years        
+        </td>
+        <td>15.8
+        </td>
+        <td>44.5 
+        </td>
+        <td> 3.23
+        </td>        
+      <tr>       
+        <td>        
           <span class="name"> <a href="/states/Texas/counties/Starr-County">Starr County</a></span>
         </td>        
         <td>61737     
@@ -1838,6 +1630,70 @@
         <td>98.5 
         </td>
         <td> 4.28
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Texas/counties/Tarrant-County">Tarrant County</a></span>
+        </td>        
+        <td>1880361     
+        </td>
+        <td>49.1% Male and 50.9% female
+        </td>
+        <td>33.7 years        
+        </td>
+        <td>29.7
+        </td>
+        <td>27.3 
+        </td>
+        <td> 3.41
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Texas/counties/Midland-County">Midland County</a></span>
+        </td>        
+        <td>146085     
+        </td>
+        <td>49.6% Male and 50.4% female
+        </td>
+        <td>32.4 years        
+        </td>
+        <td>25.4
+        </td>
+        <td>39.9 
+        </td>
+        <td> 3.37
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Texas/counties/Medina-County">Medina County</a></span>
+        </td>        
+        <td>46933     
+        </td>
+        <td>51.8% Male and 48.2% female
+        </td>
+        <td>37.6 years        
+        </td>
+        <td>19.6
+        </td>
+        <td>50.4 
+        </td>
+        <td> 3.33
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Texas/counties/Parker-County">Parker County</a></span>
+        </td>        
+        <td>119771     
+        </td>
+        <td>50.3% Male and 49.7% female
+        </td>
+        <td>39 years        
+        </td>
+        <td>25.9
+        </td>
+        <td>11.1 
+        </td>
+        <td> 3.19
         </td>        
       <tr>       
         <td>        
@@ -1873,22 +1729,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Texas/counties/Montgomery-County">Montgomery County</a></span>
-        </td>        
-        <td>485225     
-        </td>
-        <td>49.5% Male and 50.5% female
-        </td>
-        <td>36.4 years        
-        </td>
-        <td>31.1
-        </td>
-        <td>21.6 
-        </td>
-        <td> 3.38
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Texas/counties/Potter-County">Potter County</a></span>
         </td>        
         <td>122044     
@@ -1905,19 +1745,19 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Texas/counties/Orange-County">Orange County</a></span>
+          <span class="name"> <a href="/states/Texas/counties/Polk-County">Polk County</a></span>
         </td>        
-        <td>82762     
+        <td>45711     
         </td>
-        <td>49.6% Male and 50.4% female
+        <td>53.3% Male and 46.7% female
         </td>
-        <td>38.9 years        
+        <td>43.1 years        
         </td>
-        <td>13.6
+        <td>12.1
         </td>
-        <td>6.5 
+        <td>13.8 
         </td>
-        <td> 3.15
+        <td> 2.88
         </td>        
       <tr>       
         <td>        
@@ -1937,19 +1777,179 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Texas/counties/Val-Verde-County">Val Verde County</a></span>
+          <span class="name"> <a href="/states/Texas/counties/Montgomery-County">Montgomery County</a></span>
         </td>        
-        <td>48728     
+        <td>485225     
         </td>
-        <td>50.8% Male and 49.2% female
+        <td>49.5% Male and 50.5% female
         </td>
-        <td>31.6 years        
+        <td>36.4 years        
         </td>
-        <td>15.8
+        <td>31.1
         </td>
-        <td>80.2 
+        <td>21.6 
         </td>
-        <td> 3.66
+        <td> 3.38
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Texas/counties/Matagorda-County">Matagorda County</a></span>
+        </td>        
+        <td>36630     
+        </td>
+        <td>49.1% Male and 50.9% female
+        </td>
+        <td>37.4 years        
+        </td>
+        <td>16.1
+        </td>
+        <td>39.5 
+        </td>
+        <td> 3.4
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Texas/counties/Rockwall-County">Rockwall County</a></span>
+        </td>        
+        <td>83152     
+        </td>
+        <td>49.3% Male and 50.7% female
+        </td>
+        <td>36.2 years        
+        </td>
+        <td>35.4
+        </td>
+        <td>16.5 
+        </td>
+        <td> 3.32
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Texas/counties/Nacogdoches-County">Nacogdoches County</a></span>
+        </td>        
+        <td>65586     
+        </td>
+        <td>47.9% Male and 52.1% female
+        </td>
+        <td>29.8 years        
+        </td>
+        <td>24.9
+        </td>
+        <td>18.3 
+        </td>
+        <td> 3.27
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Texas/counties/Van-Zandt-County">Van Zandt County</a></span>
+        </td>        
+        <td>52518     
+        </td>
+        <td>49.3% Male and 50.7% female
+        </td>
+        <td>43.3 years        
+        </td>
+        <td>14
+        </td>
+        <td>9.7 
+        </td>
+        <td> 3.35
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Texas/counties/Lubbock-County">Lubbock County</a></span>
+        </td>        
+        <td>286228     
+        </td>
+        <td>49.4% Male and 50.6% female
+        </td>
+        <td>30.7 years        
+        </td>
+        <td>27.6
+        </td>
+        <td>32.9 
+        </td>
+        <td> 3.21
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Texas/counties/McLennan-County">McLennan County</a></span>
+        </td>        
+        <td>239642     
+        </td>
+        <td>48.7% Male and 51.3% female
+        </td>
+        <td>32.9 years        
+        </td>
+        <td>22.1
+        </td>
+        <td>24.4 
+        </td>
+        <td> 3.26
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Texas/counties/Maverick-County">Maverick County</a></span>
+        </td>        
+        <td>55496     
+        </td>
+        <td>49.2% Male and 50.8% female
+        </td>
+        <td>29.9 years        
+        </td>
+        <td>11.6
+        </td>
+        <td>95.2 
+        </td>
+        <td> 3.9
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Texas/counties/Navarro-County">Navarro County</a></span>
+        </td>        
+        <td>48024     
+        </td>
+        <td>49.8% Male and 50.2% female
+        </td>
+        <td>37.1 years        
+        </td>
+        <td>15.7
+        </td>
+        <td>24.8 
+        </td>
+        <td> 3.29
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Texas/counties/Milam-County">Milam County</a></span>
+        </td>        
+        <td>24316     
+        </td>
+        <td>47.9% Male and 52.1% female
+        </td>
+        <td>41.4 years        
+        </td>
+        <td>16.9
+        </td>
+        <td>24.4 
+        </td>
+        <td> 3.35
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Texas/counties/Nueces-County">Nueces County</a></span>
+        </td>        
+        <td>347585     
+        </td>
+        <td>49.2% Male and 50.8% female
+        </td>
+        <td>35 years        
+        </td>
+        <td>19.9
+        </td>
+        <td>61.6 
+        </td>
+        <td> 3.3
         </td>        
          </tbody>
   </table>

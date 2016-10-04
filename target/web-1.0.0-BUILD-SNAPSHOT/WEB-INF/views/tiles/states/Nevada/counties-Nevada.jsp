@@ -81,38 +81,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Nevada/counties/Churchill-County">Churchill County</a></span>
-        </td>        
-        <td>24333     
-        </td>
-        <td>49.8% Male and 50.2% female
-        </td>
-        <td>39.5 years        
-        </td>
-        <td>15.2
-        </td>
-        <td>12.9 
-        </td>
-        <td> 3.07
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Nevada/counties/Douglas-County">Douglas County</a></span>
-        </td>        
-        <td>47057     
-        </td>
-        <td>50.4% Male and 49.6% female
-        </td>
-        <td>48.6 years        
-        </td>
-        <td>24.9
-        </td>
-        <td>11.6 
-        </td>
-        <td> 2.79
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Nevada/counties/Clark-County">Clark County</a></span>
         </td>        
         <td>1997371     
@@ -126,22 +94,6 @@
         <td>29.7 
         </td>
         <td> 3.45
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Nevada/counties/Elko-County">Elko County</a></span>
-        </td>        
-        <td>50904     
-        </td>
-        <td>52.1% Male and 47.9% female
-        </td>
-        <td>33.4 years        
-        </td>
-        <td>17.2
-        </td>
-        <td>23.6 
-        </td>
-        <td> 3.39
         </td>        
       <tr>       
         <td>        
@@ -161,6 +113,22 @@
         </td>        
       <tr>       
         <td>        
+          <span class="name"> <a href="/states/Nevada/counties/Douglas-County">Douglas County</a></span>
+        </td>        
+        <td>47057     
+        </td>
+        <td>50.4% Male and 49.6% female
+        </td>
+        <td>48.6 years        
+        </td>
+        <td>24.9
+        </td>
+        <td>11.6 
+        </td>
+        <td> 2.79
+        </td>        
+      <tr>       
+        <td>        
           <span class="name"> <a href="/states/Nevada/counties/Lyon-County">Lyon County</a></span>
         </td>        
         <td>51450     
@@ -174,6 +142,38 @@
         <td>15.4 
         </td>
         <td> 3.06
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Nevada/counties/Elko-County">Elko County</a></span>
+        </td>        
+        <td>50904     
+        </td>
+        <td>52.1% Male and 47.9% female
+        </td>
+        <td>33.4 years        
+        </td>
+        <td>17.2
+        </td>
+        <td>23.6 
+        </td>
+        <td> 3.39
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Nevada/counties/Churchill-County">Churchill County</a></span>
+        </td>        
+        <td>24333     
+        </td>
+        <td>49.8% Male and 50.2% female
+        </td>
+        <td>39.5 years        
+        </td>
+        <td>15.2
+        </td>
+        <td>12.9 
+        </td>
+        <td> 3.07
         </td>        
          </tbody>
   </table>

@@ -289,22 +289,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Illinois/micros/Quincy">Quincy</a></span>
-        </td>        
-        <td>77372     
-        </td>
-        <td>48.9% Male and 51.1% female
-        </td>
-        <td>40 years        
-        </td>
-        <td>20
-        </td>
-        <td>1.4 
-        </td>
-        <td> 3.07
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Illinois/micros/Effingham">Effingham</a></span>
         </td>        
         <td>34298     
@@ -318,6 +302,22 @@
         <td>1.8 
         </td>
         <td> 3.05
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Illinois/micros/Quincy">Quincy</a></span>
+        </td>        
+        <td>77372     
+        </td>
+        <td>48.9% Male and 51.1% female
+        </td>
+        <td>40 years        
+        </td>
+        <td>20
+        </td>
+        <td>1.4 
+        </td>
+        <td> 3.07
         </td>        
          </tbody>
   </table>

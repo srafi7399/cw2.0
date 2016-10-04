@@ -193,6 +193,22 @@
         </td>        
       <tr>       
         <td>        
+          <span class="name"> <a href="/states/New-Mexico/cities/South-Valley">South Valley</a></span>
+        </td>        
+        <td>43419     
+        </td>
+        <td>50.9% Male and 49.1% female
+        </td>
+        <td>35.9 years        
+        </td>
+        <td>11.9
+        </td>
+        <td>81.8 
+        </td>
+        <td> 3.71
+        </td>        
+      <tr>       
+        <td>        
           <span class="name"> <a href="/states/New-Mexico/cities/Las-Cruces-city">Las Cruces city</a></span>
         </td>        
         <td>100818     
@@ -222,22 +238,6 @@
         <td>46.9 
         </td>
         <td> 3.15
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/New-Mexico/cities/South-Valley">South Valley</a></span>
-        </td>        
-        <td>43419     
-        </td>
-        <td>50.9% Male and 49.1% female
-        </td>
-        <td>35.9 years        
-        </td>
-        <td>11.9
-        </td>
-        <td>81.8 
-        </td>
-        <td> 3.71
         </td>        
          </tbody>
   </table>

@@ -545,19 +545,35 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Utah/cities/Sandy-city">Sandy city</a></span>
+          <span class="name"> <a href="/states/Utah/cities/Kearns">Kearns</a></span>
         </td>        
-        <td>89457     
+        <td>35601     
         </td>
-        <td>50.1% Male and 49.9% female
+        <td>49.7% Male and 50.3% female
         </td>
-        <td>34.8 years        
+        <td>28.6 years        
         </td>
-        <td>39.6
+        <td>11.2
         </td>
-        <td>7.3 
+        <td>32.2 
         </td>
-        <td> 3.5
+        <td> 4.01
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Utah/cities/Kaysville-city">Kaysville city</a></span>
+        </td>        
+        <td>28449     
+        </td>
+        <td>49.6% Male and 50.4% female
+        </td>
+        <td>29.4 years        
+        </td>
+        <td>46.2
+        </td>
+        <td>4.2 
+        </td>
+        <td> 4
         </td>        
       <tr>       
         <td>        
@@ -593,6 +609,22 @@
         </td>        
       <tr>       
         <td>        
+          <span class="name"> <a href="/states/Utah/cities/Sandy-city">Sandy city</a></span>
+        </td>        
+        <td>89457     
+        </td>
+        <td>50.1% Male and 49.9% female
+        </td>
+        <td>34.8 years        
+        </td>
+        <td>39.6
+        </td>
+        <td>7.3 
+        </td>
+        <td> 3.5
+        </td>        
+      <tr>       
+        <td>        
           <span class="name"> <a href="/states/Utah/cities/Riverton-city">Riverton city</a></span>
         </td>        
         <td>40287     
@@ -604,38 +636,6 @@
         <td>32.7
         </td>
         <td>3.5 
-        </td>
-        <td> 4
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Utah/cities/Kearns">Kearns</a></span>
-        </td>        
-        <td>35601     
-        </td>
-        <td>49.7% Male and 50.3% female
-        </td>
-        <td>28.6 years        
-        </td>
-        <td>11.2
-        </td>
-        <td>32.2 
-        </td>
-        <td> 4.01
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Utah/cities/Kaysville-city">Kaysville city</a></span>
-        </td>        
-        <td>28449     
-        </td>
-        <td>49.6% Male and 50.4% female
-        </td>
-        <td>29.4 years        
-        </td>
-        <td>46.2
-        </td>
-        <td>4.2 
         </td>
         <td> 4
         </td>        

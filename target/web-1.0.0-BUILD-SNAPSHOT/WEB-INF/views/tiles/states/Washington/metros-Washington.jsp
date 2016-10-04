@@ -193,22 +193,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Washington/metros/Wenatchee">Wenatchee</a></span>
-        </td>        
-        <td>112796     
-        </td>
-        <td>50% Male and 50% female
-        </td>
-        <td>38.4 years        
-        </td>
-        <td>21.4
-        </td>
-        <td>27.8 
-        </td>
-        <td> 3.17
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Washington/metros/Olympia-Tumwater">Olympia-Tumwater</a></span>
         </td>        
         <td>259144     
@@ -222,6 +206,22 @@
         <td>7.8 
         </td>
         <td> 3.05
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Washington/metros/Wenatchee">Wenatchee</a></span>
+        </td>        
+        <td>112796     
+        </td>
+        <td>50% Male and 50% female
+        </td>
+        <td>38.4 years        
+        </td>
+        <td>21.4
+        </td>
+        <td>27.8 
+        </td>
+        <td> 3.17
         </td>        
          </tbody>
   </table>

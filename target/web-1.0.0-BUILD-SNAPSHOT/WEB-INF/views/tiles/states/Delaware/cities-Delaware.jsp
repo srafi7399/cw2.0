@@ -49,22 +49,6 @@
     <tbody>    
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Delaware/cities/Wilmington-city">Wilmington city</a></span>
-        </td>        
-        <td>71255     
-        </td>
-        <td>46.5% Male and 53.5% female
-        </td>
-        <td>34.1 years        
-        </td>
-        <td>25.1
-        </td>
-        <td>13.1 
-        </td>
-        <td> 3.18
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Delaware/cities/Dover-city">Dover city</a></span>
         </td>        
         <td>37108     
@@ -78,6 +62,22 @@
         <td>8.7 
         </td>
         <td> 3.3
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Delaware/cities/Wilmington-city">Wilmington city</a></span>
+        </td>        
+        <td>71255     
+        </td>
+        <td>46.5% Male and 53.5% female
+        </td>
+        <td>34.1 years        
+        </td>
+        <td>25.1
+        </td>
+        <td>13.1 
+        </td>
+        <td> 3.18
         </td>        
       <tr>       
         <td>        

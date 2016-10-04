@@ -161,22 +161,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Illinois/metros/Springfield">Springfield</a></span>
-        </td>        
-        <td>211784     
-        </td>
-        <td>48% Male and 52% female
-        </td>
-        <td>39.8 years        
-        </td>
-        <td>32.2
-        </td>
-        <td>2 
-        </td>
-        <td> 2.96
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Illinois/metros/Carbondale-Marion">Carbondale-Marion</a></span>
         </td>        
         <td>126869     
@@ -190,6 +174,22 @@
         <td>3.1 
         </td>
         <td> 3.05
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Illinois/metros/Springfield">Springfield</a></span>
+        </td>        
+        <td>211784     
+        </td>
+        <td>48% Male and 52% female
+        </td>
+        <td>39.8 years        
+        </td>
+        <td>32.2
+        </td>
+        <td>2 
+        </td>
+        <td> 2.96
         </td>        
          </tbody>
   </table>

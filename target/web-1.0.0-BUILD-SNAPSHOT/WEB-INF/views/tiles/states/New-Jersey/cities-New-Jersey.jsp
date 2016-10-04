@@ -657,6 +657,118 @@
         </td>        
       <tr>       
         <td>        
+          <span class="name"> <a href="/states/New-Jersey/cities/Bridgeton-city">Bridgeton city</a></span>
+        </td>        
+        <td>25263     
+        </td>
+        <td>58.8% Male and 41.2% female
+        </td>
+        <td>30.5 years        
+        </td>
+        <td>6.6
+        </td>
+        <td>48 
+        </td>
+        <td> 4.11
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/New-Jersey/cities/Paramus-borough">Paramus borough</a></span>
+        </td>        
+        <td>26583     
+        </td>
+        <td>47.9% Male and 52.1% female
+        </td>
+        <td>47.4 years        
+        </td>
+        <td>49.4
+        </td>
+        <td>9.1 
+        </td>
+        <td> 3.34
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/New-Jersey/cities/Elizabeth-city">Elizabeth city</a></span>
+        </td>        
+        <td>126778     
+        </td>
+        <td>48.1% Male and 51.9% female
+        </td>
+        <td>31.9 years        
+        </td>
+        <td>11.5
+        </td>
+        <td>63.2 
+        </td>
+        <td> 3.76
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/New-Jersey/cities/Paterson-city">Paterson city</a></span>
+        </td>        
+        <td>145800     
+        </td>
+        <td>47.4% Male and 52.6% female
+        </td>
+        <td>32.5 years        
+        </td>
+        <td>10.1
+        </td>
+        <td>59.1 
+        </td>
+        <td> 3.93
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/New-Jersey/cities/Old-Bridge">Old Bridge</a></span>
+        </td>        
+        <td>24087     
+        </td>
+        <td>47.1% Male and 52.9% female
+        </td>
+        <td>41.5 years        
+        </td>
+        <td>34.9
+        </td>
+        <td>7.7 
+        </td>
+        <td> 3.42
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/New-Jersey/cities/Long-Branch-city">Long Branch city</a></span>
+        </td>        
+        <td>30527     
+        </td>
+        <td>48.2% Male and 51.8% female
+        </td>
+        <td>35.3 years        
+        </td>
+        <td>28.4
+        </td>
+        <td>28.2 
+        </td>
+        <td> 3.25
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/New-Jersey/cities/Passaic-city">Passaic city</a></span>
+        </td>        
+        <td>70531     
+        </td>
+        <td>50.1% Male and 49.9% female
+        </td>
+        <td>29.7 years        
+        </td>
+        <td>12.7
+        </td>
+        <td>73 
+        </td>
+        <td> 4.04
+        </td>        
+      <tr>       
+        <td>        
           <span class="name"> <a href="/states/New-Jersey/cities/Toms-River">Toms River</a></span>
         </td>        
         <td>89495     
@@ -686,118 +798,6 @@
         <td>37.9 
         </td>
         <td> 3.59
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/New-Jersey/cities/Long-Branch-city">Long Branch city</a></span>
-        </td>        
-        <td>30527     
-        </td>
-        <td>48.2% Male and 51.8% female
-        </td>
-        <td>35.3 years        
-        </td>
-        <td>28.4
-        </td>
-        <td>28.2 
-        </td>
-        <td> 3.25
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/New-Jersey/cities/Elizabeth-city">Elizabeth city</a></span>
-        </td>        
-        <td>126778     
-        </td>
-        <td>48.1% Male and 51.9% female
-        </td>
-        <td>31.9 years        
-        </td>
-        <td>11.5
-        </td>
-        <td>63.2 
-        </td>
-        <td> 3.76
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/New-Jersey/cities/Bridgeton-city">Bridgeton city</a></span>
-        </td>        
-        <td>25263     
-        </td>
-        <td>58.8% Male and 41.2% female
-        </td>
-        <td>30.5 years        
-        </td>
-        <td>6.6
-        </td>
-        <td>48 
-        </td>
-        <td> 4.11
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/New-Jersey/cities/Paterson-city">Paterson city</a></span>
-        </td>        
-        <td>145800     
-        </td>
-        <td>47.4% Male and 52.6% female
-        </td>
-        <td>32.5 years        
-        </td>
-        <td>10.1
-        </td>
-        <td>59.1 
-        </td>
-        <td> 3.93
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/New-Jersey/cities/Paramus-borough">Paramus borough</a></span>
-        </td>        
-        <td>26583     
-        </td>
-        <td>47.9% Male and 52.1% female
-        </td>
-        <td>47.4 years        
-        </td>
-        <td>49.4
-        </td>
-        <td>9.1 
-        </td>
-        <td> 3.34
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/New-Jersey/cities/Old-Bridge">Old Bridge</a></span>
-        </td>        
-        <td>24087     
-        </td>
-        <td>47.1% Male and 52.9% female
-        </td>
-        <td>41.5 years        
-        </td>
-        <td>34.9
-        </td>
-        <td>7.7 
-        </td>
-        <td> 3.42
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/New-Jersey/cities/Passaic-city">Passaic city</a></span>
-        </td>        
-        <td>70531     
-        </td>
-        <td>50.1% Male and 49.9% female
-        </td>
-        <td>29.7 years        
-        </td>
-        <td>12.7
-        </td>
-        <td>73 
-        </td>
-        <td> 4.04
         </td>        
          </tbody>
   </table>

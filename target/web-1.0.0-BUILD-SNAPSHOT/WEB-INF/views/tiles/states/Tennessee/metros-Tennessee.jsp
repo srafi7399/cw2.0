@@ -161,6 +161,22 @@
         </td>        
       <tr>       
         <td>        
+          <span class="name"> <a href="/states/Tennessee/metros/Kingsport-Bristol-Bristol">Kingsport-Bristol-Bristol</a></span>
+        </td>        
+        <td>308921     
+        </td>
+        <td>48.5% Male and 51.5% female
+        </td>
+        <td>44 years        
+        </td>
+        <td>18.8
+        </td>
+        <td>1.5 
+        </td>
+        <td> 2.88
+        </td>        
+      <tr>       
+        <td>        
           <span class="name"> <a href="/states/Tennessee/metros/Chattanooga">Chattanooga</a></span>
         </td>        
         <td>537584     
@@ -190,22 +206,6 @@
         <td>5.1 
         </td>
         <td> 3.36
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Tennessee/metros/Kingsport-Bristol-Bristol">Kingsport-Bristol-Bristol</a></span>
-        </td>        
-        <td>308921     
-        </td>
-        <td>48.5% Male and 51.5% female
-        </td>
-        <td>44 years        
-        </td>
-        <td>18.8
-        </td>
-        <td>1.5 
-        </td>
-        <td> 2.88
         </td>        
          </tbody>
   </table>

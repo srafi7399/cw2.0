@@ -385,19 +385,35 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Ohio/micros/Marion">Marion</a></span>
+          <span class="name"> <a href="/states/Ohio/micros/Athens">Athens</a></span>
         </td>        
-        <td>66221     
+        <td>64746     
         </td>
-        <td>53.9% Male and 46.1% female
+        <td>49.8% Male and 50.2% female
         </td>
-        <td>40.4 years        
+        <td>27.1 years        
         </td>
-        <td>11.9
+        <td>27.9
         </td>
-        <td>2.3 
+        <td>1.7 
         </td>
-        <td> 2.88
+        <td> 2.98
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Ohio/micros/Sandusky">Sandusky</a></span>
+        </td>        
+        <td>76357     
+        </td>
+        <td>48.8% Male and 51.2% female
+        </td>
+        <td>43.8 years        
+        </td>
+        <td>21.4
+        </td>
+        <td>3.7 
+        </td>
+        <td> 2.9
         </td>        
       <tr>       
         <td>        
@@ -433,38 +449,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Ohio/micros/Athens">Athens</a></span>
-        </td>        
-        <td>64746     
-        </td>
-        <td>49.8% Male and 50.2% female
-        </td>
-        <td>27.1 years        
-        </td>
-        <td>27.9
-        </td>
-        <td>1.7 
-        </td>
-        <td> 2.98
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Ohio/micros/Van-Wert">Van Wert</a></span>
-        </td>        
-        <td>28635     
-        </td>
-        <td>49.2% Male and 50.8% female
-        </td>
-        <td>41.5 years        
-        </td>
-        <td>16.7
-        </td>
-        <td>2.7 
-        </td>
-        <td> 2.96
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Ohio/micros/Zanesville">Zanesville</a></span>
         </td>        
         <td>85795     
@@ -481,19 +465,35 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Ohio/micros/Sandusky">Sandusky</a></span>
+          <span class="name"> <a href="/states/Ohio/micros/Marion">Marion</a></span>
         </td>        
-        <td>76357     
+        <td>66221     
         </td>
-        <td>48.8% Male and 51.2% female
+        <td>53.9% Male and 46.1% female
         </td>
-        <td>43.8 years        
+        <td>40.4 years        
         </td>
-        <td>21.4
+        <td>11.9
         </td>
-        <td>3.7 
+        <td>2.3 
         </td>
-        <td> 2.9
+        <td> 2.88
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Ohio/micros/Van-Wert">Van Wert</a></span>
+        </td>        
+        <td>28635     
+        </td>
+        <td>49.2% Male and 50.8% female
+        </td>
+        <td>41.5 years        
+        </td>
+        <td>16.7
+        </td>
+        <td>2.7 
+        </td>
+        <td> 2.96
         </td>        
          </tbody>
   </table>

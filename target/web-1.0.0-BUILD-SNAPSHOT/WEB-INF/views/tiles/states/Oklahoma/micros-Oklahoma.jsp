@@ -305,22 +305,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Oklahoma/micros/Altus">Altus</a></span>
-        </td>        
-        <td>26225     
-        </td>
-        <td>49.5% Male and 50.5% female
-        </td>
-        <td>34.1 years        
-        </td>
-        <td>19.7
-        </td>
-        <td>21.9 
-        </td>
-        <td> 3.05
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Oklahoma/micros/Muskogee">Muskogee</a></span>
         </td>        
         <td>70503     
@@ -332,6 +316,22 @@
         <td>18.4
         </td>
         <td>5.5 
+        </td>
+        <td> 3.05
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Oklahoma/micros/Altus">Altus</a></span>
+        </td>        
+        <td>26225     
+        </td>
+        <td>49.5% Male and 50.5% female
+        </td>
+        <td>34.1 years        
+        </td>
+        <td>19.7
+        </td>
+        <td>21.9 
         </td>
         <td> 3.05
         </td>        

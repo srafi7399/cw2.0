@@ -1137,35 +1137,19 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Ohio/cities/Sandusky-city">Sandusky city</a></span>
+          <span class="name"> <a href="/states/Ohio/cities/Euclid-city">Euclid city</a></span>
         </td>        
-        <td>25466     
+        <td>48321     
         </td>
-        <td>48.9% Male and 51.1% female
+        <td>45.8% Male and 54.2% female
         </td>
-        <td>39.2 years        
+        <td>41.4 years        
         </td>
-        <td>16.3
+        <td>19.3
         </td>
-        <td>5.4 
+        <td>1.3 
         </td>
-        <td> 2.87
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Ohio/cities/Cleveland-city">Cleveland city</a></span>
-        </td>        
-        <td>391317     
-        </td>
-        <td>47.9% Male and 52.1% female
-        </td>
-        <td>36 years        
-        </td>
-        <td>15.5
-        </td>
-        <td>10.5 
-        </td>
-        <td> 3.21
+        <td> 2.98
         </td>        
       <tr>       
         <td>        
@@ -1185,166 +1169,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Ohio/cities/Willoughby-city">Willoughby city</a></span>
-        </td>        
-        <td>22384     
-        </td>
-        <td>47.6% Male and 52.4% female
-        </td>
-        <td>43 years        
-        </td>
-        <td>28.5
-        </td>
-        <td>1.9 
-        </td>
-        <td> 2.89
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Ohio/cities/Bowling-Green-city">Bowling Green city</a></span>
-        </td>        
-        <td>31604     
-        </td>
-        <td>46.9% Male and 53.1% female
-        </td>
-        <td>23 years        
-        </td>
-        <td>40.2
-        </td>
-        <td>6.2 
-        </td>
-        <td> 2.88
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Ohio/cities/Beavercreek-city">Beavercreek city</a></span>
-        </td>        
-        <td>46375     
-        </td>
-        <td>49.5% Male and 50.5% female
-        </td>
-        <td>40.9 years        
-        </td>
-        <td>48.1
-        </td>
-        <td>3.2 
-        </td>
-        <td> 3.03
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Ohio/cities/Lancaster-city">Lancaster city</a></span>
-        </td>        
-        <td>39053     
-        </td>
-        <td>48% Male and 52% female
-        </td>
-        <td>38.2 years        
-        </td>
-        <td>16.1
-        </td>
-        <td>0.7 
-        </td>
-        <td> 3.06
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Ohio/cities/Euclid-city">Euclid city</a></span>
-        </td>        
-        <td>48321     
-        </td>
-        <td>45.8% Male and 54.2% female
-        </td>
-        <td>41.4 years        
-        </td>
-        <td>19.3
-        </td>
-        <td>1.3 
-        </td>
-        <td> 2.98
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Ohio/cities/Brunswick-city">Brunswick city</a></span>
-        </td>        
-        <td>34440     
-        </td>
-        <td>48.4% Male and 51.6% female
-        </td>
-        <td>39.4 years        
-        </td>
-        <td>20.2
-        </td>
-        <td>2.2 
-        </td>
-        <td> 3.07
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Ohio/cities/Mansfield-city">Mansfield city</a></span>
-        </td>        
-        <td>46913     
-        </td>
-        <td>53% Male and 47% female
-        </td>
-        <td>39 years        
-        </td>
-        <td>12.7
-        </td>
-        <td>2.3 
-        </td>
-        <td> 3.03
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Ohio/cities/Norwood-city">Norwood city</a></span>
-        </td>        
-        <td>19086     
-        </td>
-        <td>50% Male and 50% female
-        </td>
-        <td>34.2 years        
-        </td>
-        <td>25.8
-        </td>
-        <td>4.4 
-        </td>
-        <td> 2.98
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Ohio/cities/Cleveland-Heights-city">Cleveland Heights city</a></span>
-        </td>        
-        <td>45605     
-        </td>
-        <td>44.8% Male and 55.2% female
-        </td>
-        <td>34.3 years        
-        </td>
-        <td>50
-        </td>
-        <td>1.6 
-        </td>
-        <td> 3.21
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Ohio/cities/Solon-city">Solon city</a></span>
-        </td>        
-        <td>23178     
-        </td>
-        <td>47.9% Male and 52.1% female
-        </td>
-        <td>43.9 years        
-        </td>
-        <td>59.9
-        </td>
-        <td>2.2 
-        </td>
-        <td> 3.22
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Ohio/cities/North-Olmsted-city">North Olmsted city</a></span>
         </td>        
         <td>32384     
@@ -1358,86 +1182,6 @@
         <td>4.3 
         </td>
         <td> 3.11
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Ohio/cities/Lorain-city">Lorain city</a></span>
-        </td>        
-        <td>63800     
-        </td>
-        <td>46.5% Male and 53.5% female
-        </td>
-        <td>37.9 years        
-        </td>
-        <td>11.1
-        </td>
-        <td>26 
-        </td>
-        <td> 3.08
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Ohio/cities/Dublin-city">Dublin city</a></span>
-        </td>        
-        <td>43033     
-        </td>
-        <td>47.9% Male and 52.1% female
-        </td>
-        <td>38.6 years        
-        </td>
-        <td>74
-        </td>
-        <td>4.5 
-        </td>
-        <td> 3.24
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Ohio/cities/North-Ridgeville-city">North Ridgeville city</a></span>
-        </td>        
-        <td>30628     
-        </td>
-        <td>50.3% Male and 49.7% female
-        </td>
-        <td>41.5 years        
-        </td>
-        <td>30.2
-        </td>
-        <td>3.7 
-        </td>
-        <td> 2.98
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Ohio/cities/Lima-city">Lima city</a></span>
-        </td>        
-        <td>38425     
-        </td>
-        <td>52.2% Male and 47.8% female
-        </td>
-        <td>32.4 years        
-        </td>
-        <td>10.8
-        </td>
-        <td>2.8 
-        </td>
-        <td> 3.25
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Ohio/cities/Westlake-city">Westlake city</a></span>
-        </td>        
-        <td>32500     
-        </td>
-        <td>46.2% Male and 53.8% female
-        </td>
-        <td>44.1 years        
-        </td>
-        <td>55
-        </td>
-        <td>3.4 
-        </td>
-        <td> 3.08
         </td>        
       <tr>       
         <td>        
@@ -1457,6 +1201,22 @@
         </td>        
       <tr>       
         <td>        
+          <span class="name"> <a href="/states/Ohio/cities/Bowling-Green-city">Bowling Green city</a></span>
+        </td>        
+        <td>31604     
+        </td>
+        <td>46.9% Male and 53.1% female
+        </td>
+        <td>23 years        
+        </td>
+        <td>40.2
+        </td>
+        <td>6.2 
+        </td>
+        <td> 2.88
+        </td>        
+      <tr>       
+        <td>        
           <span class="name"> <a href="/states/Ohio/cities/Xenia-city">Xenia city</a></span>
         </td>        
         <td>25933     
@@ -1470,6 +1230,246 @@
         <td>1.3 
         </td>
         <td> 3.22
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Ohio/cities/Cleveland-city">Cleveland city</a></span>
+        </td>        
+        <td>391317     
+        </td>
+        <td>47.9% Male and 52.1% female
+        </td>
+        <td>36 years        
+        </td>
+        <td>15.5
+        </td>
+        <td>10.5 
+        </td>
+        <td> 3.21
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Ohio/cities/Brunswick-city">Brunswick city</a></span>
+        </td>        
+        <td>34440     
+        </td>
+        <td>48.4% Male and 51.6% female
+        </td>
+        <td>39.4 years        
+        </td>
+        <td>20.2
+        </td>
+        <td>2.2 
+        </td>
+        <td> 3.07
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Ohio/cities/Lima-city">Lima city</a></span>
+        </td>        
+        <td>38425     
+        </td>
+        <td>52.2% Male and 47.8% female
+        </td>
+        <td>32.4 years        
+        </td>
+        <td>10.8
+        </td>
+        <td>2.8 
+        </td>
+        <td> 3.25
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Ohio/cities/Beavercreek-city">Beavercreek city</a></span>
+        </td>        
+        <td>46375     
+        </td>
+        <td>49.5% Male and 50.5% female
+        </td>
+        <td>40.9 years        
+        </td>
+        <td>48.1
+        </td>
+        <td>3.2 
+        </td>
+        <td> 3.03
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Ohio/cities/Sandusky-city">Sandusky city</a></span>
+        </td>        
+        <td>25466     
+        </td>
+        <td>48.9% Male and 51.1% female
+        </td>
+        <td>39.2 years        
+        </td>
+        <td>16.3
+        </td>
+        <td>5.4 
+        </td>
+        <td> 2.87
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Ohio/cities/North-Ridgeville-city">North Ridgeville city</a></span>
+        </td>        
+        <td>30628     
+        </td>
+        <td>50.3% Male and 49.7% female
+        </td>
+        <td>41.5 years        
+        </td>
+        <td>30.2
+        </td>
+        <td>3.7 
+        </td>
+        <td> 2.98
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Ohio/cities/Lorain-city">Lorain city</a></span>
+        </td>        
+        <td>63800     
+        </td>
+        <td>46.5% Male and 53.5% female
+        </td>
+        <td>37.9 years        
+        </td>
+        <td>11.1
+        </td>
+        <td>26 
+        </td>
+        <td> 3.08
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Ohio/cities/Willoughby-city">Willoughby city</a></span>
+        </td>        
+        <td>22384     
+        </td>
+        <td>47.6% Male and 52.4% female
+        </td>
+        <td>43 years        
+        </td>
+        <td>28.5
+        </td>
+        <td>1.9 
+        </td>
+        <td> 2.89
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Ohio/cities/Cleveland-Heights-city">Cleveland Heights city</a></span>
+        </td>        
+        <td>45605     
+        </td>
+        <td>44.8% Male and 55.2% female
+        </td>
+        <td>34.3 years        
+        </td>
+        <td>50
+        </td>
+        <td>1.6 
+        </td>
+        <td> 3.21
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Ohio/cities/Mansfield-city">Mansfield city</a></span>
+        </td>        
+        <td>46913     
+        </td>
+        <td>53% Male and 47% female
+        </td>
+        <td>39 years        
+        </td>
+        <td>12.7
+        </td>
+        <td>2.3 
+        </td>
+        <td> 3.03
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Ohio/cities/Dublin-city">Dublin city</a></span>
+        </td>        
+        <td>43033     
+        </td>
+        <td>47.9% Male and 52.1% female
+        </td>
+        <td>38.6 years        
+        </td>
+        <td>74
+        </td>
+        <td>4.5 
+        </td>
+        <td> 3.24
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Ohio/cities/Solon-city">Solon city</a></span>
+        </td>        
+        <td>23178     
+        </td>
+        <td>47.9% Male and 52.1% female
+        </td>
+        <td>43.9 years        
+        </td>
+        <td>59.9
+        </td>
+        <td>2.2 
+        </td>
+        <td> 3.22
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Ohio/cities/Lancaster-city">Lancaster city</a></span>
+        </td>        
+        <td>39053     
+        </td>
+        <td>48% Male and 52% female
+        </td>
+        <td>38.2 years        
+        </td>
+        <td>16.1
+        </td>
+        <td>0.7 
+        </td>
+        <td> 3.06
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Ohio/cities/Norwood-city">Norwood city</a></span>
+        </td>        
+        <td>19086     
+        </td>
+        <td>50% Male and 50% female
+        </td>
+        <td>34.2 years        
+        </td>
+        <td>25.8
+        </td>
+        <td>4.4 
+        </td>
+        <td> 2.98
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Ohio/cities/Westlake-city">Westlake city</a></span>
+        </td>        
+        <td>32500     
+        </td>
+        <td>46.2% Male and 53.8% female
+        </td>
+        <td>44.1 years        
+        </td>
+        <td>55
+        </td>
+        <td>3.4 
+        </td>
+        <td> 3.08
         </td>        
          </tbody>
   </table>

@@ -321,35 +321,35 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Tennessee/counties/Cumberland-County">Cumberland County</a></span>
+          <span class="name"> <a href="/states/Tennessee/counties/Giles-County">Giles County</a></span>
         </td>        
-        <td>57023     
+        <td>28992     
         </td>
-        <td>48.4% Male and 51.6% female
+        <td>49.1% Male and 50.9% female
         </td>
-        <td>49 years        
+        <td>42.7 years        
         </td>
-        <td>17.7
+        <td>15.5
         </td>
-        <td>2.6 
+        <td>1.8 
         </td>
-        <td> 2.85
+        <td> 2.99
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Tennessee/counties/Campbell-County">Campbell County</a></span>
+          <span class="name"> <a href="/states/Tennessee/counties/Hardeman-County">Hardeman County</a></span>
         </td>        
-        <td>40422     
+        <td>26568     
         </td>
-        <td>48.6% Male and 51.4% female
+        <td>54.6% Male and 45.4% female
         </td>
-        <td>42.6 years        
+        <td>39.3 years        
         </td>
-        <td>9.2
+        <td>9.7
         </td>
-        <td>1.3 
+        <td>1.5 
         </td>
-        <td> 3.09
+        <td> 3.18
         </td>        
       <tr>       
         <td>        
@@ -369,275 +369,19 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Tennessee/counties/Greene-County">Greene County</a></span>
+          <span class="name"> <a href="/states/Tennessee/counties/Montgomery-County">Montgomery County</a></span>
         </td>        
-        <td>68612     
+        <td>182002     
         </td>
-        <td>48.9% Male and 51.1% female
+        <td>49.6% Male and 50.4% female
         </td>
-        <td>43.5 years        
+        <td>30.2 years        
         </td>
-        <td>15.1
+        <td>24.5
         </td>
-        <td>2.7 
+        <td>8.9 
         </td>
-        <td> 2.84
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Tennessee/counties/Hickman-County">Hickman County</a></span>
-        </td>        
-        <td>24291     
-        </td>
-        <td>52.6% Male and 47.4% female
-        </td>
-        <td>40.5 years        
-        </td>
-        <td>9.2
-        </td>
-        <td>2.2 
-        </td>
-        <td> 3.21
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Tennessee/counties/Hawkins-County">Hawkins County</a></span>
-        </td>        
-        <td>56689     
-        </td>
-        <td>48.5% Male and 51.5% female
-        </td>
-        <td>43.1 years        
-        </td>
-        <td>11.7
-        </td>
-        <td>1.3 
-        </td>
-        <td> 2.93
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Tennessee/counties/Lawrence-County">Lawrence County</a></span>
-        </td>        
-        <td>42052     
-        </td>
-        <td>49.1% Male and 50.9% female
-        </td>
-        <td>40.4 years        
-        </td>
-        <td>12.2
-        </td>
-        <td>1.8 
-        </td>
-        <td> 3.18
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Tennessee/counties/Morgan-County">Morgan County</a></span>
-        </td>        
-        <td>21999     
-        </td>
-        <td>55.6% Male and 44.4% female
-        </td>
-        <td>40.2 years        
-        </td>
-        <td>6.7
-        </td>
-        <td>1.1 
-        </td>
-        <td> 3.08
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Tennessee/counties/Grainger-County">Grainger County</a></span>
-        </td>        
-        <td>22683     
-        </td>
-        <td>49.8% Male and 50.2% female
-        </td>
-        <td>43.1 years        
-        </td>
-        <td>12
-        </td>
-        <td>2.5 
-        </td>
-        <td> 3.04
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Tennessee/counties/Dickson-County">Dickson County</a></span>
-        </td>        
-        <td>50180     
-        </td>
-        <td>48.6% Male and 51.4% female
-        </td>
-        <td>39.5 years        
-        </td>
-        <td>13.1
-        </td>
-        <td>3.1 
-        </td>
-        <td> 3.13
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Tennessee/counties/Hardin-County">Hardin County</a></span>
-        </td>        
-        <td>25986     
-        </td>
-        <td>49% Male and 51% female
-        </td>
-        <td>44.7 years        
-        </td>
-        <td>12.2
-        </td>
-        <td>0.6 
-        </td>
-        <td> 3.34
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Tennessee/counties/Carroll-County">Carroll County</a></span>
-        </td>        
-        <td>28559     
-        </td>
-        <td>49% Male and 51% female
-        </td>
-        <td>42.2 years        
-        </td>
-        <td>13.7
-        </td>
-        <td>2.3 
-        </td>
-        <td> 3.12
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Tennessee/counties/Loudon-County">Loudon County</a></span>
-        </td>        
-        <td>49753     
-        </td>
-        <td>48.8% Male and 51.2% female
-        </td>
-        <td>45.9 years        
-        </td>
-        <td>26.2
-        </td>
-        <td>7.5 
-        </td>
-        <td> 2.91
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Tennessee/counties/Knox-County">Knox County</a></span>
-        </td>        
-        <td>440800     
-        </td>
-        <td>48.6% Male and 51.4% female
-        </td>
-        <td>37.3 years        
-        </td>
-        <td>34.1
-        </td>
-        <td>3.7 
-        </td>
-        <td> 3.03
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Tennessee/counties/Madison-County">Madison County</a></span>
-        </td>        
-        <td>98423     
-        </td>
-        <td>47.5% Male and 52.5% female
-        </td>
-        <td>37.3 years        
-        </td>
-        <td>24.7
-        </td>
-        <td>3.5 
-        </td>
-        <td> 3.32
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Tennessee/counties/Hamblen-County">Hamblen County</a></span>
-        </td>        
-        <td>62888     
-        </td>
-        <td>48.5% Male and 51.5% female
-        </td>
-        <td>39.5 years        
-        </td>
-        <td>14.5
-        </td>
-        <td>10.9 
-        </td>
-        <td> 3.08
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Tennessee/counties/Dyer-County">Dyer County</a></span>
-        </td>        
-        <td>38209     
-        </td>
-        <td>48.1% Male and 51.9% female
-        </td>
-        <td>40.2 years        
-        </td>
-        <td>19.8
-        </td>
-        <td>2.9 
-        </td>
-        <td> 2.98
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Tennessee/counties/Henderson-County">Henderson County</a></span>
-        </td>        
-        <td>28044     
-        </td>
-        <td>48.5% Male and 51.5% female
-        </td>
-        <td>39.5 years        
-        </td>
-        <td>12.6
-        </td>
-        <td>2.1 
-        </td>
-        <td> 3.03
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Tennessee/counties/Gibson-County">Gibson County</a></span>
-        </td>        
-        <td>49674     
-        </td>
-        <td>47% Male and 53% female
-        </td>
-        <td>40 years        
-        </td>
-        <td>16.2
-        </td>
-        <td>2.2 
-        </td>
-        <td> 3.04
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Tennessee/counties/Overton-County">Overton County</a></span>
-        </td>        
-        <td>22155     
-        </td>
-        <td>49.1% Male and 50.9% female
-        </td>
-        <td>41.5 years        
-        </td>
-        <td>14.6
-        </td>
-        <td>1.3 
-        </td>
-        <td> 2.96
+        <td> 3.17
         </td>        
       <tr>       
         <td>        
@@ -657,54 +401,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Tennessee/counties/Lincoln-County">Lincoln County</a></span>
-        </td>        
-        <td>33501     
-        </td>
-        <td>49% Male and 51% female
-        </td>
-        <td>42.8 years        
-        </td>
-        <td>15.2
-        </td>
-        <td>3 
-        </td>
-        <td> 2.98
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Tennessee/counties/Monroe-County">Monroe County</a></span>
-        </td>        
-        <td>45114     
-        </td>
-        <td>49.9% Male and 50.1% female
-        </td>
-        <td>42.7 years        
-        </td>
-        <td>11.4
-        </td>
-        <td>3.6 
-        </td>
-        <td> 3.08
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Tennessee/counties/Anderson-County">Anderson County</a></span>
-        </td>        
-        <td>75379     
-        </td>
-        <td>48.5% Male and 51.5% female
-        </td>
-        <td>43 years        
-        </td>
-        <td>23
-        </td>
-        <td>2.4 
-        </td>
-        <td> 3.07
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Tennessee/counties/Bedford-County">Bedford County</a></span>
         </td>        
         <td>45572     
@@ -721,163 +417,83 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Tennessee/counties/Marshall-County">Marshall County</a></span>
+          <span class="name"> <a href="/states/Tennessee/counties/Cheatham-County">Cheatham County</a></span>
         </td>        
-        <td>31005     
+        <td>39260     
         </td>
-        <td>49.4% Male and 50.6% female
+        <td>49.9% Male and 50.1% female
         </td>
-        <td>40.1 years        
+        <td>39.7 years        
         </td>
-        <td>13.2
+        <td>18.8
         </td>
-        <td>4.7 
-        </td>
-        <td> 3.16
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Tennessee/counties/Marion-County">Marion County</a></span>
-        </td>        
-        <td>28232     
-        </td>
-        <td>49.4% Male and 50.6% female
-        </td>
-        <td>43 years        
-        </td>
-        <td>15.4
-        </td>
-        <td>1.4 
-        </td>
-        <td> 2.91
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Tennessee/counties/Blount-County">Blount County</a></span>
-        </td>        
-        <td>124257     
-        </td>
-        <td>48.4% Male and 51.6% female
-        </td>
-        <td>42.2 years        
-        </td>
-        <td>21.2
-        </td>
-        <td>2.9 
-        </td>
-        <td> 3.01
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Tennessee/counties/Hamilton-County">Hamilton County</a></span>
-        </td>        
-        <td>345000     
-        </td>
-        <td>48.2% Male and 51.8% female
-        </td>
-        <td>39.3 years        
-        </td>
-        <td>27.1
-        </td>
-        <td>4.8 
-        </td>
-        <td> 3.08
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Tennessee/counties/Giles-County">Giles County</a></span>
-        </td>        
-        <td>28992     
-        </td>
-        <td>49.1% Male and 50.9% female
-        </td>
-        <td>42.7 years        
-        </td>
-        <td>15.5
-        </td>
-        <td>1.8 
-        </td>
-        <td> 2.99
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Tennessee/counties/Davidson-County">Davidson County</a></span>
-        </td>        
-        <td>647670     
-        </td>
-        <td>48.4% Male and 51.6% female
-        </td>
-        <td>34.1 years        
-        </td>
-        <td>36.3
-        </td>
-        <td>9.9 
-        </td>
-        <td> 3.22
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Tennessee/counties/Obion-County">Obion County</a></span>
-        </td>        
-        <td>31408     
-        </td>
-        <td>47.9% Male and 52.1% female
-        </td>
-        <td>41.5 years        
-        </td>
-        <td>16
-        </td>
-        <td>3.4 
-        </td>
-        <td> 2.98
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Tennessee/counties/McMinn-County">McMinn County</a></span>
-        </td>        
-        <td>52378     
-        </td>
-        <td>48.7% Male and 51.3% female
-        </td>
-        <td>41.9 years        
-        </td>
-        <td>14.8
-        </td>
-        <td>3 
+        <td>2.5 
         </td>
         <td> 3.11
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Tennessee/counties/McNairy-County">McNairy County</a></span>
+          <span class="name"> <a href="/states/Tennessee/counties/Hawkins-County">Hawkins County</a></span>
         </td>        
-        <td>26114     
+        <td>56689     
         </td>
         <td>48.5% Male and 51.5% female
         </td>
-        <td>42.2 years        
+        <td>43.1 years        
         </td>
-        <td>10.7
+        <td>11.7
         </td>
-        <td>1.8 
+        <td>1.3 
         </td>
-        <td> 3.23
+        <td> 2.93
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Tennessee/counties/Fayette-County">Fayette County</a></span>
+          <span class="name"> <a href="/states/Tennessee/counties/Henry-County">Henry County</a></span>
         </td>        
-        <td>38575     
+        <td>32292     
         </td>
-        <td>49.6% Male and 50.4% female
+        <td>48.6% Male and 51.4% female
         </td>
-        <td>43.2 years        
+        <td>45.3 years        
         </td>
-        <td>22.5
+        <td>16.5
+        </td>
+        <td>2 
+        </td>
+        <td> 2.84
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Tennessee/counties/Grainger-County">Grainger County</a></span>
+        </td>        
+        <td>22683     
+        </td>
+        <td>49.8% Male and 50.2% female
+        </td>
+        <td>43.1 years        
+        </td>
+        <td>12
+        </td>
+        <td>2.5 
+        </td>
+        <td> 3.04
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Tennessee/counties/Anderson-County">Anderson County</a></span>
+        </td>        
+        <td>75379     
+        </td>
+        <td>48.5% Male and 51.5% female
+        </td>
+        <td>43 years        
+        </td>
+        <td>23
         </td>
         <td>2.4 
         </td>
-        <td> 3.02
+        <td> 3.07
         </td>        
       <tr>       
         <td>        
@@ -913,51 +529,195 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Tennessee/counties/Carter-County">Carter County</a></span>
+          <span class="name"> <a href="/states/Tennessee/counties/Hardin-County">Hardin County</a></span>
         </td>        
-        <td>57390     
-        </td>
-        <td>48.7% Male and 51.3% female
-        </td>
-        <td>43.1 years        
-        </td>
-        <td>15.9
-        </td>
-        <td>1.6 
-        </td>
-        <td> 2.85
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Tennessee/counties/Claiborne-County">Claiborne County</a></span>
-        </td>        
-        <td>31763     
+        <td>25986     
         </td>
         <td>49% Male and 51% female
         </td>
-        <td>41.6 years        
+        <td>44.7 years        
         </td>
-        <td>15.3
+        <td>12.2
         </td>
         <td>0.6 
         </td>
-        <td> 2.96
+        <td> 3.34
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Tennessee/counties/Montgomery-County">Montgomery County</a></span>
+          <span class="name"> <a href="/states/Tennessee/counties/Morgan-County">Morgan County</a></span>
         </td>        
-        <td>182002     
+        <td>21999     
+        </td>
+        <td>55.6% Male and 44.4% female
+        </td>
+        <td>40.2 years        
+        </td>
+        <td>6.7
+        </td>
+        <td>1.1 
+        </td>
+        <td> 3.08
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Tennessee/counties/Henderson-County">Henderson County</a></span>
+        </td>        
+        <td>28044     
+        </td>
+        <td>48.5% Male and 51.5% female
+        </td>
+        <td>39.5 years        
+        </td>
+        <td>12.6
+        </td>
+        <td>2.1 
+        </td>
+        <td> 3.03
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Tennessee/counties/Carroll-County">Carroll County</a></span>
+        </td>        
+        <td>28559     
+        </td>
+        <td>49% Male and 51% female
+        </td>
+        <td>42.2 years        
+        </td>
+        <td>13.7
+        </td>
+        <td>2.3 
+        </td>
+        <td> 3.12
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Tennessee/counties/Fayette-County">Fayette County</a></span>
+        </td>        
+        <td>38575     
         </td>
         <td>49.6% Male and 50.4% female
         </td>
-        <td>30.2 years        
+        <td>43.2 years        
         </td>
-        <td>24.5
+        <td>22.5
         </td>
-        <td>8.9 
+        <td>2.4 
         </td>
-        <td> 3.17
+        <td> 3.02
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Tennessee/counties/Blount-County">Blount County</a></span>
+        </td>        
+        <td>124257     
+        </td>
+        <td>48.4% Male and 51.6% female
+        </td>
+        <td>42.2 years        
+        </td>
+        <td>21.2
+        </td>
+        <td>2.9 
+        </td>
+        <td> 3.01
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Tennessee/counties/Hamilton-County">Hamilton County</a></span>
+        </td>        
+        <td>345000     
+        </td>
+        <td>48.2% Male and 51.8% female
+        </td>
+        <td>39.3 years        
+        </td>
+        <td>27.1
+        </td>
+        <td>4.8 
+        </td>
+        <td> 3.08
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Tennessee/counties/Campbell-County">Campbell County</a></span>
+        </td>        
+        <td>40422     
+        </td>
+        <td>48.6% Male and 51.4% female
+        </td>
+        <td>42.6 years        
+        </td>
+        <td>9.2
+        </td>
+        <td>1.3 
+        </td>
+        <td> 3.09
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Tennessee/counties/Madison-County">Madison County</a></span>
+        </td>        
+        <td>98423     
+        </td>
+        <td>47.5% Male and 52.5% female
+        </td>
+        <td>37.3 years        
+        </td>
+        <td>24.7
+        </td>
+        <td>3.5 
+        </td>
+        <td> 3.32
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Tennessee/counties/Monroe-County">Monroe County</a></span>
+        </td>        
+        <td>45114     
+        </td>
+        <td>49.9% Male and 50.1% female
+        </td>
+        <td>42.7 years        
+        </td>
+        <td>11.4
+        </td>
+        <td>3.6 
+        </td>
+        <td> 3.08
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Tennessee/counties/Gibson-County">Gibson County</a></span>
+        </td>        
+        <td>49674     
+        </td>
+        <td>47% Male and 53% female
+        </td>
+        <td>40 years        
+        </td>
+        <td>16.2
+        </td>
+        <td>2.2 
+        </td>
+        <td> 3.04
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Tennessee/counties/Overton-County">Overton County</a></span>
+        </td>        
+        <td>22155     
+        </td>
+        <td>49.1% Male and 50.9% female
+        </td>
+        <td>41.5 years        
+        </td>
+        <td>14.6
+        </td>
+        <td>1.3 
+        </td>
+        <td> 2.96
         </td>        
       <tr>       
         <td>        
@@ -977,6 +737,262 @@
         </td>        
       <tr>       
         <td>        
+          <span class="name"> <a href="/states/Tennessee/counties/Marshall-County">Marshall County</a></span>
+        </td>        
+        <td>31005     
+        </td>
+        <td>49.4% Male and 50.6% female
+        </td>
+        <td>40.1 years        
+        </td>
+        <td>13.2
+        </td>
+        <td>4.7 
+        </td>
+        <td> 3.16
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Tennessee/counties/McMinn-County">McMinn County</a></span>
+        </td>        
+        <td>52378     
+        </td>
+        <td>48.7% Male and 51.3% female
+        </td>
+        <td>41.9 years        
+        </td>
+        <td>14.8
+        </td>
+        <td>3 
+        </td>
+        <td> 3.11
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Tennessee/counties/Lawrence-County">Lawrence County</a></span>
+        </td>        
+        <td>42052     
+        </td>
+        <td>49.1% Male and 50.9% female
+        </td>
+        <td>40.4 years        
+        </td>
+        <td>12.2
+        </td>
+        <td>1.8 
+        </td>
+        <td> 3.18
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Tennessee/counties/Carter-County">Carter County</a></span>
+        </td>        
+        <td>57390     
+        </td>
+        <td>48.7% Male and 51.3% female
+        </td>
+        <td>43.1 years        
+        </td>
+        <td>15.9
+        </td>
+        <td>1.6 
+        </td>
+        <td> 2.85
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Tennessee/counties/Hamblen-County">Hamblen County</a></span>
+        </td>        
+        <td>62888     
+        </td>
+        <td>48.5% Male and 51.5% female
+        </td>
+        <td>39.5 years        
+        </td>
+        <td>14.5
+        </td>
+        <td>10.9 
+        </td>
+        <td> 3.08
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Tennessee/counties/Marion-County">Marion County</a></span>
+        </td>        
+        <td>28232     
+        </td>
+        <td>49.4% Male and 50.6% female
+        </td>
+        <td>43 years        
+        </td>
+        <td>15.4
+        </td>
+        <td>1.4 
+        </td>
+        <td> 2.91
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Tennessee/counties/Greene-County">Greene County</a></span>
+        </td>        
+        <td>68612     
+        </td>
+        <td>48.9% Male and 51.1% female
+        </td>
+        <td>43.5 years        
+        </td>
+        <td>15.1
+        </td>
+        <td>2.7 
+        </td>
+        <td> 2.84
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Tennessee/counties/Dyer-County">Dyer County</a></span>
+        </td>        
+        <td>38209     
+        </td>
+        <td>48.1% Male and 51.9% female
+        </td>
+        <td>40.2 years        
+        </td>
+        <td>19.8
+        </td>
+        <td>2.9 
+        </td>
+        <td> 2.98
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Tennessee/counties/Dickson-County">Dickson County</a></span>
+        </td>        
+        <td>50180     
+        </td>
+        <td>48.6% Male and 51.4% female
+        </td>
+        <td>39.5 years        
+        </td>
+        <td>13.1
+        </td>
+        <td>3.1 
+        </td>
+        <td> 3.13
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Tennessee/counties/Lincoln-County">Lincoln County</a></span>
+        </td>        
+        <td>33501     
+        </td>
+        <td>49% Male and 51% female
+        </td>
+        <td>42.8 years        
+        </td>
+        <td>15.2
+        </td>
+        <td>3 
+        </td>
+        <td> 2.98
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Tennessee/counties/Lauderdale-County">Lauderdale County</a></span>
+        </td>        
+        <td>27780     
+        </td>
+        <td>52.6% Male and 47.4% female
+        </td>
+        <td>36.8 years        
+        </td>
+        <td>9.4
+        </td>
+        <td>2.3 
+        </td>
+        <td> 3.05
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Tennessee/counties/Davidson-County">Davidson County</a></span>
+        </td>        
+        <td>647670     
+        </td>
+        <td>48.4% Male and 51.6% female
+        </td>
+        <td>34.1 years        
+        </td>
+        <td>36.3
+        </td>
+        <td>9.9 
+        </td>
+        <td> 3.22
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Tennessee/counties/McNairy-County">McNairy County</a></span>
+        </td>        
+        <td>26114     
+        </td>
+        <td>48.5% Male and 51.5% female
+        </td>
+        <td>42.2 years        
+        </td>
+        <td>10.7
+        </td>
+        <td>1.8 
+        </td>
+        <td> 3.23
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Tennessee/counties/Loudon-County">Loudon County</a></span>
+        </td>        
+        <td>49753     
+        </td>
+        <td>48.8% Male and 51.2% female
+        </td>
+        <td>45.9 years        
+        </td>
+        <td>26.2
+        </td>
+        <td>7.5 
+        </td>
+        <td> 2.91
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Tennessee/counties/Obion-County">Obion County</a></span>
+        </td>        
+        <td>31408     
+        </td>
+        <td>47.9% Male and 52.1% female
+        </td>
+        <td>41.5 years        
+        </td>
+        <td>16
+        </td>
+        <td>3.4 
+        </td>
+        <td> 2.98
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Tennessee/counties/Cumberland-County">Cumberland County</a></span>
+        </td>        
+        <td>57023     
+        </td>
+        <td>48.4% Male and 51.6% female
+        </td>
+        <td>49 years        
+        </td>
+        <td>17.7
+        </td>
+        <td>2.6 
+        </td>
+        <td> 2.85
+        </td>        
+      <tr>       
+        <td>        
           <span class="name"> <a href="/states/Tennessee/counties/Coffee-County">Coffee County</a></span>
         </td>        
         <td>53151     
@@ -993,51 +1009,35 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Tennessee/counties/Henry-County">Henry County</a></span>
+          <span class="name"> <a href="/states/Tennessee/counties/Knox-County">Knox County</a></span>
         </td>        
-        <td>32292     
+        <td>440800     
         </td>
         <td>48.6% Male and 51.4% female
         </td>
-        <td>45.3 years        
+        <td>37.3 years        
         </td>
-        <td>16.5
+        <td>34.1
         </td>
-        <td>2 
+        <td>3.7 
         </td>
-        <td> 2.84
+        <td> 3.03
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Tennessee/counties/Hardeman-County">Hardeman County</a></span>
+          <span class="name"> <a href="/states/Tennessee/counties/Claiborne-County">Claiborne County</a></span>
         </td>        
-        <td>26568     
+        <td>31763     
         </td>
-        <td>54.6% Male and 45.4% female
+        <td>49% Male and 51% female
         </td>
-        <td>39.3 years        
+        <td>41.6 years        
         </td>
-        <td>9.7
+        <td>15.3
         </td>
-        <td>1.5 
+        <td>0.6 
         </td>
-        <td> 3.18
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Tennessee/counties/Cheatham-County">Cheatham County</a></span>
-        </td>        
-        <td>39260     
-        </td>
-        <td>49.9% Male and 50.1% female
-        </td>
-        <td>39.7 years        
-        </td>
-        <td>18.8
-        </td>
-        <td>2.5 
-        </td>
-        <td> 3.11
+        <td> 2.96
         </td>        
       <tr>       
         <td>        
@@ -1057,19 +1057,19 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Tennessee/counties/Lauderdale-County">Lauderdale County</a></span>
+          <span class="name"> <a href="/states/Tennessee/counties/Hickman-County">Hickman County</a></span>
         </td>        
-        <td>27780     
+        <td>24291     
         </td>
         <td>52.6% Male and 47.4% female
         </td>
-        <td>36.8 years        
+        <td>40.5 years        
         </td>
-        <td>9.4
+        <td>9.2
         </td>
-        <td>2.3 
+        <td>2.2 
         </td>
-        <td> 3.05
+        <td> 3.21
         </td>        
          </tbody>
   </table>

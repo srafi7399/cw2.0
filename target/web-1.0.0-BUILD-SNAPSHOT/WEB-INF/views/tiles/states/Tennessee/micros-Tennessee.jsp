@@ -257,22 +257,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Tennessee/micros/Athens">Athens</a></span>
-        </td>        
-        <td>52378     
-        </td>
-        <td>48.7% Male and 51.3% female
-        </td>
-        <td>41.9 years        
-        </td>
-        <td>14.8
-        </td>
-        <td>3 
-        </td>
-        <td> 3.11
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Tennessee/micros/Lewisburg">Lewisburg</a></span>
         </td>        
         <td>31005     
@@ -286,6 +270,22 @@
         <td>4.7 
         </td>
         <td> 3.16
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Tennessee/micros/Athens">Athens</a></span>
+        </td>        
+        <td>52378     
+        </td>
+        <td>48.7% Male and 51.3% female
+        </td>
+        <td>41.9 years        
+        </td>
+        <td>14.8
+        </td>
+        <td>3 
+        </td>
+        <td> 3.11
         </td>        
          </tbody>
   </table>

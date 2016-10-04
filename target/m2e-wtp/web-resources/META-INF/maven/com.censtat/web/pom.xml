@@ -164,11 +164,6 @@
 			<version>1.6.1.RELEASE</version>
 		</dependency>
 		<dependency>
-			<groupId>CensusDBService</groupId>
-			<artifactId>CensusDBService</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
-		<dependency>
 			<groupId>com.google.code.gson</groupId>
 			<artifactId>gson</artifactId>
 			<version>2.3.1</version>
@@ -225,11 +220,22 @@
             <plugin>
                 <groupId>org.codehaus.mojo</groupId>
                 <artifactId>exec-maven-plugin</artifactId>
-                <version>1.2.1</version>
-                <configuration>
-                    <mainClass>org.test.int1.Main</mainClass>
-                </configuration>
-            </plugin>
+                <version>1.2.1</version>               
+				                <executions>
+					<execution>
+						<id>one</id>
+						<phase>codegen</phase>
+						<goals>
+							<goal>java</goal>				
+						</goals>						
+					</execution>
+				</executions>
+			<!-- 	<configuration>
+				<mainClass>com.censtat.data.tools.DataParserJSONObjectFactory</mainClass>
+				</configuration> -->
+				
+				            </plugin>
+           
         </plugins>
     </build>
 </project>

@@ -81,22 +81,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Idaho/counties/Canyon-County">Canyon County</a></span>
-        </td>        
-        <td>194687     
-        </td>
-        <td>49.5% Male and 50.5% female
-        </td>
-        <td>32.7 years        
-        </td>
-        <td>17.7
-        </td>
-        <td>24.3 
-        </td>
-        <td> 3.47
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Idaho/counties/Bonneville-County">Bonneville County</a></span>
         </td>        
         <td>106737     
@@ -113,35 +97,35 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Idaho/counties/Madison-County">Madison County</a></span>
+          <span class="name"> <a href="/states/Idaho/counties/Canyon-County">Canyon County</a></span>
         </td>        
-        <td>37664     
+        <td>194687     
         </td>
-        <td>49.4% Male and 50.6% female
+        <td>49.5% Male and 50.5% female
         </td>
-        <td>23 years        
+        <td>32.7 years        
         </td>
-        <td>33.7
+        <td>17.7
         </td>
-        <td>6.3 
+        <td>24.3 
         </td>
         <td> 3.47
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Idaho/counties/Cassia-County">Cassia County</a></span>
+          <span class="name"> <a href="/states/Idaho/counties/Kootenai-County">Kootenai County</a></span>
         </td>        
-        <td>23241     
+        <td>142541     
         </td>
-        <td>50.9% Male and 49.1% female
+        <td>49.4% Male and 50.6% female
         </td>
-        <td>31.6 years        
+        <td>39.1 years        
         </td>
-        <td>17.1
+        <td>23.1
         </td>
-        <td>25.8 
+        <td>4.1 
         </td>
-        <td> 3.65
+        <td> 2.98
         </td>        
       <tr>       
         <td>        
@@ -161,19 +145,19 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Idaho/counties/Bonner-County">Bonner County</a></span>
+          <span class="name"> <a href="/states/Idaho/counties/Blaine-County">Blaine County</a></span>
         </td>        
-        <td>40660     
+        <td>21193     
         </td>
-        <td>50.1% Male and 49.9% female
+        <td>51.5% Male and 48.5% female
         </td>
-        <td>46.7 years        
+        <td>42.2 years        
         </td>
-        <td>21.6
+        <td>46.8
         </td>
-        <td>2.5 
+        <td>20.1 
         </td>
-        <td> 2.83
+        <td> 2.76
         </td>        
       <tr>       
         <td>        
@@ -225,51 +209,19 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Idaho/counties/Nez-Perce-County">Nez Perce County</a></span>
+          <span class="name"> <a href="/states/Idaho/counties/Jefferson-County">Jefferson County</a></span>
         </td>        
-        <td>39641     
+        <td>26650     
         </td>
-        <td>49.6% Male and 50.4% female
+        <td>50.5% Male and 49.5% female
         </td>
-        <td>41.4 years        
+        <td>30.7 years        
         </td>
-        <td>23.3
+        <td>22.3
         </td>
-        <td>3.1 
+        <td>10.4 
         </td>
-        <td> 2.94
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Idaho/counties/Twin-Falls-County">Twin Falls County</a></span>
-        </td>        
-        <td>78846     
-        </td>
-        <td>49.3% Male and 50.7% female
-        </td>
-        <td>34.4 years        
-        </td>
-        <td>16.7
-        </td>
-        <td>14.4 
-        </td>
-        <td> 3.2
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Idaho/counties/Elmore-County">Elmore County</a></span>
-        </td>        
-        <td>26257     
-        </td>
-        <td>50.2% Male and 49.8% female
-        </td>
-        <td>30.3 years        
-        </td>
-        <td>16.9
-        </td>
-        <td>15.9 
-        </td>
-        <td> 3.15
+        <td> 3.68
         </td>        
       <tr>       
         <td>        
@@ -289,51 +241,99 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Idaho/counties/Kootenai-County">Kootenai County</a></span>
+          <span class="name"> <a href="/states/Idaho/counties/Nez-Perce-County">Nez Perce County</a></span>
         </td>        
-        <td>142541     
+        <td>39641     
+        </td>
+        <td>49.6% Male and 50.4% female
+        </td>
+        <td>41.4 years        
+        </td>
+        <td>23.3
+        </td>
+        <td>3.1 
+        </td>
+        <td> 2.94
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Idaho/counties/Bonner-County">Bonner County</a></span>
+        </td>        
+        <td>40660     
+        </td>
+        <td>50.1% Male and 49.9% female
+        </td>
+        <td>46.7 years        
+        </td>
+        <td>21.6
+        </td>
+        <td>2.5 
+        </td>
+        <td> 2.83
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Idaho/counties/Madison-County">Madison County</a></span>
+        </td>        
+        <td>37664     
         </td>
         <td>49.4% Male and 50.6% female
         </td>
-        <td>39.1 years        
+        <td>23 years        
         </td>
-        <td>23.1
+        <td>33.7
         </td>
-        <td>4.1 
+        <td>6.3 
         </td>
-        <td> 2.98
+        <td> 3.47
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Idaho/counties/Blaine-County">Blaine County</a></span>
+          <span class="name"> <a href="/states/Idaho/counties/Twin-Falls-County">Twin Falls County</a></span>
         </td>        
-        <td>21193     
+        <td>78846     
         </td>
-        <td>51.5% Male and 48.5% female
+        <td>49.3% Male and 50.7% female
         </td>
-        <td>42.2 years        
+        <td>34.4 years        
         </td>
-        <td>46.8
+        <td>16.7
         </td>
-        <td>20.1 
+        <td>14.4 
         </td>
-        <td> 2.76
+        <td> 3.2
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Idaho/counties/Jefferson-County">Jefferson County</a></span>
+          <span class="name"> <a href="/states/Idaho/counties/Cassia-County">Cassia County</a></span>
         </td>        
-        <td>26650     
+        <td>23241     
         </td>
-        <td>50.5% Male and 49.5% female
+        <td>50.9% Male and 49.1% female
         </td>
-        <td>30.7 years        
+        <td>31.6 years        
         </td>
-        <td>22.3
+        <td>17.1
         </td>
-        <td>10.4 
+        <td>25.8 
         </td>
-        <td> 3.68
+        <td> 3.65
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Idaho/counties/Elmore-County">Elmore County</a></span>
+        </td>        
+        <td>26257     
+        </td>
+        <td>50.2% Male and 49.8% female
+        </td>
+        <td>30.3 years        
+        </td>
+        <td>16.9
+        </td>
+        <td>15.9 
+        </td>
+        <td> 3.15
         </td>        
          </tbody>
   </table>

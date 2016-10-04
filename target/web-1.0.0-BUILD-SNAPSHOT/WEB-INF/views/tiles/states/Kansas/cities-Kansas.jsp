@@ -369,22 +369,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Kansas/cities/Junction-City-city">Junction City city</a></span>
-        </td>        
-        <td>25131     
-        </td>
-        <td>51.5% Male and 48.5% female
-        </td>
-        <td>26.6 years        
-        </td>
-        <td>22.7
-        </td>
-        <td>14.4 
-        </td>
-        <td> 3.29
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Kansas/cities/Derby-city">Derby city</a></span>
         </td>        
         <td>24074     
@@ -398,6 +382,22 @@
         <td>5.5 
         </td>
         <td> 3.12
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Kansas/cities/Junction-City-city">Junction City city</a></span>
+        </td>        
+        <td>25131     
+        </td>
+        <td>51.5% Male and 48.5% female
+        </td>
+        <td>26.6 years        
+        </td>
+        <td>22.7
+        </td>
+        <td>14.4 
+        </td>
+        <td> 3.29
         </td>        
          </tbody>
   </table>

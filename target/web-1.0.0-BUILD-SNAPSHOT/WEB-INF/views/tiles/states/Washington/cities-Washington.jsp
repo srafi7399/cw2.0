@@ -897,6 +897,22 @@
         </td>        
       <tr>       
         <td>        
+          <span class="name"> <a href="/states/Washington/cities/Kirkland-city">Kirkland city</a></span>
+        </td>        
+        <td>83333     
+        </td>
+        <td>49% Male and 51% female
+        </td>
+        <td>37.2 years        
+        </td>
+        <td>54.7
+        </td>
+        <td>7.3 
+        </td>
+        <td> 2.97
+        </td>        
+      <tr>       
+        <td>        
           <span class="name"> <a href="/states/Washington/cities/Spanaway">Spanaway</a></span>
         </td>        
         <td>27041     
@@ -910,22 +926,6 @@
         <td>13.9 
         </td>
         <td> 3.27
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Washington/cities/Shoreline-city">Shoreline city</a></span>
-        </td>        
-        <td>54312     
-        </td>
-        <td>49% Male and 51% female
-        </td>
-        <td>41.2 years        
-        </td>
-        <td>40.1
-        </td>
-        <td>9.5 
-        </td>
-        <td> 3.09
         </td>        
       <tr>       
         <td>        
@@ -945,19 +945,19 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Washington/cities/Kirkland-city">Kirkland city</a></span>
+          <span class="name"> <a href="/states/Washington/cities/Shoreline-city">Shoreline city</a></span>
         </td>        
-        <td>83333     
+        <td>54312     
         </td>
         <td>49% Male and 51% female
         </td>
-        <td>37.2 years        
+        <td>41.2 years        
         </td>
-        <td>54.7
+        <td>40.1
         </td>
-        <td>7.3 
+        <td>9.5 
         </td>
-        <td> 2.97
+        <td> 3.09
         </td>        
          </tbody>
   </table>

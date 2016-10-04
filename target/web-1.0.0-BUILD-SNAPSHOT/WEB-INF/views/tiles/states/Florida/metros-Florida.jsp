@@ -369,22 +369,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Florida/metros/TampaSt-PetersburgClearwater">Tampa-St. Petersburg-Clearwater</a></span>
-        </td>        
-        <td>2847767     
-        </td>
-        <td>48.4% Male and 51.6% female
-        </td>
-        <td>41.7 years        
-        </td>
-        <td>26.6
-        </td>
-        <td>17 
-        </td>
-        <td> 3.16
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Florida/metros/Homosassa-Springs">Homosassa Springs</a></span>
         </td>        
         <td>139467     
@@ -398,6 +382,22 @@
         <td>4.9 
         </td>
         <td> 2.76
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Florida/metros/TampaSt-PetersburgClearwater">Tampa-St. Petersburg-Clearwater</a></span>
+        </td>        
+        <td>2847767     
+        </td>
+        <td>48.4% Male and 51.6% female
+        </td>
+        <td>41.7 years        
+        </td>
+        <td>26.6
+        </td>
+        <td>17 
+        </td>
+        <td> 3.16
         </td>        
          </tbody>
   </table>

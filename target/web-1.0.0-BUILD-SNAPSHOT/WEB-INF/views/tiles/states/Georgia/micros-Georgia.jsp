@@ -321,38 +321,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Georgia/micros/Dublin">Dublin</a></span>
-        </td>        
-        <td>57862     
-        </td>
-        <td>49% Male and 51% female
-        </td>
-        <td>38.8 years        
-        </td>
-        <td>14.1
-        </td>
-        <td>2 
-        </td>
-        <td> 3.25
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Georgia/micros/Douglas">Douglas</a></span>
-        </td>        
-        <td>43126     
-        </td>
-        <td>51.2% Male and 48.8% female
-        </td>
-        <td>34.9 years        
-        </td>
-        <td>14.3
-        </td>
-        <td>10.5 
-        </td>
-        <td> 3.34
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Georgia/micros/Milledgeville">Milledgeville</a></span>
         </td>        
         <td>54882     
@@ -382,6 +350,38 @@
         <td>10.8 
         </td>
         <td> 3.2
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Georgia/micros/Douglas">Douglas</a></span>
+        </td>        
+        <td>43126     
+        </td>
+        <td>51.2% Male and 48.8% female
+        </td>
+        <td>34.9 years        
+        </td>
+        <td>14.3
+        </td>
+        <td>10.5 
+        </td>
+        <td> 3.34
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Georgia/micros/Dublin">Dublin</a></span>
+        </td>        
+        <td>57862     
+        </td>
+        <td>49% Male and 51% female
+        </td>
+        <td>38.8 years        
+        </td>
+        <td>14.1
+        </td>
+        <td>2 
+        </td>
+        <td> 3.25
         </td>        
          </tbody>
   </table>

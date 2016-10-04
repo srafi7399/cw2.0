@@ -49,81 +49,33 @@
     <tbody>    
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Puerto-Rico/cities/Trujillo-Alto-zona-urbana">Trujillo Alto zona urbana</a></span>
+          <span class="name"> <a href="/states/Puerto-Rico/cities/Fajardo-zona-urbana">Fajardo zona urbana</a></span>
         </td>        
-        <td>47918     
+        <td>27257     
         </td>
-        <td>46.8% Male and 53.2% female
+        <td>46.4% Male and 53.6% female
         </td>
-        <td>37.5 years        
+        <td>39.5 years        
         </td>
         <td>no data
         </td>
-        <td>99.4 
+        <td>99.8 
         </td>
         <td> no data
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Puerto-Rico/cities/Bayamon-zona-urbana">Bayamon zona urbana</a></span>
+          <span class="name"> <a href="/states/Puerto-Rico/cities/San-Juan-zona-urbana">San Juan zona urbana</a></span>
         </td>        
-        <td>181580     
-        </td>
-        <td>47.4% Male and 52.6% female
-        </td>
-        <td>39.1 years        
-        </td>
-        <td>no data
-        </td>
-        <td>99.1 
-        </td>
-        <td> no data
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Puerto-Rico/cities/Carolina-zona-urbana">Carolina zona urbana</a></span>
-        </td>        
-        <td>155018     
+        <td>367222     
         </td>
         <td>45.7% Male and 54.3% female
         </td>
-        <td>38.5 years        
+        <td>39.8 years        
         </td>
         <td>no data
         </td>
-        <td>98.7 
-        </td>
-        <td> no data
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Puerto-Rico/cities/Guaynabo-zona-urbana">Guaynabo zona urbana</a></span>
-        </td>        
-        <td>74798     
-        </td>
-        <td>46.3% Male and 53.7% female
-        </td>
-        <td>39.9 years        
-        </td>
-        <td>no data
-        </td>
-        <td>98.1 
-        </td>
-        <td> no data
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Puerto-Rico/cities/Catano-zona-urbana">Catano zona urbana</a></span>
-        </td>        
-        <td>27304     
-        </td>
-        <td>47.4% Male and 52.6% female
-        </td>
-        <td>36 years        
-        </td>
-        <td>no data
-        </td>
-        <td>99.4 
+        <td>98.2 
         </td>
         <td> no data
         </td>        
@@ -177,6 +129,38 @@
         </td>        
       <tr>       
         <td>        
+          <span class="name"> <a href="/states/Puerto-Rico/cities/Guaynabo-zona-urbana">Guaynabo zona urbana</a></span>
+        </td>        
+        <td>74798     
+        </td>
+        <td>46.3% Male and 53.7% female
+        </td>
+        <td>39.9 years        
+        </td>
+        <td>no data
+        </td>
+        <td>98.1 
+        </td>
+        <td> no data
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Puerto-Rico/cities/Catano-zona-urbana">Catano zona urbana</a></span>
+        </td>        
+        <td>27304     
+        </td>
+        <td>47.4% Male and 52.6% female
+        </td>
+        <td>36 years        
+        </td>
+        <td>no data
+        </td>
+        <td>99.4 
+        </td>
+        <td> no data
+        </td>        
+      <tr>       
+        <td>        
           <span class="name"> <a href="/states/Puerto-Rico/cities/Levittown-comunidad">Levittown comunidad</a></span>
         </td>        
         <td>27564     
@@ -193,49 +177,49 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Puerto-Rico/cities/San-Juan-zona-urbana">San Juan zona urbana</a></span>
+          <span class="name"> <a href="/states/Puerto-Rico/cities/Trujillo-Alto-zona-urbana">Trujillo Alto zona urbana</a></span>
         </td>        
-        <td>367222     
+        <td>47918     
+        </td>
+        <td>46.8% Male and 53.2% female
+        </td>
+        <td>37.5 years        
+        </td>
+        <td>no data
+        </td>
+        <td>99.4 
+        </td>
+        <td> no data
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Puerto-Rico/cities/Bayamon-zona-urbana">Bayamon zona urbana</a></span>
+        </td>        
+        <td>181580     
+        </td>
+        <td>47.4% Male and 52.6% female
+        </td>
+        <td>39.1 years        
+        </td>
+        <td>no data
+        </td>
+        <td>99.1 
+        </td>
+        <td> no data
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Puerto-Rico/cities/Carolina-zona-urbana">Carolina zona urbana</a></span>
+        </td>        
+        <td>155018     
         </td>
         <td>45.7% Male and 54.3% female
         </td>
-        <td>39.8 years        
+        <td>38.5 years        
         </td>
         <td>no data
         </td>
-        <td>98.2 
-        </td>
-        <td> no data
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Puerto-Rico/cities/Fajardo-zona-urbana">Fajardo zona urbana</a></span>
-        </td>        
-        <td>27257     
-        </td>
-        <td>46.4% Male and 53.6% female
-        </td>
-        <td>39.5 years        
-        </td>
-        <td>no data
-        </td>
-        <td>99.8 
-        </td>
-        <td> no data
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Puerto-Rico/cities/Vega-Baja-zona-urbana">Vega Baja zona urbana</a></span>
-        </td>        
-        <td>26881     
-        </td>
-        <td>48.1% Male and 51.9% female
-        </td>
-        <td>36.4 years        
-        </td>
-        <td>no data
-        </td>
-        <td>97.4 
+        <td>98.7 
         </td>
         <td> no data
         </td>        
@@ -252,6 +236,22 @@
         <td>no data
         </td>
         <td>99.1 
+        </td>
+        <td> no data
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Puerto-Rico/cities/Vega-Baja-zona-urbana">Vega Baja zona urbana</a></span>
+        </td>        
+        <td>26881     
+        </td>
+        <td>48.1% Male and 51.9% female
+        </td>
+        <td>36.4 years        
+        </td>
+        <td>no data
+        </td>
+        <td>97.4 
         </td>
         <td> no data
         </td>        

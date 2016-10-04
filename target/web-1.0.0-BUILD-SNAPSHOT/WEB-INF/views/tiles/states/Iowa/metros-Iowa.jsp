@@ -113,19 +113,19 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Iowa/metros/WaterlooCedar-Falls">Waterloo-Cedar Falls</a></span>
+          <span class="name"> <a href="/states/Iowa/metros/Ames">Ames</a></span>
         </td>        
-        <td>168747     
+        <td>91623     
         </td>
-        <td>48.9% Male and 51.1% female
+        <td>51.7% Male and 48.3% female
         </td>
-        <td>35.7 years        
+        <td>26.2 years        
         </td>
-        <td>26
+        <td>47.9
         </td>
-        <td>3.3 
+        <td>3.2 
         </td>
-        <td> 3.03
+        <td> 2.87
         </td>        
       <tr>       
         <td>        
@@ -145,19 +145,19 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Iowa/metros/Ames">Ames</a></span>
+          <span class="name"> <a href="/states/Iowa/metros/WaterlooCedar-Falls">Waterloo-Cedar Falls</a></span>
         </td>        
-        <td>91623     
+        <td>168747     
         </td>
-        <td>51.7% Male and 48.3% female
+        <td>48.9% Male and 51.1% female
         </td>
-        <td>26.2 years        
+        <td>35.7 years        
         </td>
-        <td>47.9
+        <td>26
         </td>
-        <td>3.2 
+        <td>3.3 
         </td>
-        <td> 2.87
+        <td> 3.03
         </td>        
       <tr>       
         <td>        

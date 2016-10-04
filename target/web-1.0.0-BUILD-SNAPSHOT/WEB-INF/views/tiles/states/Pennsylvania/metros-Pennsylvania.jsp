@@ -273,22 +273,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Pennsylvania/metros/Altoona">Altoona</a></span>
-        </td>        
-        <td>126839     
-        </td>
-        <td>48.6% Male and 51.4% female
-        </td>
-        <td>42.6 years        
-        </td>
-        <td>18.5
-        </td>
-        <td>1 
-        </td>
-        <td> 3.01
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Pennsylvania/metros/York-Hanover">York-Hanover</a></span>
         </td>        
         <td>437720     
@@ -305,17 +289,17 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Pennsylvania/metros/Gettysburg">Gettysburg</a></span>
+          <span class="name"> <a href="/states/Pennsylvania/metros/Altoona">Altoona</a></span>
         </td>        
-        <td>101589     
+        <td>126839     
         </td>
-        <td>49.4% Male and 50.6% female
+        <td>48.6% Male and 51.4% female
         </td>
-        <td>42.3 years        
+        <td>42.6 years        
         </td>
-        <td>21.7
+        <td>18.5
         </td>
-        <td>6.4 
+        <td>1 
         </td>
         <td> 3.01
         </td>        
@@ -334,6 +318,22 @@
         <td>2.3 
         </td>
         <td> 2.92
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Pennsylvania/metros/Gettysburg">Gettysburg</a></span>
+        </td>        
+        <td>101589     
+        </td>
+        <td>49.4% Male and 50.6% female
+        </td>
+        <td>42.3 years        
+        </td>
+        <td>21.7
+        </td>
+        <td>6.4 
+        </td>
+        <td> 3.01
         </td>        
          </tbody>
   </table>

@@ -225,6 +225,22 @@
         </td>        
       <tr>       
         <td>        
+          <span class="name"> <a href="/states/Michigan/metros/Detroit-Warren-Dearborn">Detroit-Warren-Dearborn</a></span>
+        </td>        
+        <td>4291790     
+        </td>
+        <td>48.5% Male and 51.5% female
+        </td>
+        <td>39.7 years        
+        </td>
+        <td>28.3
+        </td>
+        <td>4.1 
+        </td>
+        <td> 3.23
+        </td>        
+      <tr>       
+        <td>        
           <span class="name"> <a href="/states/Michigan/metros/Grand-RapidsWyoming">Grand Rapids-Wyoming</a></span>
         </td>        
         <td>1006034     
@@ -254,22 +270,6 @@
         <td>5.8 
         </td>
         <td> 3.09
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Michigan/metros/Detroit-Warren-Dearborn">Detroit-Warren-Dearborn</a></span>
-        </td>        
-        <td>4291790     
-        </td>
-        <td>48.5% Male and 51.5% female
-        </td>
-        <td>39.7 years        
-        </td>
-        <td>28.3
-        </td>
-        <td>4.1 
-        </td>
-        <td> 3.23
         </td>        
          </tbody>
   </table>

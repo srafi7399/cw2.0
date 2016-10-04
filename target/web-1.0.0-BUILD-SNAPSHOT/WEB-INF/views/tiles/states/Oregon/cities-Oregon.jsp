@@ -337,22 +337,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Oregon/cities/West-Linn-city">West Linn city</a></span>
-        </td>        
-        <td>25691     
-        </td>
-        <td>50.9% Male and 49.1% female
-        </td>
-        <td>44.4 years        
-        </td>
-        <td>55.2
-        </td>
-        <td>4.6 
-        </td>
-        <td> 2.96
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Oregon/cities/Ashland-city">Ashland city</a></span>
         </td>        
         <td>20521     
@@ -369,67 +353,35 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Oregon/cities/Keizer-city">Keizer city</a></span>
+          <span class="name"> <a href="/states/Oregon/cities/Roseburg-city">Roseburg city</a></span>
         </td>        
-        <td>36900     
+        <td>21904     
         </td>
-        <td>48.2% Male and 51.8% female
+        <td>48.4% Male and 51.6% female
         </td>
-        <td>34.6 years        
+        <td>44.2 years        
         </td>
-        <td>24.9
+        <td>19.6
         </td>
-        <td>21.5 
+        <td>4.7 
         </td>
-        <td> 3.07
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Oregon/cities/Oregon-City-city">Oregon City city</a></span>
-        </td>        
-        <td>33782     
-        </td>
-        <td>49.6% Male and 50.4% female
-        </td>
-        <td>37.5 years        
-        </td>
-        <td>23.4
-        </td>
-        <td>7.9 
-        </td>
-        <td> 3.08
+        <td> 2.83
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Oregon/cities/Salem-city">Salem city</a></span>
+          <span class="name"> <a href="/states/Oregon/cities/Gresham-city">Gresham city</a></span>
         </td>        
-        <td>158709     
+        <td>108610     
         </td>
-        <td>49.1% Male and 50.9% female
+        <td>49.7% Male and 50.3% female
         </td>
-        <td>35 years        
+        <td>34.4 years        
         </td>
-        <td>26.6
+        <td>19.2
         </td>
-        <td>20.7 
+        <td>18.8 
         </td>
-        <td> 3.2
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Oregon/cities/McMinnville-city">McMinnville city</a></span>
-        </td>        
-        <td>32855     
-        </td>
-        <td>46.8% Male and 53.2% female
-        </td>
-        <td>34.9 years        
-        </td>
-        <td>20.8
-        </td>
-        <td>22.3 
-        </td>
-        <td> 3.19
+        <td> 3.33
         </td>        
       <tr>       
         <td>        
@@ -465,35 +417,83 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Oregon/cities/Gresham-city">Gresham city</a></span>
+          <span class="name"> <a href="/states/Oregon/cities/McMinnville-city">McMinnville city</a></span>
         </td>        
-        <td>108610     
+        <td>32855     
         </td>
-        <td>49.7% Male and 50.3% female
+        <td>46.8% Male and 53.2% female
         </td>
-        <td>34.4 years        
+        <td>34.9 years        
         </td>
-        <td>19.2
+        <td>20.8
         </td>
-        <td>18.8 
+        <td>22.3 
         </td>
-        <td> 3.33
+        <td> 3.19
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Oregon/cities/Roseburg-city">Roseburg city</a></span>
+          <span class="name"> <a href="/states/Oregon/cities/West-Linn-city">West Linn city</a></span>
         </td>        
-        <td>21904     
+        <td>25691     
         </td>
-        <td>48.4% Male and 51.6% female
+        <td>50.9% Male and 49.1% female
         </td>
-        <td>44.2 years        
+        <td>44.4 years        
         </td>
-        <td>19.6
+        <td>55.2
         </td>
-        <td>4.7 
+        <td>4.6 
         </td>
-        <td> 2.83
+        <td> 2.96
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Oregon/cities/Oregon-City-city">Oregon City city</a></span>
+        </td>        
+        <td>33782     
+        </td>
+        <td>49.6% Male and 50.4% female
+        </td>
+        <td>37.5 years        
+        </td>
+        <td>23.4
+        </td>
+        <td>7.9 
+        </td>
+        <td> 3.08
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Oregon/cities/Keizer-city">Keizer city</a></span>
+        </td>        
+        <td>36900     
+        </td>
+        <td>48.2% Male and 51.8% female
+        </td>
+        <td>34.6 years        
+        </td>
+        <td>24.9
+        </td>
+        <td>21.5 
+        </td>
+        <td> 3.07
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Oregon/cities/Salem-city">Salem city</a></span>
+        </td>        
+        <td>158709     
+        </td>
+        <td>49.1% Male and 50.9% female
+        </td>
+        <td>35 years        
+        </td>
+        <td>26.6
+        </td>
+        <td>20.7 
+        </td>
+        <td> 3.2
         </td>        
          </tbody>
   </table>

@@ -353,6 +353,22 @@
         </td>        
       <tr>       
         <td>        
+          <span class="name"> <a href="/states/Iowa/cities/Muscatine-city">Muscatine city</a></span>
+        </td>        
+        <td>23011     
+        </td>
+        <td>48.4% Male and 51.6% female
+        </td>
+        <td>35.8 years        
+        </td>
+        <td>16.2
+        </td>
+        <td>16.7 
+        </td>
+        <td> 3.13
+        </td>        
+      <tr>       
+        <td>        
           <span class="name"> <a href="/states/Iowa/cities/Urbandale-city">Urbandale city</a></span>
         </td>        
         <td>41271     
@@ -382,22 +398,6 @@
         <td>3.7 
         </td>
         <td> 3.09
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Iowa/cities/Muscatine-city">Muscatine city</a></span>
-        </td>        
-        <td>23011     
-        </td>
-        <td>48.4% Male and 51.6% female
-        </td>
-        <td>35.8 years        
-        </td>
-        <td>16.2
-        </td>
-        <td>16.7 
-        </td>
-        <td> 3.13
         </td>        
          </tbody>
   </table>

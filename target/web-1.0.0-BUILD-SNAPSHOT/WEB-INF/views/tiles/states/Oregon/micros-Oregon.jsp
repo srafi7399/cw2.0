@@ -177,22 +177,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Oregon/micros/Klamath-Falls">Klamath Falls</a></span>
-        </td>        
-        <td>66099     
-        </td>
-        <td>49.8% Male and 50.2% female
-        </td>
-        <td>42 years        
-        </td>
-        <td>20.2
-        </td>
-        <td>11.2 
-        </td>
-        <td> 2.87
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Oregon/micros/La-Grande">La Grande</a></span>
         </td>        
         <td>25793     
@@ -206,6 +190,22 @@
         <td>4.3 
         </td>
         <td> 3
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Oregon/micros/Klamath-Falls">Klamath Falls</a></span>
+        </td>        
+        <td>66099     
+        </td>
+        <td>49.8% Male and 50.2% female
+        </td>
+        <td>42 years        
+        </td>
+        <td>20.2
+        </td>
+        <td>11.2 
+        </td>
+        <td> 2.87
         </td>        
          </tbody>
   </table>

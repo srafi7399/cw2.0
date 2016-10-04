@@ -209,22 +209,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/New-York/metros/Elmira">Elmira</a></span>
-        </td>        
-        <td>88864     
-        </td>
-        <td>49.9% Male and 50.1% female
-        </td>
-        <td>40.8 years        
-        </td>
-        <td>22.5
-        </td>
-        <td>2.8 
-        </td>
-        <td> 2.93
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/New-York/metros/Kingston">Kingston</a></span>
         </td>        
         <td>181806     
@@ -238,6 +222,22 @@
         <td>9.3 
         </td>
         <td> 3.04
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/New-York/metros/Elmira">Elmira</a></span>
+        </td>        
+        <td>88864     
+        </td>
+        <td>49.9% Male and 50.1% female
+        </td>
+        <td>40.8 years        
+        </td>
+        <td>22.5
+        </td>
+        <td>2.8 
+        </td>
+        <td> 2.93
         </td>        
          </tbody>
   </table>

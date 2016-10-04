@@ -513,22 +513,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Wisconsin/cities/Mount-Pleasant-village">Mount Pleasant village</a></span>
-        </td>        
-        <td>26188     
-        </td>
-        <td>48.3% Male and 51.7% female
-        </td>
-        <td>45.5 years        
-        </td>
-        <td>33.4
-        </td>
-        <td>10 
-        </td>
-        <td> 2.99
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Wisconsin/cities/Superior-city">Superior city</a></span>
         </td>        
         <td>26950     
@@ -542,54 +526,6 @@
         <td>0.9 
         </td>
         <td> 2.84
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Wisconsin/cities/Madison-city">Madison city</a></span>
-        </td>        
-        <td>240301     
-        </td>
-        <td>49.3% Male and 50.7% female
-        </td>
-        <td>30.9 years        
-        </td>
-        <td>53.7
-        </td>
-        <td>6.9 
-        </td>
-        <td> 2.87
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Wisconsin/cities/Muskego-city">Muskego city</a></span>
-        </td>        
-        <td>24423     
-        </td>
-        <td>50.1% Male and 49.9% female
-        </td>
-        <td>42.5 years        
-        </td>
-        <td>29.9
-        </td>
-        <td>3.5 
-        </td>
-        <td> 3.1
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Wisconsin/cities/Eau-Claire-city">Eau Claire city</a></span>
-        </td>        
-        <td>66824     
-        </td>
-        <td>48.2% Male and 51.8% female
-        </td>
-        <td>30.6 years        
-        </td>
-        <td>32.3
-        </td>
-        <td>2.4 
-        </td>
-        <td> 3
         </td>        
       <tr>       
         <td>        
@@ -609,19 +545,19 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Wisconsin/cities/Kenosha-city">Kenosha city</a></span>
+          <span class="name"> <a href="/states/Wisconsin/cities/Muskego-city">Muskego city</a></span>
         </td>        
-        <td>99844     
+        <td>24423     
         </td>
-        <td>48.7% Male and 51.3% female
+        <td>50.1% Male and 49.9% female
         </td>
-        <td>34.4 years        
+        <td>42.5 years        
         </td>
-        <td>22
+        <td>29.9
         </td>
-        <td>16.3 
+        <td>3.5 
         </td>
-        <td> 3.17
+        <td> 3.1
         </td>        
       <tr>       
         <td>        
@@ -638,6 +574,70 @@
         <td>3.3 
         </td>
         <td> 3.01
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Wisconsin/cities/Madison-city">Madison city</a></span>
+        </td>        
+        <td>240301     
+        </td>
+        <td>49.3% Male and 50.7% female
+        </td>
+        <td>30.9 years        
+        </td>
+        <td>53.7
+        </td>
+        <td>6.9 
+        </td>
+        <td> 2.87
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Wisconsin/cities/Mount-Pleasant-village">Mount Pleasant village</a></span>
+        </td>        
+        <td>26188     
+        </td>
+        <td>48.3% Male and 51.7% female
+        </td>
+        <td>45.5 years        
+        </td>
+        <td>33.4
+        </td>
+        <td>10 
+        </td>
+        <td> 2.99
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Wisconsin/cities/Eau-Claire-city">Eau Claire city</a></span>
+        </td>        
+        <td>66824     
+        </td>
+        <td>48.2% Male and 51.8% female
+        </td>
+        <td>30.6 years        
+        </td>
+        <td>32.3
+        </td>
+        <td>2.4 
+        </td>
+        <td> 3
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Wisconsin/cities/Kenosha-city">Kenosha city</a></span>
+        </td>        
+        <td>99844     
+        </td>
+        <td>48.7% Male and 51.3% female
+        </td>
+        <td>34.4 years        
+        </td>
+        <td>22
+        </td>
+        <td>16.3 
+        </td>
+        <td> 3.17
         </td>        
          </tbody>
   </table>

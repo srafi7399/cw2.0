@@ -753,35 +753,19 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Virginia/cities/Fairfax-city">Fairfax city</a></span>
+          <span class="name"> <a href="/states/Virginia/cities/Lincolnia">Lincolnia</a></span>
         </td>        
-        <td>23373     
+        <td>24541     
         </td>
-        <td>48.9% Male and 51.1% female
+        <td>50.1% Male and 49.9% female
         </td>
-        <td>39.4 years        
+        <td>33.2 years        
         </td>
-        <td>52.7
+        <td>45
         </td>
-        <td>16.4 
+        <td>32 
         </td>
-        <td> 3.13
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Virginia/cities/Franklin-Farm">Franklin Farm</a></span>
-        </td>        
-        <td>20077     
-        </td>
-        <td>49.8% Male and 50.2% female
-        </td>
-        <td>39.8 years        
-        </td>
-        <td>76.9
-        </td>
-        <td>4.4 
-        </td>
-        <td> 3.42
+        <td> 3.63
         </td>        
       <tr>       
         <td>        
@@ -798,54 +782,6 @@
         <td>6.3 
         </td>
         <td> 3.2
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Virginia/cities/Petersburg-city">Petersburg city</a></span>
-        </td>        
-        <td>32294     
-        </td>
-        <td>46.3% Male and 53.7% female
-        </td>
-        <td>39.9 years        
-        </td>
-        <td>14.9
-        </td>
-        <td>4.1 
-        </td>
-        <td> 3.38
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Virginia/cities/Burke">Burke</a></span>
-        </td>        
-        <td>43701     
-        </td>
-        <td>51.2% Male and 48.8% female
-        </td>
-        <td>38.8 years        
-        </td>
-        <td>63.4
-        </td>
-        <td>9.5 
-        </td>
-        <td> 3.44
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Virginia/cities/Lincolnia">Lincolnia</a></span>
-        </td>        
-        <td>24541     
-        </td>
-        <td>50.1% Male and 49.9% female
-        </td>
-        <td>33.2 years        
-        </td>
-        <td>45
-        </td>
-        <td>32 
-        </td>
-        <td> 3.63
         </td>        
       <tr>       
         <td>        
@@ -878,6 +814,70 @@
         <td>5.8 
         </td>
         <td> 3.62
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Virginia/cities/Fairfax-city">Fairfax city</a></span>
+        </td>        
+        <td>23373     
+        </td>
+        <td>48.9% Male and 51.1% female
+        </td>
+        <td>39.4 years        
+        </td>
+        <td>52.7
+        </td>
+        <td>16.4 
+        </td>
+        <td> 3.13
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Virginia/cities/Franklin-Farm">Franklin Farm</a></span>
+        </td>        
+        <td>20077     
+        </td>
+        <td>49.8% Male and 50.2% female
+        </td>
+        <td>39.8 years        
+        </td>
+        <td>76.9
+        </td>
+        <td>4.4 
+        </td>
+        <td> 3.42
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Virginia/cities/Petersburg-city">Petersburg city</a></span>
+        </td>        
+        <td>32294     
+        </td>
+        <td>46.3% Male and 53.7% female
+        </td>
+        <td>39.9 years        
+        </td>
+        <td>14.9
+        </td>
+        <td>4.1 
+        </td>
+        <td> 3.38
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Virginia/cities/Burke">Burke</a></span>
+        </td>        
+        <td>43701     
+        </td>
+        <td>51.2% Male and 48.8% female
+        </td>
+        <td>38.8 years        
+        </td>
+        <td>63.4
+        </td>
+        <td>9.5 
+        </td>
+        <td> 3.44
         </td>        
          </tbody>
   </table>

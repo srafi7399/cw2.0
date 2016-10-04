@@ -177,22 +177,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/New-York/micros/Ogdensburg-Massena">Ogdensburg-Massena</a></span>
-        </td>        
-        <td>112180     
-        </td>
-        <td>50.9% Male and 49.1% female
-        </td>
-        <td>37.4 years        
-        </td>
-        <td>21.4
-        </td>
-        <td>2.1 
-        </td>
-        <td> 2.99
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/New-York/micros/Corning">Corning</a></span>
         </td>        
         <td>98955     
@@ -209,35 +193,19 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/New-York/micros/Malone">Malone</a></span>
+          <span class="name"> <a href="/states/New-York/micros/Ogdensburg-Massena">Ogdensburg-Massena</a></span>
         </td>        
-        <td>51699     
+        <td>112180     
         </td>
-        <td>55.6% Male and 44.4% female
+        <td>50.9% Male and 49.1% female
         </td>
-        <td>39.8 years        
+        <td>37.4 years        
         </td>
-        <td>16.5
+        <td>21.4
         </td>
-        <td>3.2 
+        <td>2.1 
         </td>
-        <td> 3.02
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/New-York/micros/Olean">Olean</a></span>
-        </td>        
-        <td>79321     
-        </td>
-        <td>49.4% Male and 50.6% female
-        </td>
-        <td>41.2 years        
-        </td>
-        <td>16.7
-        </td>
-        <td>1.9 
-        </td>
-        <td> 2.97
+        <td> 2.99
         </td>        
       <tr>       
         <td>        
@@ -270,6 +238,38 @@
         <td>6.5 
         </td>
         <td> 2.91
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/New-York/micros/Malone">Malone</a></span>
+        </td>        
+        <td>51699     
+        </td>
+        <td>55.6% Male and 44.4% female
+        </td>
+        <td>39.8 years        
+        </td>
+        <td>16.5
+        </td>
+        <td>3.2 
+        </td>
+        <td> 3.02
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/New-York/micros/Olean">Olean</a></span>
+        </td>        
+        <td>79321     
+        </td>
+        <td>49.4% Male and 50.6% female
+        </td>
+        <td>41.2 years        
+        </td>
+        <td>16.7
+        </td>
+        <td>1.9 
+        </td>
+        <td> 2.97
         </td>        
          </tbody>
   </table>

@@ -177,22 +177,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Wyoming/counties/Albany-County">Albany County</a></span>
-        </td>        
-        <td>37179     
-        </td>
-        <td>52.4% Male and 47.6% female
-        </td>
-        <td>26.7 years        
-        </td>
-        <td>51.2
-        </td>
-        <td>9.1 
-        </td>
-        <td> 2.86
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Wyoming/counties/Campbell-County">Campbell County</a></span>
         </td>        
         <td>47544     
@@ -206,6 +190,22 @@
         <td>8 
         </td>
         <td> 3.21
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Wyoming/counties/Albany-County">Albany County</a></span>
+        </td>        
+        <td>37179     
+        </td>
+        <td>52.4% Male and 47.6% female
+        </td>
+        <td>26.7 years        
+        </td>
+        <td>51.2
+        </td>
+        <td>9.1 
+        </td>
+        <td> 2.86
         </td>        
          </tbody>
   </table>

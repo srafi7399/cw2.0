@@ -817,19 +817,51 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Maryland/cities/North-Potomac">North Potomac</a></span>
+          <span class="name"> <a href="/states/Maryland/cities/Ellicott-City">Ellicott City</a></span>
         </td>        
-        <td>24059     
+        <td>69647     
         </td>
-        <td>47.3% Male and 52.7% female
+        <td>49% Male and 51% female
         </td>
-        <td>40.9 years        
+        <td>41 years        
         </td>
-        <td>76
+        <td>65.4
         </td>
-        <td>4.1 
+        <td>4.9 
         </td>
-        <td> 3.35
+        <td> 3.21
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Maryland/cities/Catonsville">Catonsville</a></span>
+        </td>        
+        <td>41253     
+        </td>
+        <td>48.5% Male and 51.5% female
+        </td>
+        <td>37 years        
+        </td>
+        <td>47
+        </td>
+        <td>5.3 
+        </td>
+        <td> 3.15
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Maryland/cities/Germantown">Germantown</a></span>
+        </td>        
+        <td>90676     
+        </td>
+        <td>48.3% Male and 51.7% female
+        </td>
+        <td>35.1 years        
+        </td>
+        <td>45.2
+        </td>
+        <td>21.5 
+        </td>
+        <td> 3.44
         </td>        
       <tr>       
         <td>        
@@ -849,19 +881,51 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Maryland/cities/Catonsville">Catonsville</a></span>
+          <span class="name"> <a href="/states/Maryland/cities/Landover">Landover</a></span>
         </td>        
-        <td>41253     
+        <td>22894     
         </td>
-        <td>48.5% Male and 51.5% female
+        <td>50.2% Male and 49.8% female
         </td>
-        <td>37 years        
+        <td>32.6 years        
         </td>
-        <td>47
+        <td>13.2
         </td>
-        <td>5.3 
+        <td>15.3 
         </td>
-        <td> 3.15
+        <td> 3.42
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Maryland/cities/Crofton">Crofton</a></span>
+        </td>        
+        <td>29421     
+        </td>
+        <td>49.9% Male and 50.1% female
+        </td>
+        <td>34.9 years        
+        </td>
+        <td>56.9
+        </td>
+        <td>5.4 
+        </td>
+        <td> 3.23
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Maryland/cities/North-Potomac">North Potomac</a></span>
+        </td>        
+        <td>24059     
+        </td>
+        <td>47.3% Male and 52.7% female
+        </td>
+        <td>40.9 years        
+        </td>
+        <td>76
+        </td>
+        <td>4.1 
+        </td>
+        <td> 3.35
         </td>        
       <tr>       
         <td>        
@@ -897,19 +961,19 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Maryland/cities/Landover">Landover</a></span>
+          <span class="name"> <a href="/states/Maryland/cities/Middle-River">Middle River</a></span>
         </td>        
-        <td>22894     
+        <td>27452     
         </td>
-        <td>50.2% Male and 49.8% female
+        <td>48.8% Male and 51.2% female
         </td>
-        <td>32.6 years        
+        <td>34.4 years        
         </td>
-        <td>13.2
+        <td>15.8
         </td>
-        <td>15.3 
+        <td>8.4 
         </td>
-        <td> 3.42
+        <td> 3.28
         </td>        
       <tr>       
         <td>        
@@ -926,70 +990,6 @@
         <td>4.7 
         </td>
         <td> 3.2
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Maryland/cities/Germantown">Germantown</a></span>
-        </td>        
-        <td>90676     
-        </td>
-        <td>48.3% Male and 51.7% female
-        </td>
-        <td>35.1 years        
-        </td>
-        <td>45.2
-        </td>
-        <td>21.5 
-        </td>
-        <td> 3.44
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Maryland/cities/Crofton">Crofton</a></span>
-        </td>        
-        <td>29421     
-        </td>
-        <td>49.9% Male and 50.1% female
-        </td>
-        <td>34.9 years        
-        </td>
-        <td>56.9
-        </td>
-        <td>5.4 
-        </td>
-        <td> 3.23
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Maryland/cities/Ellicott-City">Ellicott City</a></span>
-        </td>        
-        <td>69647     
-        </td>
-        <td>49% Male and 51% female
-        </td>
-        <td>41 years        
-        </td>
-        <td>65.4
-        </td>
-        <td>4.9 
-        </td>
-        <td> 3.21
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Maryland/cities/Middle-River">Middle River</a></span>
-        </td>        
-        <td>27452     
-        </td>
-        <td>48.8% Male and 51.2% female
-        </td>
-        <td>34.4 years        
-        </td>
-        <td>15.8
-        </td>
-        <td>8.4 
-        </td>
-        <td> 3.28
         </td>        
          </tbody>
   </table>

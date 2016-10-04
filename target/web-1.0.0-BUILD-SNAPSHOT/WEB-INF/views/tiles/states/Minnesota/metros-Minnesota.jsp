@@ -97,22 +97,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Minnesota/metros/MinneapolisSt-PaulBloomington">Minneapolis-St. Paul-Bloomington</a></span>
-        </td>        
-        <td>3423425     
-        </td>
-        <td>49.4% Male and 50.6% female
-        </td>
-        <td>36.4 years        
-        </td>
-        <td>38.8
-        </td>
-        <td>5.5 
-        </td>
-        <td> 3.14
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Minnesota/metros/St-Cloud">St. Cloud</a></span>
         </td>        
         <td>190590     
@@ -126,6 +110,22 @@
         <td>2.7 
         </td>
         <td> 3.03
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Minnesota/metros/MinneapolisSt-PaulBloomington">Minneapolis-St. Paul-Bloomington</a></span>
+        </td>        
+        <td>3423425     
+        </td>
+        <td>49.4% Male and 50.6% female
+        </td>
+        <td>36.4 years        
+        </td>
+        <td>38.8
+        </td>
+        <td>5.5 
+        </td>
+        <td> 3.14
         </td>        
          </tbody>
   </table>

@@ -506,11 +506,14 @@ public class DataParserJSONObjectFactory {
 
 	public static void main(String[] args) {
 		DataParserJSONObjectFactory factory = new DataParserJSONObjectFactory();
-		try {			
+		try {	
+			System.out.println("Start Parse...");
 			factory.parseandLoadDemographyDataFiles();
 			factory.parseAndLoadSocialDataFile();
 			factory.createDBCollection();
 			factory.populateDBCollection();
+			System.out.println("Done Load..");
+			
 			
 		} catch (IOException e) {
 			// TODO Auto-generated catch block

@@ -161,22 +161,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Louisiana/metros/Alexandria">Alexandria</a></span>
-        </td>        
-        <td>154490     
-        </td>
-        <td>49.3% Male and 50.7% female
-        </td>
-        <td>37.2 years        
-        </td>
-        <td>16.6
-        </td>
-        <td>3.2 
-        </td>
-        <td> 3.38
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Louisiana/metros/Lake-Charles">Lake Charles</a></span>
         </td>        
         <td>201613     
@@ -190,6 +174,22 @@
         <td>2.7 
         </td>
         <td> 3.13
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Louisiana/metros/Alexandria">Alexandria</a></span>
+        </td>        
+        <td>154490     
+        </td>
+        <td>49.3% Male and 50.7% female
+        </td>
+        <td>37.2 years        
+        </td>
+        <td>16.6
+        </td>
+        <td>3.2 
+        </td>
+        <td> 3.38
         </td>        
          </tbody>
   </table>

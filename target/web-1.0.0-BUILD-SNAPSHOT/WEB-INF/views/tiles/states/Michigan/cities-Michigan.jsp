@@ -785,86 +785,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Michigan/cities/Southgate-city">Southgate city</a></span>
-        </td>        
-        <td>29675     
-        </td>
-        <td>47.4% Male and 52.6% female
-        </td>
-        <td>41.8 years        
-        </td>
-        <td>15.5
-        </td>
-        <td>5.7 
-        </td>
-        <td> 3.04
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Michigan/cities/Detroit-city">Detroit city</a></span>
-        </td>        
-        <td>696922     
-        </td>
-        <td>47.5% Male and 52.5% female
-        </td>
-        <td>35.1 years        
-        </td>
-        <td>13
-        </td>
-        <td>7.5 
-        </td>
-        <td> 3.7
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Michigan/cities/Taylor-city">Taylor city</a></span>
-        </td>        
-        <td>62232     
-        </td>
-        <td>47.9% Male and 52.1% female
-        </td>
-        <td>38.4 years        
-        </td>
-        <td>10.1
-        </td>
-        <td>5.2 
-        </td>
-        <td> 3.22
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Michigan/cities/Southfield-city">Southfield city</a></span>
-        </td>        
-        <td>72570     
-        </td>
-        <td>44.8% Male and 55.2% female
-        </td>
-        <td>42.6 years        
-        </td>
-        <td>35.4
-        </td>
-        <td>1.7 
-        </td>
-        <td> 3
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Michigan/cities/Grand-Rapids-city">Grand Rapids city</a></span>
-        </td>        
-        <td>190558     
-        </td>
-        <td>48.7% Male and 51.3% female
-        </td>
-        <td>31.1 years        
-        </td>
-        <td>30
-        </td>
-        <td>15 
-        </td>
-        <td> 3.22
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Michigan/cities/Okemos">Okemos</a></span>
         </td>        
         <td>20272     
@@ -878,38 +798,6 @@
         <td>3.9 
         </td>
         <td> 2.9
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Michigan/cities/Birmingham-city">Birmingham city</a></span>
-        </td>        
-        <td>20368     
-        </td>
-        <td>47.6% Male and 52.4% female
-        </td>
-        <td>41 years        
-        </td>
-        <td>78.4
-        </td>
-        <td>3.4 
-        </td>
-        <td> 2.98
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Michigan/cities/St-Clair-Shores-city">St. Clair Shores city</a></span>
-        </td>        
-        <td>59847     
-        </td>
-        <td>47.9% Male and 52.1% female
-        </td>
-        <td>44.5 years        
-        </td>
-        <td>23.6
-        </td>
-        <td>2 
-        </td>
-        <td> 2.95
         </td>        
       <tr>       
         <td>        
@@ -929,35 +817,19 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Michigan/cities/Monroe-city">Monroe city</a></span>
+          <span class="name"> <a href="/states/Michigan/cities/Lansing-city">Lansing city</a></span>
         </td>        
-        <td>20523     
+        <td>113629     
         </td>
-        <td>47.2% Male and 52.8% female
+        <td>47.5% Male and 52.5% female
         </td>
-        <td>37.5 years        
+        <td>32 years        
         </td>
-        <td>17.9
+        <td>24.2
         </td>
-        <td>3 
+        <td>12.5 
         </td>
-        <td> 3.04
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Michigan/cities/Ypsilanti-city">Ypsilanti city</a></span>
-        </td>        
-        <td>19693     
-        </td>
-        <td>50.2% Male and 49.8% female
-        </td>
-        <td>25.1 years        
-        </td>
-        <td>35.9
-        </td>
-        <td>3.1 
-        </td>
-        <td> 3.04
+        <td> 3.12
         </td>        
       <tr>       
         <td>        
@@ -977,19 +849,83 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Michigan/cities/Lansing-city">Lansing city</a></span>
+          <span class="name"> <a href="/states/Michigan/cities/Grand-Rapids-city">Grand Rapids city</a></span>
         </td>        
-        <td>113629     
+        <td>190558     
+        </td>
+        <td>48.7% Male and 51.3% female
+        </td>
+        <td>31.1 years        
+        </td>
+        <td>30
+        </td>
+        <td>15 
+        </td>
+        <td> 3.22
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Michigan/cities/Detroit-city">Detroit city</a></span>
+        </td>        
+        <td>696922     
         </td>
         <td>47.5% Male and 52.5% female
         </td>
-        <td>32 years        
+        <td>35.1 years        
         </td>
-        <td>24.2
+        <td>13
         </td>
-        <td>12.5 
+        <td>7.5 
         </td>
-        <td> 3.12
+        <td> 3.7
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Michigan/cities/St-Clair-Shores-city">St. Clair Shores city</a></span>
+        </td>        
+        <td>59847     
+        </td>
+        <td>47.9% Male and 52.1% female
+        </td>
+        <td>44.5 years        
+        </td>
+        <td>23.6
+        </td>
+        <td>2 
+        </td>
+        <td> 2.95
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Michigan/cities/Southfield-city">Southfield city</a></span>
+        </td>        
+        <td>72570     
+        </td>
+        <td>44.8% Male and 55.2% female
+        </td>
+        <td>42.6 years        
+        </td>
+        <td>35.4
+        </td>
+        <td>1.7 
+        </td>
+        <td> 3
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Michigan/cities/Taylor-city">Taylor city</a></span>
+        </td>        
+        <td>62232     
+        </td>
+        <td>47.9% Male and 52.1% female
+        </td>
+        <td>38.4 years        
+        </td>
+        <td>10.1
+        </td>
+        <td>5.2 
+        </td>
+        <td> 3.22
         </td>        
       <tr>       
         <td>        
@@ -1006,6 +942,70 @@
         <td>2.2 
         </td>
         <td> 3.24
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Michigan/cities/Ypsilanti-city">Ypsilanti city</a></span>
+        </td>        
+        <td>19693     
+        </td>
+        <td>50.2% Male and 49.8% female
+        </td>
+        <td>25.1 years        
+        </td>
+        <td>35.9
+        </td>
+        <td>3.1 
+        </td>
+        <td> 3.04
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Michigan/cities/Monroe-city">Monroe city</a></span>
+        </td>        
+        <td>20523     
+        </td>
+        <td>47.2% Male and 52.8% female
+        </td>
+        <td>37.5 years        
+        </td>
+        <td>17.9
+        </td>
+        <td>3 
+        </td>
+        <td> 3.04
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Michigan/cities/Southgate-city">Southgate city</a></span>
+        </td>        
+        <td>29675     
+        </td>
+        <td>47.4% Male and 52.6% female
+        </td>
+        <td>41.8 years        
+        </td>
+        <td>15.5
+        </td>
+        <td>5.7 
+        </td>
+        <td> 3.04
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Michigan/cities/Birmingham-city">Birmingham city</a></span>
+        </td>        
+        <td>20368     
+        </td>
+        <td>47.6% Male and 52.4% female
+        </td>
+        <td>41 years        
+        </td>
+        <td>78.4
+        </td>
+        <td>3.4 
+        </td>
+        <td> 2.98
         </td>        
          </tbody>
   </table>

@@ -193,19 +193,19 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Wisconsin/metros/Madison">Madison</a></span>
+          <span class="name"> <a href="/states/Wisconsin/metros/MilwaukeeWaukeshaWest-Allis">Milwaukee-Waukesha-West Allis</a></span>
         </td>        
-        <td>620655     
+        <td>1565649     
         </td>
-        <td>49.7% Male and 50.3% female
+        <td>48.7% Male and 51.3% female
         </td>
-        <td>35.8 years        
+        <td>37.2 years        
         </td>
-        <td>41.7
+        <td>32.6
         </td>
-        <td>5.4 
+        <td>9.9 
         </td>
-        <td> 2.97
+        <td> 3.14
         </td>        
       <tr>       
         <td>        
@@ -225,19 +225,19 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Wisconsin/metros/MilwaukeeWaukeshaWest-Allis">Milwaukee-Waukesha-West Allis</a></span>
+          <span class="name"> <a href="/states/Wisconsin/metros/Madison">Madison</a></span>
         </td>        
-        <td>1565649     
+        <td>620655     
         </td>
-        <td>48.7% Male and 51.3% female
+        <td>49.7% Male and 50.3% female
         </td>
-        <td>37.2 years        
+        <td>35.8 years        
         </td>
-        <td>32.6
+        <td>41.7
         </td>
-        <td>9.9 
+        <td>5.4 
         </td>
-        <td> 3.14
+        <td> 2.97
         </td>        
          </tbody>
   </table>

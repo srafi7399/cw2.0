@@ -49,22 +49,6 @@
     <tbody>    
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Rhode-Island/counties/Washington-County">Washington County</a></span>
-        </td>        
-        <td>126187     
-        </td>
-        <td>48.5% Male and 51.5% female
-        </td>
-        <td>42.6 years        
-        </td>
-        <td>44.3
-        </td>
-        <td>2.7 
-        </td>
-        <td> 2.88
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Rhode-Island/counties/Providence-County">Providence County</a></span>
         </td>        
         <td>628033     
@@ -78,22 +62,6 @@
         <td>19.8 
         </td>
         <td> 3.17
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Rhode-Island/counties/Newport-County">Newport County</a></span>
-        </td>        
-        <td>82310     
-        </td>
-        <td>48.7% Male and 51.3% female
-        </td>
-        <td>44 years        
-        </td>
-        <td>43.3
-        </td>
-        <td>4.9 
-        </td>
-        <td> 2.92
         </td>        
       <tr>       
         <td>        
@@ -113,6 +81,22 @@
         </td>        
       <tr>       
         <td>        
+          <span class="name"> <a href="/states/Rhode-Island/counties/Newport-County">Newport County</a></span>
+        </td>        
+        <td>82310     
+        </td>
+        <td>48.7% Male and 51.3% female
+        </td>
+        <td>44 years        
+        </td>
+        <td>43.3
+        </td>
+        <td>4.9 
+        </td>
+        <td> 2.92
+        </td>        
+      <tr>       
+        <td>        
           <span class="name"> <a href="/states/Rhode-Island/counties/Kent-County">Kent County</a></span>
         </td>        
         <td>165121     
@@ -126,6 +110,22 @@
         <td>3.7 
         </td>
         <td> 3.01
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Rhode-Island/counties/Washington-County">Washington County</a></span>
+        </td>        
+        <td>126187     
+        </td>
+        <td>48.5% Male and 51.5% female
+        </td>
+        <td>42.6 years        
+        </td>
+        <td>44.3
+        </td>
+        <td>2.7 
+        </td>
+        <td> 2.88
         </td>        
          </tbody>
   </table>

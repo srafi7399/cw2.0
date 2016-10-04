@@ -1665,99 +1665,19 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Illinois/cities/Harvey-city">Harvey city</a></span>
+          <span class="name"> <a href="/states/Illinois/cities/Lake-Zurich-village">Lake Zurich village</a></span>
         </td>        
-        <td>25694     
-        </td>
-        <td>47.3% Male and 52.7% female
-        </td>
-        <td>35.8 years        
-        </td>
-        <td>9.3
-        </td>
-        <td>19.2 
-        </td>
-        <td> 3.8
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Illinois/cities/Champaign-city">Champaign city</a></span>
-        </td>        
-        <td>82641     
-        </td>
-        <td>51.1% Male and 48.9% female
-        </td>
-        <td>27.1 years        
-        </td>
-        <td>51.2
-        </td>
-        <td>6.3 
-        </td>
-        <td> 3.02
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Illinois/cities/Morton-Grove-village">Morton Grove village</a></span>
-        </td>        
-        <td>23427     
-        </td>
-        <td>48.7% Male and 51.3% female
-        </td>
-        <td>44.2 years        
-        </td>
-        <td>41.6
-        </td>
-        <td>7.5 
-        </td>
-        <td> 3.41
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Illinois/cities/Edwardsville-city">Edwardsville city</a></span>
-        </td>        
-        <td>24605     
-        </td>
-        <td>48% Male and 52% female
-        </td>
-        <td>31.7 years        
-        </td>
-        <td>50.6
-        </td>
-        <td>1.4 
-        </td>
-        <td> 3.11
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Illinois/cities/Elgin-city">Elgin city</a></span>
-        </td>        
-        <td>110603     
+        <td>19853     
         </td>
         <td>50% Male and 50% female
         </td>
-        <td>32.4 years        
+        <td>39.7 years        
         </td>
-        <td>23
+        <td>52.4
         </td>
-        <td>45.5 
+        <td>5.9 
         </td>
-        <td> 3.91
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Illinois/cities/Belleville-city">Belleville city</a></span>
-        </td>        
-        <td>43318     
-        </td>
-        <td>47.4% Male and 52.6% female
-        </td>
-        <td>36.8 years        
-        </td>
-        <td>23.1
-        </td>
-        <td>2.2 
-        </td>
-        <td> 3.05
+        <td> 3.34
         </td>        
       <tr>       
         <td>        
@@ -1777,67 +1697,67 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Illinois/cities/Schaumburg-village">Schaumburg village</a></span>
+          <span class="name"> <a href="/states/Illinois/cities/Danville-city">Danville city</a></span>
         </td>        
-        <td>74541     
+        <td>32637     
         </td>
-        <td>48.6% Male and 51.4% female
+        <td>49.2% Male and 50.8% female
         </td>
-        <td>37.2 years        
+        <td>37.1 years        
         </td>
-        <td>44.6
+        <td>16.1
         </td>
-        <td>9.2 
+        <td>6.7 
         </td>
-        <td> 3.19
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Illinois/cities/Peoria-city">Peoria city</a></span>
-        </td>        
-        <td>115814     
-        </td>
-        <td>47.5% Male and 52.5% female
-        </td>
-        <td>33.1 years        
-        </td>
-        <td>32.4
-        </td>
-        <td>5.4 
-        </td>
-        <td> 3.16
+        <td> 3.18
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Illinois/cities/Oswego-village">Oswego village</a></span>
+          <span class="name"> <a href="/states/Illinois/cities/Morton-Grove-village">Morton Grove village</a></span>
         </td>        
-        <td>32605     
+        <td>23427     
         </td>
-        <td>50% Male and 50% female
+        <td>48.7% Male and 51.3% female
         </td>
-        <td>34.6 years        
+        <td>44.2 years        
         </td>
-        <td>40.6
+        <td>41.6
         </td>
-        <td>10 
+        <td>7.5 
         </td>
-        <td> 3.58
+        <td> 3.41
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Illinois/cities/Homer-Glen-village">Homer Glen village</a></span>
+          <span class="name"> <a href="/states/Illinois/cities/Gurnee-village">Gurnee village</a></span>
         </td>        
-        <td>24330     
+        <td>31261     
         </td>
-        <td>49.9% Male and 50.1% female
+        <td>48.1% Male and 51.9% female
         </td>
-        <td>44.1 years        
+        <td>38.6 years        
         </td>
-        <td>34.7
+        <td>48.3
         </td>
-        <td>7.3 
+        <td>13 
         </td>
-        <td> 3.35
+        <td> 3.3
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Illinois/cities/Belleville-city">Belleville city</a></span>
+        </td>        
+        <td>43318     
+        </td>
+        <td>47.4% Male and 52.6% female
+        </td>
+        <td>36.8 years        
+        </td>
+        <td>23.1
+        </td>
+        <td>2.2 
+        </td>
+        <td> 3.05
         </td>        
       <tr>       
         <td>        
@@ -1873,19 +1793,35 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Illinois/cities/Gurnee-village">Gurnee village</a></span>
+          <span class="name"> <a href="/states/Illinois/cities/Kankakee-city">Kankakee city</a></span>
         </td>        
-        <td>31261     
+        <td>27185     
         </td>
-        <td>48.1% Male and 51.9% female
+        <td>51.5% Male and 48.5% female
         </td>
-        <td>38.6 years        
+        <td>34 years        
         </td>
-        <td>48.3
+        <td>10
         </td>
-        <td>13 
+        <td>20.6 
         </td>
-        <td> 3.3
+        <td> 3.51
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Illinois/cities/Peoria-city">Peoria city</a></span>
+        </td>        
+        <td>115814     
+        </td>
+        <td>47.5% Male and 52.5% female
+        </td>
+        <td>33.1 years        
+        </td>
+        <td>32.4
+        </td>
+        <td>5.4 
+        </td>
+        <td> 3.16
         </td>        
       <tr>       
         <td>        
@@ -1905,19 +1841,67 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Illinois/cities/Kankakee-city">Kankakee city</a></span>
+          <span class="name"> <a href="/states/Illinois/cities/Springfield-city">Springfield city</a></span>
         </td>        
-        <td>27185     
+        <td>117008     
         </td>
-        <td>51.5% Male and 48.5% female
+        <td>48.1% Male and 51.9% female
         </td>
-        <td>34 years        
+        <td>38.9 years        
         </td>
-        <td>10
+        <td>34.4
         </td>
-        <td>20.6 
+        <td>2.5 
         </td>
-        <td> 3.51
+        <td> 2.94
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Illinois/cities/Elgin-city">Elgin city</a></span>
+        </td>        
+        <td>110603     
+        </td>
+        <td>50% Male and 50% female
+        </td>
+        <td>32.4 years        
+        </td>
+        <td>23
+        </td>
+        <td>45.5 
+        </td>
+        <td> 3.91
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Illinois/cities/Harvey-city">Harvey city</a></span>
+        </td>        
+        <td>25694     
+        </td>
+        <td>47.3% Male and 52.7% female
+        </td>
+        <td>35.8 years        
+        </td>
+        <td>9.3
+        </td>
+        <td>19.2 
+        </td>
+        <td> 3.8
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Illinois/cities/Champaign-city">Champaign city</a></span>
+        </td>        
+        <td>82641     
+        </td>
+        <td>51.1% Male and 48.9% female
+        </td>
+        <td>27.1 years        
+        </td>
+        <td>51.2
+        </td>
+        <td>6.3 
+        </td>
+        <td> 3.02
         </td>        
       <tr>       
         <td>        
@@ -1937,51 +1921,35 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Illinois/cities/Lake-Zurich-village">Lake Zurich village</a></span>
+          <span class="name"> <a href="/states/Illinois/cities/Homer-Glen-village">Homer Glen village</a></span>
         </td>        
-        <td>19853     
+        <td>24330     
         </td>
-        <td>50% Male and 50% female
+        <td>49.9% Male and 50.1% female
         </td>
-        <td>39.7 years        
+        <td>44.1 years        
         </td>
-        <td>52.4
+        <td>34.7
         </td>
-        <td>5.9 
+        <td>7.3 
         </td>
-        <td> 3.34
+        <td> 3.35
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Illinois/cities/Danville-city">Danville city</a></span>
+          <span class="name"> <a href="/states/Illinois/cities/Mount-Prospect-village">Mount Prospect village</a></span>
         </td>        
-        <td>32637     
+        <td>54596     
         </td>
         <td>49.2% Male and 50.8% female
         </td>
-        <td>37.1 years        
+        <td>39.3 years        
         </td>
-        <td>16.1
+        <td>38.9
         </td>
-        <td>6.7 
+        <td>16.6 
         </td>
-        <td> 3.18
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Illinois/cities/Springfield-city">Springfield city</a></span>
-        </td>        
-        <td>117008     
-        </td>
-        <td>48.1% Male and 51.9% female
-        </td>
-        <td>38.9 years        
-        </td>
-        <td>34.4
-        </td>
-        <td>2.5 
-        </td>
-        <td> 2.94
+        <td> 3.28
         </td>        
       <tr>       
         <td>        
@@ -2001,19 +1969,51 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Illinois/cities/Mount-Prospect-village">Mount Prospect village</a></span>
+          <span class="name"> <a href="/states/Illinois/cities/Edwardsville-city">Edwardsville city</a></span>
         </td>        
-        <td>54596     
+        <td>24605     
         </td>
-        <td>49.2% Male and 50.8% female
+        <td>48% Male and 52% female
         </td>
-        <td>39.3 years        
+        <td>31.7 years        
         </td>
-        <td>38.9
+        <td>50.6
         </td>
-        <td>16.6 
+        <td>1.4 
         </td>
-        <td> 3.28
+        <td> 3.11
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Illinois/cities/Oswego-village">Oswego village</a></span>
+        </td>        
+        <td>32605     
+        </td>
+        <td>50% Male and 50% female
+        </td>
+        <td>34.6 years        
+        </td>
+        <td>40.6
+        </td>
+        <td>10 
+        </td>
+        <td> 3.58
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Illinois/cities/Schaumburg-village">Schaumburg village</a></span>
+        </td>        
+        <td>74541     
+        </td>
+        <td>48.6% Male and 51.4% female
+        </td>
+        <td>37.2 years        
+        </td>
+        <td>44.6
+        </td>
+        <td>9.2 
+        </td>
+        <td> 3.19
         </td>        
          </tbody>
   </table>

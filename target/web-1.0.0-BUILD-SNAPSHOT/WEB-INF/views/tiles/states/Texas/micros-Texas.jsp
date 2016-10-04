@@ -481,6 +481,22 @@
         </td>        
       <tr>       
         <td>        
+          <span class="name"> <a href="/states/Texas/micros/Athens">Athens</a></span>
+        </td>        
+        <td>78765     
+        </td>
+        <td>48.9% Male and 51.1% female
+        </td>
+        <td>43 years        
+        </td>
+        <td>14.5
+        </td>
+        <td>11.5 
+        </td>
+        <td> 3.23
+        </td>        
+      <tr>       
+        <td>        
           <span class="name"> <a href="/states/Texas/micros/Mineral-Wells">Mineral Wells</a></span>
         </td>        
         <td>27970     
@@ -494,54 +510,6 @@
         <td>18.9 
         </td>
         <td> 3.21
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Texas/micros/Big-Spring">Big Spring</a></span>
-        </td>        
-        <td>36678     
-        </td>
-        <td>56.6% Male and 43.4% female
-        </td>
-        <td>37.1 years        
-        </td>
-        <td>14.5
-        </td>
-        <td>38.8 
-        </td>
-        <td> 3.39
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Texas/micros/El-Campo">El Campo</a></span>
-        </td>        
-        <td>41202     
-        </td>
-        <td>49.4% Male and 50.6% female
-        </td>
-        <td>37.3 years        
-        </td>
-        <td>14.2
-        </td>
-        <td>38.5 
-        </td>
-        <td> 3.6
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Texas/micros/Uvalde">Uvalde</a></span>
-        </td>        
-        <td>26737     
-        </td>
-        <td>49.1% Male and 50.9% female
-        </td>
-        <td>34.4 years        
-        </td>
-        <td>13.3
-        </td>
-        <td>69.9 
-        </td>
-        <td> 3.82
         </td>        
       <tr>       
         <td>        
@@ -561,22 +529,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Texas/micros/Athens">Athens</a></span>
-        </td>        
-        <td>78765     
-        </td>
-        <td>48.9% Male and 51.1% female
-        </td>
-        <td>43 years        
-        </td>
-        <td>14.5
-        </td>
-        <td>11.5 
-        </td>
-        <td> 3.23
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Texas/micros/Sulphur-Springs">Sulphur Springs</a></span>
         </td>        
         <td>35445     
@@ -590,6 +542,54 @@
         <td>15.8 
         </td>
         <td> 3.03
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Texas/micros/Uvalde">Uvalde</a></span>
+        </td>        
+        <td>26737     
+        </td>
+        <td>49.1% Male and 50.9% female
+        </td>
+        <td>34.4 years        
+        </td>
+        <td>13.3
+        </td>
+        <td>69.9 
+        </td>
+        <td> 3.82
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Texas/micros/El-Campo">El Campo</a></span>
+        </td>        
+        <td>41202     
+        </td>
+        <td>49.4% Male and 50.6% female
+        </td>
+        <td>37.3 years        
+        </td>
+        <td>14.2
+        </td>
+        <td>38.5 
+        </td>
+        <td> 3.6
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Texas/micros/Big-Spring">Big Spring</a></span>
+        </td>        
+        <td>36678     
+        </td>
+        <td>56.6% Male and 43.4% female
+        </td>
+        <td>37.1 years        
+        </td>
+        <td>14.5
+        </td>
+        <td>38.8 
+        </td>
+        <td> 3.39
         </td>        
          </tbody>
   </table>

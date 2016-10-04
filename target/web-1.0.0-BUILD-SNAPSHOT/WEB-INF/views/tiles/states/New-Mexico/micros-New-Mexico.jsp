@@ -193,22 +193,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/New-Mexico/micros/Silver-City">Silver City</a></span>
-        </td>        
-        <td>29369     
-        </td>
-        <td>49.5% Male and 50.5% female
-        </td>
-        <td>46.6 years        
-        </td>
-        <td>25.1
-        </td>
-        <td>48.8 
-        </td>
-        <td> 3.13
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/New-Mexico/micros/Grants">Grants</a></span>
         </td>        
         <td>27358     
@@ -222,6 +206,22 @@
         <td>37.3 
         </td>
         <td> 3.72
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/New-Mexico/micros/Silver-City">Silver City</a></span>
+        </td>        
+        <td>29369     
+        </td>
+        <td>49.5% Male and 50.5% female
+        </td>
+        <td>46.6 years        
+        </td>
+        <td>25.1
+        </td>
+        <td>48.8 
+        </td>
+        <td> 3.13
         </td>        
       <tr>       
         <td>        

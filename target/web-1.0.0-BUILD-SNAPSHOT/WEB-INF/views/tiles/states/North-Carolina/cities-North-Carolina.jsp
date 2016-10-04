@@ -657,6 +657,54 @@
         </td>        
       <tr>       
         <td>        
+          <span class="name"> <a href="/states/North-Carolina/cities/Jacksonville-city">Jacksonville city</a></span>
+        </td>        
+        <td>68987     
+        </td>
+        <td>57.6% Male and 42.4% female
+        </td>
+        <td>23.2 years        
+        </td>
+        <td>23.3
+        </td>
+        <td>15 
+        </td>
+        <td> 3.21
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/North-Carolina/cities/Monroe-city">Monroe city</a></span>
+        </td>        
+        <td>33642     
+        </td>
+        <td>49% Male and 51% female
+        </td>
+        <td>33.7 years        
+        </td>
+        <td>16.9
+        </td>
+        <td>30.5 
+        </td>
+        <td> 3.41
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/North-Carolina/cities/Kernersville-town">Kernersville town</a></span>
+        </td>        
+        <td>23520     
+        </td>
+        <td>45.8% Male and 54.2% female
+        </td>
+        <td>40.4 years        
+        </td>
+        <td>29.2
+        </td>
+        <td>7.1 
+        </td>
+        <td> 3.02
+        </td>        
+      <tr>       
+        <td>        
           <span class="name"> <a href="/states/North-Carolina/cities/Charlotte-city">Charlotte city</a></span>
         </td>        
         <td>774433     
@@ -686,54 +734,6 @@
         <td>9.6 
         </td>
         <td> 3.01
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/North-Carolina/cities/Kernersville-town">Kernersville town</a></span>
-        </td>        
-        <td>23520     
-        </td>
-        <td>45.8% Male and 54.2% female
-        </td>
-        <td>40.4 years        
-        </td>
-        <td>29.2
-        </td>
-        <td>7.1 
-        </td>
-        <td> 3.02
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/North-Carolina/cities/Monroe-city">Monroe city</a></span>
-        </td>        
-        <td>33642     
-        </td>
-        <td>49% Male and 51% female
-        </td>
-        <td>33.7 years        
-        </td>
-        <td>16.9
-        </td>
-        <td>30.5 
-        </td>
-        <td> 3.41
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/North-Carolina/cities/Jacksonville-city">Jacksonville city</a></span>
-        </td>        
-        <td>68987     
-        </td>
-        <td>57.6% Male and 42.4% female
-        </td>
-        <td>23.2 years        
-        </td>
-        <td>23.3
-        </td>
-        <td>15 
-        </td>
-        <td> 3.21
         </td>        
          </tbody>
   </table>

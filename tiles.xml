@@ -61,11 +61,6 @@
 		<put-attribute name="current" value="states" cascade="true" />		
 	</definition>
 	
-<definition name="states" extends="homep">		
-		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states.jsp" />		
-		<put-attribute name="title" value="Information and stats for  about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
-		<put-attribute name="current" value="" cascade="true" />		
-	</definition>
 <definition name="MarylandCityMiddleRiver" extends="homep">		
 		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Maryland/cities/Middle-River.jsp" />		
 		<put-attribute name="title" value="Information and stats for Middle River about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
@@ -596,11 +591,6 @@
 		<put-attribute name="title" value="Information and stats for Butler County about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
 		<put-attribute name="current" value="" cascade="true" />		
 	</definition>
-<definition name="Puerto_RicoCityGuayamazonaurbana" extends="homep">		
-		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Puerto-Rico/cities/Guayama-zona-urbana.jsp" />		
-		<put-attribute name="title" value="Information and stats for Guayama zona urbana about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
-		<put-attribute name="current" value="" cascade="true" />		
-	</definition>
 <definition name="TexasMicroLevelland" extends="homep">		
 		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Texas/micros/Levelland.jsp" />		
 		<put-attribute name="title" value="Information and stats for Levelland about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
@@ -609,6 +599,11 @@
 <definition name="New_YorkCityNewburghcity" extends="homep">		
 		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/New-York/cities/Newburgh-city.jsp" />		
 		<put-attribute name="title" value="Information and stats for Newburgh city about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
+		<put-attribute name="current" value="" cascade="true" />		
+	</definition>
+<definition name="Puerto_RicoCityGuayamazonaurbana" extends="homep">		
+		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Puerto-Rico/cities/Guayama-zona-urbana.jsp" />		
+		<put-attribute name="title" value="Information and stats for Guayama zona urbana about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
 		<put-attribute name="current" value="" cascade="true" />		
 	</definition>
 <definition name="CaliforniaCityLompoccity" extends="homep">		
@@ -1029,11 +1024,6 @@
 <definition name="CaliforniaMetroYubaCity" extends="homep">		
 		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/California/metros/Yuba-City.jsp" />		
 		<put-attribute name="title" value="Information and stats for Yuba City about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
-		<put-attribute name="current" value="" cascade="true" />		
-	</definition>
-<definition name="Puerto_RicoCitySanJuanzonaurbana" extends="homep">		
-		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Puerto-Rico/cities/San-Juan-zona-urbana.jsp" />		
-		<put-attribute name="title" value="Information and stats for San Juan zona urbana about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
 		<put-attribute name="current" value="" cascade="true" />		
 	</definition>
 <definition name="Puerto_RicoCountyHumacaoMunicipio" extends="homep">		
@@ -3591,16 +3581,6 @@
 		<put-attribute name="title" value="Information and stats for Klamath County about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
 		<put-attribute name="current" value="" cascade="true" />		
 	</definition>
-<definition name="Puerto_RicoCityMayaguezzonaurbana" extends="homep">		
-		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Puerto-Rico/cities/Mayaguez-zona-urbana.jsp" />		
-		<put-attribute name="title" value="Information and stats for Mayaguez zona urbana about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
-		<put-attribute name="current" value="" cascade="true" />		
-	</definition>
-<definition name="Puerto_RicoCityVegaBajazonaurbana" extends="homep">		
-		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Puerto-Rico/cities/Vega-Baja-zona-urbana.jsp" />		
-		<put-attribute name="title" value="Information and stats for Vega Baja zona urbana about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
-		<put-attribute name="current" value="" cascade="true" />		
-	</definition>
 <definition name="OregonCountyLaneCounty" extends="homep">		
 		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Oregon/counties/Lane-County.jsp" />		
 		<put-attribute name="title" value="Information and stats for Lane County about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
@@ -5034,11 +5014,6 @@
 <definition name="OregonCountyMarionCounty" extends="homep">		
 		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Oregon/counties/Marion-County.jsp" />		
 		<put-attribute name="title" value="Information and stats for Marion County about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
-		<put-attribute name="current" value="" cascade="true" />		
-	</definition>
-<definition name="Puerto_RicoCityFajardozonaurbana" extends="homep">		
-		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Puerto-Rico/cities/Fajardo-zona-urbana.jsp" />		
-		<put-attribute name="title" value="Information and stats for Fajardo zona urbana about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
 		<put-attribute name="current" value="" cascade="true" />		
 	</definition>
 <definition name="CaliforniaCityLivermorecity" extends="homep">		
@@ -7876,21 +7851,6 @@
 		<put-attribute name="title" value="Information and stats for Sevier County about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
 		<put-attribute name="current" value="" cascade="true" />		
 	</definition>
-<definition name="Puerto_RicoCityTrujilloAltozonaurbana" extends="homep">		
-		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Puerto-Rico/cities/Trujillo-Alto-zona-urbana.jsp" />		
-		<put-attribute name="title" value="Information and stats for Trujillo Alto zona urbana about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
-		<put-attribute name="current" value="" cascade="true" />		
-	</definition>
-<definition name="Puerto_RicoCityBayamonzonaurbana" extends="homep">		
-		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Puerto-Rico/cities/Bayamon-zona-urbana.jsp" />		
-		<put-attribute name="title" value="Information and stats for Bayamon zona urbana about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
-		<put-attribute name="current" value="" cascade="true" />		
-	</definition>
-<definition name="Puerto_RicoCityCarolinazonaurbana" extends="homep">		
-		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Puerto-Rico/cities/Carolina-zona-urbana.jsp" />		
-		<put-attribute name="title" value="Information and stats for Carolina zona urbana about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
-		<put-attribute name="current" value="" cascade="true" />		
-	</definition>
 <definition name="TexasCountyWichitaCounty" extends="homep">		
 		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Texas/counties/Wichita-County.jsp" />		
 		<put-attribute name="title" value="Information and stats for Wichita County about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
@@ -9601,9 +9561,9 @@
 		<put-attribute name="title" value="Information and stats for Mehlville about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
 		<put-attribute name="current" value="" cascade="true" />		
 	</definition>
-<definition name="Puerto_RicoMetroSanGermn" extends="homep">		
-		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Puerto-Rico/metros/San-Germn.jsp" />		
-		<put-attribute name="title" value="Information and stats for San Germán about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
+<definition name="Puerto_RicoMetroSanGerman" extends="homep">		
+		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Puerto-Rico/metros/San-German.jsp" />		
+		<put-attribute name="title" value="Information and stats for San German about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
 		<put-attribute name="current" value="" cascade="true" />		
 	</definition>
 <definition name="WisconsinMetroGreenBay" extends="homep">		
@@ -10506,16 +10466,6 @@
 		<put-attribute name="title" value="Information and stats for Berkshire County about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
 		<put-attribute name="current" value="" cascade="true" />		
 	</definition>
-<definition name="Puerto_RicoCityGuaynabozonaurbana" extends="homep">		
-		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Puerto-Rico/cities/Guaynabo-zona-urbana.jsp" />		
-		<put-attribute name="title" value="Information and stats for Guaynabo zona urbana about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
-		<put-attribute name="current" value="" cascade="true" />		
-	</definition>
-<definition name="Puerto_RicoCityCatanozonaurbana" extends="homep">		
-		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Puerto-Rico/cities/Catano-zona-urbana.jsp" />		
-		<put-attribute name="title" value="Information and stats for Catano zona urbana about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
-		<put-attribute name="current" value="" cascade="true" />		
-	</definition>
 <definition name="New_YorkCityMerrick" extends="homep">		
 		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/New-York/cities/Merrick.jsp" />		
 		<put-attribute name="title" value="Information and stats for Merrick about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
@@ -10609,6 +10559,11 @@
 <definition name="MichiganMicroHoughton" extends="homep">		
 		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Michigan/micros/Houghton.jsp" />		
 		<put-attribute name="title" value="Information and stats for Houghton about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
+		<put-attribute name="current" value="" cascade="true" />		
+	</definition>
+<definition name="Puerto_RicoCityFajardozonaurbana" extends="homep">		
+		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Puerto-Rico/cities/Fajardo-zona-urbana.jsp" />		
+		<put-attribute name="title" value="Information and stats for Fajardo zona urbana about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
 		<put-attribute name="current" value="" cascade="true" />		
 	</definition>
 <definition name="MassachusettsCountyFranklinCounty" extends="homep">		
@@ -11859,6 +11814,11 @@
 <definition name="MichiganCityWyomingcity" extends="homep">		
 		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Michigan/cities/Wyoming-city.jsp" />		
 		<put-attribute name="title" value="Information and stats for Wyoming city about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
+		<put-attribute name="current" value="" cascade="true" />		
+	</definition>
+<definition name="Puerto_RicoCitySanJuanzonaurbana" extends="homep">		
+		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Puerto-Rico/cities/San-Juan-zona-urbana.jsp" />		
+		<put-attribute name="title" value="Information and stats for San Juan zona urbana about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
 		<put-attribute name="current" value="" cascade="true" />		
 	</definition>
 <definition name="CaliforniaCitySanFernandocity" extends="homep">		
@@ -13801,9 +13761,9 @@
 		<put-attribute name="title" value="Information and stats for Rock County about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
 		<put-attribute name="current" value="" cascade="true" />		
 	</definition>
-<definition name="Puerto_RicoMetroMayagez" extends="homep">		
-		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Puerto-Rico/metros/Mayagüez.jsp" />		
-		<put-attribute name="title" value="Information and stats for Mayagüez about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
+<definition name="Puerto_RicoMetroMayaguez" extends="homep">		
+		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Puerto-Rico/metros/Mayaguez.jsp" />		
+		<put-attribute name="title" value="Information and stats for Mayaguez about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
 		<put-attribute name="current" value="" cascade="true" />		
 	</definition>
 <definition name="MinnesotaCountyKandiyohiCounty" extends="homep">		
@@ -14044,21 +14004,6 @@
 <definition name="OregonCityBeavertoncity" extends="homep">		
 		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Oregon/cities/Beaverton-city.jsp" />		
 		<put-attribute name="title" value="Information and stats for Beaverton city about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
-		<put-attribute name="current" value="" cascade="true" />		
-	</definition>
-<definition name="Puerto_RicoCityArecibozonaurbana" extends="homep">		
-		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Puerto-Rico/cities/Arecibo-zona-urbana.jsp" />		
-		<put-attribute name="title" value="Information and stats for Arecibo zona urbana about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
-		<put-attribute name="current" value="" cascade="true" />		
-	</definition>
-<definition name="Puerto_RicoCityPoncezonaurbana" extends="homep">		
-		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Puerto-Rico/cities/Ponce-zona-urbana.jsp" />		
-		<put-attribute name="title" value="Information and stats for Ponce zona urbana about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
-		<put-attribute name="current" value="" cascade="true" />		
-	</definition>
-<definition name="Puerto_RicoCityCaguaszonaurbana" extends="homep">		
-		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Puerto-Rico/cities/Caguas-zona-urbana.jsp" />		
-		<put-attribute name="title" value="Information and stats for Caguas zona urbana about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
 		<put-attribute name="current" value="" cascade="true" />		
 	</definition>
 <definition name="MinnesotaCountyDouglasCounty" extends="homep">		
@@ -15721,6 +15666,11 @@
 		<put-attribute name="title" value="Information and stats for Winter Garden city about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
 		<put-attribute name="current" value="" cascade="true" />		
 	</definition>
+<definition name="Puerto_RicoCityArecibozonaurbana" extends="homep">		
+		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Puerto-Rico/cities/Arecibo-zona-urbana.jsp" />		
+		<put-attribute name="title" value="Information and stats for Arecibo zona urbana about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
+		<put-attribute name="current" value="" cascade="true" />		
+	</definition>
 <definition name="WashingtonCityFederalWaycity" extends="homep">		
 		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Washington/cities/Federal-Way-city.jsp" />		
 		<put-attribute name="title" value="Information and stats for Federal Way city about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
@@ -16054,6 +16004,11 @@
 <definition name="ArkansasMicroSearcy" extends="homep">		
 		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Arkansas/micros/Searcy.jsp" />		
 		<put-attribute name="title" value="Information and stats for Searcy about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
+		<put-attribute name="current" value="" cascade="true" />		
+	</definition>
+<definition name="Puerto_RicoCityPoncezonaurbana" extends="homep">		
+		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Puerto-Rico/cities/Ponce-zona-urbana.jsp" />		
+		<put-attribute name="title" value="Information and stats for Ponce zona urbana about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
 		<put-attribute name="current" value="" cascade="true" />		
 	</definition>
 <definition name="HawaiiCountyHonoluluCounty" extends="homep">		
@@ -17166,6 +17121,11 @@
 		<put-attribute name="title" value="Information and stats for Pittsburg County about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
 		<put-attribute name="current" value="" cascade="true" />		
 	</definition>
+<definition name="Puerto_RicoCityCaguaszonaurbana" extends="homep">		
+		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Puerto-Rico/cities/Caguas-zona-urbana.jsp" />		
+		<put-attribute name="title" value="Information and stats for Caguas zona urbana about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
+		<put-attribute name="current" value="" cascade="true" />		
+	</definition>
 <definition name="New_YorkCityNorthTonawandacity" extends="homep">		
 		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/New-York/cities/North-Tonawanda-city.jsp" />		
 		<put-attribute name="title" value="Information and stats for North Tonawanda city about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
@@ -17821,6 +17781,11 @@
 		<put-attribute name="title" value="Information and stats for Walnut city about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
 		<put-attribute name="current" value="" cascade="true" />		
 	</definition>
+<definition name="Puerto_RicoCityGuaynabozonaurbana" extends="homep">		
+		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Puerto-Rico/cities/Guaynabo-zona-urbana.jsp" />		
+		<put-attribute name="title" value="Information and stats for Guaynabo zona urbana about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
+		<put-attribute name="current" value="" cascade="true" />		
+	</definition>
 <definition name="KentuckyCityLouisvilleJeffersonCountymetrogovernment" extends="homep">		
 		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Kentucky/cities/Louisville-Jefferson-County-metro-government.jsp" />		
 		<put-attribute name="title" value="Information and stats for Louisville Jefferson County metro government  about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
@@ -17914,6 +17879,11 @@
 <definition name="CaliforniaCityWalnutCreekcity" extends="homep">		
 		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/California/cities/Walnut-Creek-city.jsp" />		
 		<put-attribute name="title" value="Information and stats for Walnut Creek city about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
+		<put-attribute name="current" value="" cascade="true" />		
+	</definition>
+<definition name="Puerto_RicoCityCatanozonaurbana" extends="homep">		
+		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Puerto-Rico/cities/Catano-zona-urbana.jsp" />		
+		<put-attribute name="title" value="Information and stats for Catano zona urbana about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
 		<put-attribute name="current" value="" cascade="true" />		
 	</definition>
 <definition name="MichiganMetroBattleCreek" extends="homep">		
@@ -18831,11 +18801,6 @@
 		<put-attribute name="title" value="Information and stats for Memphis city about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
 		<put-attribute name="current" value="" cascade="true" />		
 	</definition>
-<definition name="Puerto_RicoCityLevittowncomunidad" extends="homep">		
-		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Puerto-Rico/cities/Levittown-comunidad.jsp" />		
-		<put-attribute name="title" value="Information and stats for Levittown comunidad about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
-		<put-attribute name="current" value="" cascade="true" />		
-	</definition>
 <definition name="New_JerseyCityGarfieldcity" extends="homep">		
 		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/New-Jersey/cities/Garfield-city.jsp" />		
 		<put-attribute name="title" value="Information and stats for Garfield city about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
@@ -19696,6 +19661,11 @@
 		<put-attribute name="title" value="Information and stats for Armstrong County about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
 		<put-attribute name="current" value="" cascade="true" />		
 	</definition>
+<definition name="Puerto_RicoCityLevittowncomunidad" extends="homep">		
+		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Puerto-Rico/cities/Levittown-comunidad.jsp" />		
+		<put-attribute name="title" value="Information and stats for Levittown comunidad about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
+		<put-attribute name="current" value="" cascade="true" />		
+	</definition>
 <definition name="IllinoisCountyDuPageCounty" extends="homep">		
 		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Illinois/counties/DuPage-County.jsp" />		
 		<put-attribute name="title" value="Information and stats for DuPage County about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
@@ -19729,6 +19699,11 @@
 <definition name="PennsylvaniaCountyBedfordCounty" extends="homep">		
 		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Pennsylvania/counties/Bedford-County.jsp" />		
 		<put-attribute name="title" value="Information and stats for Bedford County about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
+		<put-attribute name="current" value="" cascade="true" />		
+	</definition>
+<definition name="Puerto_RicoCityTrujilloAltozonaurbana" extends="homep">		
+		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Puerto-Rico/cities/Trujillo-Alto-zona-urbana.jsp" />		
+		<put-attribute name="title" value="Information and stats for Trujillo Alto zona urbana about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
 		<put-attribute name="current" value="" cascade="true" />		
 	</definition>
 <definition name="MissouriCountyButlerCounty" extends="homep">		
@@ -21116,6 +21091,11 @@
 		<put-attribute name="title" value="Information and stats for Cheektowaga about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
 		<put-attribute name="current" value="" cascade="true" />		
 	</definition>
+<definition name="Puerto_RicoCityBayamonzonaurbana" extends="homep">		
+		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Puerto-Rico/cities/Bayamon-zona-urbana.jsp" />		
+		<put-attribute name="title" value="Information and stats for Bayamon zona urbana about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
+		<put-attribute name="current" value="" cascade="true" />		
+	</definition>
 <definition name="OhioMicroChillicothe" extends="homep">		
 		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Ohio/micros/Chillicothe.jsp" />		
 		<put-attribute name="title" value="Information and stats for Chillicothe about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
@@ -21614,6 +21594,11 @@
 <definition name="FloridaCityEstero" extends="homep">		
 		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Florida/cities/Estero.jsp" />		
 		<put-attribute name="title" value="Information and stats for Estero about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
+		<put-attribute name="current" value="" cascade="true" />		
+	</definition>
+<definition name="Puerto_RicoCityCarolinazonaurbana" extends="homep">		
+		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Puerto-Rico/cities/Carolina-zona-urbana.jsp" />		
+		<put-attribute name="title" value="Information and stats for Carolina zona urbana about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
 		<put-attribute name="current" value="" cascade="true" />		
 	</definition>
 <definition name="South_CarolinaCountyJasperCounty" extends="homep">		
@@ -24456,6 +24441,11 @@
 		<put-attribute name="title" value="Information and stats for Sachse city about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
 		<put-attribute name="current" value="" cascade="true" />		
 	</definition>
+<definition name="Puerto_RicoCityMayaguezzonaurbana" extends="homep">		
+		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Puerto-Rico/cities/Mayaguez-zona-urbana.jsp" />		
+		<put-attribute name="title" value="Information and stats for Mayaguez zona urbana about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
+		<put-attribute name="current" value="" cascade="true" />		
+	</definition>
 <definition name="NebraskaMicroHastings" extends="homep">		
 		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Nebraska/micros/Hastings.jsp" />		
 		<put-attribute name="title" value="Information and stats for Hastings about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
@@ -24629,6 +24619,11 @@
 <definition name="TennesseeMicroParis" extends="homep">		
 		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Tennessee/micros/Paris.jsp" />		
 		<put-attribute name="title" value="Information and stats for Paris about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
+		<put-attribute name="current" value="" cascade="true" />		
+	</definition>
+<definition name="Puerto_RicoCityVegaBajazonaurbana" extends="homep">		
+		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states/Puerto-Rico/cities/Vega-Baja-zona-urbana.jsp" />		
+		<put-attribute name="title" value="Information and stats for Vega Baja zona urbana about age, race, sex, marital status, school enrollment, place of birth, Citizenship status, Veterans status, Ancestry etc. " />
 		<put-attribute name="current" value="" cascade="true" />		
 	</definition>
 <definition name="KentuckyMicroMiddlesborough" extends="homep">		

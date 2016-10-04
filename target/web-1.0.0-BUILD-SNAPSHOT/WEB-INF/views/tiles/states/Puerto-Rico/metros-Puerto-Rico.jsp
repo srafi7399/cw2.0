@@ -49,7 +49,7 @@
     <tbody>    
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Puerto-Rico/metros/San-Germn">San Germán</a></span>
+          <span class="name"> <a href="/states/Puerto-Rico/metros/San-German">San German</a></span>
         </td>        
         <td>135567     
         </td>
@@ -97,7 +97,7 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Puerto-Rico/metros/Mayagüez">Mayagüez</a></span>
+          <span class="name"> <a href="/states/Puerto-Rico/metros/Mayaguez">Mayaguez</a></span>
         </td>        
         <td>102784     
         </td>

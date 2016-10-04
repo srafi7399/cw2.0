@@ -289,22 +289,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Mississippi/cities/Brandon-city">Brandon city</a></span>
-        </td>        
-        <td>22205     
-        </td>
-        <td>45.6% Male and 54.4% female
-        </td>
-        <td>39 years        
-        </td>
-        <td>38.8
-        </td>
-        <td>4.3 
-        </td>
-        <td> 3.17
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Mississippi/cities/Columbus-city">Columbus city</a></span>
         </td>        
         <td>23540     
@@ -321,19 +305,19 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Mississippi/cities/Starkville-city">Starkville city</a></span>
+          <span class="name"> <a href="/states/Mississippi/cities/Brandon-city">Brandon city</a></span>
         </td>        
-        <td>24528     
+        <td>22205     
         </td>
-        <td>49.6% Male and 50.4% female
+        <td>45.6% Male and 54.4% female
         </td>
-        <td>25.9 years        
+        <td>39 years        
         </td>
-        <td>46.7
+        <td>38.8
         </td>
-        <td>2.2 
+        <td>4.3 
         </td>
-        <td> 3.01
+        <td> 3.17
         </td>        
       <tr>       
         <td>        
@@ -350,6 +334,22 @@
         <td>4.8 
         </td>
         <td> 2.97
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Mississippi/cities/Starkville-city">Starkville city</a></span>
+        </td>        
+        <td>24528     
+        </td>
+        <td>49.6% Male and 50.4% female
+        </td>
+        <td>25.9 years        
+        </td>
+        <td>46.7
+        </td>
+        <td>2.2 
+        </td>
+        <td> 3.01
         </td>        
          </tbody>
   </table>

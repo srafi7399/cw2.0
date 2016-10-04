@@ -305,22 +305,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/North-Carolina/micros/Sanford">Sanford</a></span>
-        </td>        
-        <td>59471     
-        </td>
-        <td>49.1% Male and 50.9% female
-        </td>
-        <td>37.6 years        
-        </td>
-        <td>21
-        </td>
-        <td>19.2 
-        </td>
-        <td> 3.27
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/North-Carolina/micros/Rockingham">Rockingham</a></span>
         </td>        
         <td>46498     
@@ -334,6 +318,22 @@
         <td>6.2 
         </td>
         <td> 3.18
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/North-Carolina/micros/North-Wilkesboro">North Wilkesboro</a></span>
+        </td>        
+        <td>69144     
+        </td>
+        <td>49% Male and 51% female
+        </td>
+        <td>43.2 years        
+        </td>
+        <td>11.3
+        </td>
+        <td>5.6 
+        </td>
+        <td> 2.96
         </td>        
       <tr>       
         <td>        
@@ -353,19 +353,19 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/North-Carolina/micros/North-Wilkesboro">North Wilkesboro</a></span>
+          <span class="name"> <a href="/states/North-Carolina/micros/Sanford">Sanford</a></span>
         </td>        
-        <td>69144     
+        <td>59471     
         </td>
-        <td>49% Male and 51% female
+        <td>49.1% Male and 50.9% female
         </td>
-        <td>43.2 years        
+        <td>37.6 years        
         </td>
-        <td>11.3
+        <td>21
         </td>
-        <td>5.6 
+        <td>19.2 
         </td>
-        <td> 2.96
+        <td> 3.27
         </td>        
          </tbody>
   </table>

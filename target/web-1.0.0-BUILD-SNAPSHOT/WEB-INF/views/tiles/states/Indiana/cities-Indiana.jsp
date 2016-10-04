@@ -545,19 +545,19 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Indiana/cities/Jeffersonville-city">Jeffersonville city</a></span>
+          <span class="name"> <a href="/states/Indiana/cities/South-Bend-city">South Bend city</a></span>
         </td>        
-        <td>46220     
+        <td>100157     
         </td>
-        <td>47.8% Male and 52.2% female
+        <td>49.1% Male and 50.9% female
         </td>
-        <td>38.1 years        
+        <td>34.1 years        
         </td>
-        <td>20.2
+        <td>23.6
         </td>
-        <td>4.7 
+        <td>13.8 
         </td>
-        <td> 3.3
+        <td> 3.24
         </td>        
       <tr>       
         <td>        
@@ -577,38 +577,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Indiana/cities/South-Bend-city">South Bend city</a></span>
-        </td>        
-        <td>100157     
-        </td>
-        <td>49.1% Male and 50.9% female
-        </td>
-        <td>34.1 years        
-        </td>
-        <td>23.6
-        </td>
-        <td>13.8 
-        </td>
-        <td> 3.24
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Indiana/cities/Schererville-town">Schererville town</a></span>
-        </td>        
-        <td>29096     
-        </td>
-        <td>47.9% Male and 52.1% female
-        </td>
-        <td>42 years        
-        </td>
-        <td>34
-        </td>
-        <td>12.6 
-        </td>
-        <td> 3.06
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Indiana/cities/Crown-Point-city">Crown Point city</a></span>
         </td>        
         <td>28115     
@@ -625,19 +593,35 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Indiana/cities/Brownsburg-town">Brownsburg town</a></span>
+          <span class="name"> <a href="/states/Indiana/cities/Fort-Wayne-city">Fort Wayne city</a></span>
         </td>        
-        <td>21886     
+        <td>254606     
         </td>
-        <td>47.6% Male and 52.4% female
+        <td>48.2% Male and 51.8% female
         </td>
-        <td>36 years        
+        <td>35 years        
         </td>
-        <td>37.1
+        <td>25.3
         </td>
-        <td>3.1 
+        <td>8.3 
         </td>
-        <td> 3.18
+        <td> 3.16
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Indiana/cities/Evansville-city">Evansville city</a></span>
+        </td>        
+        <td>120250     
+        </td>
+        <td>47.2% Male and 52.8% female
+        </td>
+        <td>36.6 years        
+        </td>
+        <td>18.4
+        </td>
+        <td>3 
+        </td>
+        <td> 3
         </td>        
       <tr>       
         <td>        
@@ -657,6 +641,54 @@
         </td>        
       <tr>       
         <td>        
+          <span class="name"> <a href="/states/Indiana/cities/Jeffersonville-city">Jeffersonville city</a></span>
+        </td>        
+        <td>46220     
+        </td>
+        <td>47.8% Male and 52.2% female
+        </td>
+        <td>38.1 years        
+        </td>
+        <td>20.2
+        </td>
+        <td>4.7 
+        </td>
+        <td> 3.3
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Indiana/cities/Schererville-town">Schererville town</a></span>
+        </td>        
+        <td>29096     
+        </td>
+        <td>47.9% Male and 52.1% female
+        </td>
+        <td>42 years        
+        </td>
+        <td>34
+        </td>
+        <td>12.6 
+        </td>
+        <td> 3.06
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Indiana/cities/Lafayette-city">Lafayette city</a></span>
+        </td>        
+        <td>70156     
+        </td>
+        <td>47.9% Male and 52.1% female
+        </td>
+        <td>31.1 years        
+        </td>
+        <td>24.5
+        </td>
+        <td>12.8 
+        </td>
+        <td> 2.98
+        </td>        
+      <tr>       
+        <td>        
           <span class="name"> <a href="/states/Indiana/cities/Valparaiso-city">Valparaiso city</a></span>
         </td>        
         <td>31912     
@@ -673,19 +705,19 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Indiana/cities/Fort-Wayne-city">Fort Wayne city</a></span>
+          <span class="name"> <a href="/states/Indiana/cities/Brownsburg-town">Brownsburg town</a></span>
         </td>        
-        <td>254606     
+        <td>21886     
         </td>
-        <td>48.2% Male and 51.8% female
+        <td>47.6% Male and 52.4% female
         </td>
-        <td>35 years        
+        <td>36 years        
         </td>
-        <td>25.3
+        <td>37.1
         </td>
-        <td>8.3 
+        <td>3.1 
         </td>
-        <td> 3.16
+        <td> 3.18
         </td>        
       <tr>       
         <td>        
@@ -718,38 +750,6 @@
         <td>4.4 
         </td>
         <td> 3.12
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Indiana/cities/Lafayette-city">Lafayette city</a></span>
-        </td>        
-        <td>70156     
-        </td>
-        <td>47.9% Male and 52.1% female
-        </td>
-        <td>31.1 years        
-        </td>
-        <td>24.5
-        </td>
-        <td>12.8 
-        </td>
-        <td> 2.98
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Indiana/cities/Evansville-city">Evansville city</a></span>
-        </td>        
-        <td>120250     
-        </td>
-        <td>47.2% Male and 52.8% female
-        </td>
-        <td>36.6 years        
-        </td>
-        <td>18.4
-        </td>
-        <td>3 
-        </td>
-        <td> 3
         </td>        
          </tbody>
   </table>

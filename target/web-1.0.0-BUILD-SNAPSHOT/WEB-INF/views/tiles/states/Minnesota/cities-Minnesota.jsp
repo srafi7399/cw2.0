@@ -737,22 +737,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Minnesota/cities/Cottage-Grove-city">Cottage Grove city</a></span>
-        </td>        
-        <td>35159     
-        </td>
-        <td>49.5% Male and 50.5% female
-        </td>
-        <td>35.4 years        
-        </td>
-        <td>32
-        </td>
-        <td>4.6 
-        </td>
-        <td> 3.29
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Minnesota/cities/Oakdale-city">Oakdale city</a></span>
         </td>        
         <td>27679     
@@ -766,54 +750,6 @@
         <td>5.3 
         </td>
         <td> 3.08
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Minnesota/cities/Edina-city">Edina city</a></span>
-        </td>        
-        <td>49004     
-        </td>
-        <td>47.6% Male and 52.4% female
-        </td>
-        <td>44.3 years        
-        </td>
-        <td>68.1
-        </td>
-        <td>3.5 
-        </td>
-        <td> 3
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Minnesota/cities/Rochester-city">Rochester city</a></span>
-        </td>        
-        <td>109324     
-        </td>
-        <td>48.5% Male and 51.5% female
-        </td>
-        <td>35.4 years        
-        </td>
-        <td>41.8
-        </td>
-        <td>5.5 
-        </td>
-        <td> 3.11
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Minnesota/cities/Owatonna-city">Owatonna city</a></span>
-        </td>        
-        <td>25505     
-        </td>
-        <td>49.3% Male and 50.7% female
-        </td>
-        <td>38.5 years        
-        </td>
-        <td>27.3
-        </td>
-        <td>7.7 
-        </td>
-        <td> 3.03
         </td>        
       <tr>       
         <td>        
@@ -833,6 +769,22 @@
         </td>        
       <tr>       
         <td>        
+          <span class="name"> <a href="/states/Minnesota/cities/Minnetonka-city">Minnetonka city</a></span>
+        </td>        
+        <td>51028     
+        </td>
+        <td>47.2% Male and 52.8% female
+        </td>
+        <td>44.3 years        
+        </td>
+        <td>55.5
+        </td>
+        <td>2.1 
+        </td>
+        <td> 2.86
+        </td>        
+      <tr>       
+        <td>        
           <span class="name"> <a href="/states/Minnesota/cities/Plymouth-city">Plymouth city</a></span>
         </td>        
         <td>72864     
@@ -846,6 +798,38 @@
         <td>3.9 
         </td>
         <td> 2.97
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Minnesota/cities/Cottage-Grove-city">Cottage Grove city</a></span>
+        </td>        
+        <td>35159     
+        </td>
+        <td>49.5% Male and 50.5% female
+        </td>
+        <td>35.4 years        
+        </td>
+        <td>32
+        </td>
+        <td>4.6 
+        </td>
+        <td> 3.29
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Minnesota/cities/Edina-city">Edina city</a></span>
+        </td>        
+        <td>49004     
+        </td>
+        <td>47.6% Male and 52.4% female
+        </td>
+        <td>44.3 years        
+        </td>
+        <td>68.1
+        </td>
+        <td>3.5 
+        </td>
+        <td> 3
         </td>        
       <tr>       
         <td>        
@@ -865,35 +849,51 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Minnesota/cities/Blaine-city">Blaine city</a></span>
+          <span class="name"> <a href="/states/Minnesota/cities/Rochester-city">Rochester city</a></span>
         </td>        
-        <td>59340     
+        <td>109324     
         </td>
-        <td>49.7% Male and 50.3% female
+        <td>48.5% Male and 51.5% female
         </td>
         <td>35.4 years        
         </td>
-        <td>29.7
+        <td>41.8
         </td>
-        <td>3.2 
+        <td>5.5 
         </td>
-        <td> 3.21
+        <td> 3.11
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Minnesota/cities/Minnetonka-city">Minnetonka city</a></span>
+          <span class="name"> <a href="/states/Minnesota/cities/Farmington-city">Farmington city</a></span>
         </td>        
-        <td>51028     
+        <td>21854     
         </td>
-        <td>47.2% Male and 52.8% female
+        <td>48.4% Male and 51.6% female
         </td>
-        <td>44.3 years        
+        <td>33.3 years        
         </td>
-        <td>55.5
+        <td>33
         </td>
-        <td>2.1 
+        <td>1.9 
         </td>
-        <td> 2.86
+        <td> 3.34
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Minnesota/cities/Owatonna-city">Owatonna city</a></span>
+        </td>        
+        <td>25505     
+        </td>
+        <td>49.3% Male and 50.7% female
+        </td>
+        <td>38.5 years        
+        </td>
+        <td>27.3
+        </td>
+        <td>7.7 
+        </td>
+        <td> 3.03
         </td>        
       <tr>       
         <td>        
@@ -913,19 +913,19 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Minnesota/cities/Farmington-city">Farmington city</a></span>
+          <span class="name"> <a href="/states/Minnesota/cities/Blaine-city">Blaine city</a></span>
         </td>        
-        <td>21854     
+        <td>59340     
         </td>
-        <td>48.4% Male and 51.6% female
+        <td>49.7% Male and 50.3% female
         </td>
-        <td>33.3 years        
+        <td>35.4 years        
         </td>
-        <td>33
+        <td>29.7
         </td>
-        <td>1.9 
+        <td>3.2 
         </td>
-        <td> 3.34
+        <td> 3.21
         </td>        
          </tbody>
   </table>

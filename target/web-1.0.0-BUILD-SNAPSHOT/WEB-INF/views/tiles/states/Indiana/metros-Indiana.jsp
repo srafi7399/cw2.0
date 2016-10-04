@@ -177,6 +177,22 @@
         </td>        
       <tr>       
         <td>        
+          <span class="name"> <a href="/states/Indiana/metros/Muncie">Muncie</a></span>
+        </td>        
+        <td>117570     
+        </td>
+        <td>47.9% Male and 52.1% female
+        </td>
+        <td>34.7 years        
+        </td>
+        <td>22.6
+        </td>
+        <td>2 
+        </td>
+        <td> 2.91
+        </td>        
+      <tr>       
+        <td>        
           <span class="name"> <a href="/states/Indiana/metros/Terre-Haute">Terre Haute</a></span>
         </td>        
         <td>172447     
@@ -206,22 +222,6 @@
         <td>6.1 
         </td>
         <td> 3.16
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Indiana/metros/Muncie">Muncie</a></span>
-        </td>        
-        <td>117570     
-        </td>
-        <td>47.9% Male and 52.1% female
-        </td>
-        <td>34.7 years        
-        </td>
-        <td>22.6
-        </td>
-        <td>2 
-        </td>
-        <td> 2.91
         </td>        
          </tbody>
   </table>

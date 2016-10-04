@@ -305,22 +305,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Louisiana/cities/Lafayette-city">Lafayette city</a></span>
-        </td>        
-        <td>122997     
-        </td>
-        <td>48.7% Male and 51.3% female
-        </td>
-        <td>33.7 years        
-        </td>
-        <td>32.8
-        </td>
-        <td>4.4 
-        </td>
-        <td> 3.15
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Louisiana/cities/Lake-Charles-city">Lake Charles city</a></span>
         </td>        
         <td>73437     
@@ -337,35 +321,35 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Louisiana/cities/Sulphur-city">Sulphur city</a></span>
+          <span class="name"> <a href="/states/Louisiana/cities/Lafayette-city">Lafayette city</a></span>
         </td>        
-        <td>20199     
+        <td>122997     
         </td>
-        <td>44.8% Male and 55.2% female
+        <td>48.7% Male and 51.3% female
         </td>
-        <td>36.1 years        
+        <td>33.7 years        
         </td>
-        <td>22.2
+        <td>32.8
         </td>
-        <td>3.6 
+        <td>4.4 
         </td>
-        <td> 3.2
+        <td> 3.15
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Louisiana/cities/Metairie">Metairie</a></span>
+          <span class="name"> <a href="/states/Louisiana/cities/Central-city">Central city</a></span>
         </td>        
-        <td>139626     
+        <td>27447     
         </td>
-        <td>49.8% Male and 50.2% female
+        <td>48% Male and 52% female
         </td>
-        <td>39.7 years        
+        <td>40.5 years        
         </td>
-        <td>32
+        <td>20.4
         </td>
-        <td>14.8 
+        <td>2.3 
         </td>
-        <td> 3.18
+        <td> 3
         </td>        
       <tr>       
         <td>        
@@ -385,19 +369,35 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Louisiana/cities/Central-city">Central city</a></span>
+          <span class="name"> <a href="/states/Louisiana/cities/Metairie">Metairie</a></span>
         </td>        
-        <td>27447     
+        <td>139626     
         </td>
-        <td>48% Male and 52% female
+        <td>49.8% Male and 50.2% female
         </td>
-        <td>40.5 years        
+        <td>39.7 years        
         </td>
-        <td>20.4
+        <td>32
         </td>
-        <td>2.3 
+        <td>14.8 
         </td>
-        <td> 3
+        <td> 3.18
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Louisiana/cities/Sulphur-city">Sulphur city</a></span>
+        </td>        
+        <td>20199     
+        </td>
+        <td>44.8% Male and 55.2% female
+        </td>
+        <td>36.1 years        
+        </td>
+        <td>22.2
+        </td>
+        <td>3.6 
+        </td>
+        <td> 3.2
         </td>        
          </tbody>
   </table>

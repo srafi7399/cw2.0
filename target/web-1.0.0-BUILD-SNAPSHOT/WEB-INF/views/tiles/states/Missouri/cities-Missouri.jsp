@@ -529,38 +529,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Missouri/cities/Wentzville-city">Wentzville city</a></span>
-        </td>        
-        <td>31515     
-        </td>
-        <td>48.6% Male and 51.4% female
-        </td>
-        <td>34.2 years        
-        </td>
-        <td>30.5
-        </td>
-        <td>3.1 
-        </td>
-        <td> 3.25
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/Missouri/cities/Florissant-city">Florissant city</a></span>
-        </td>        
-        <td>52385     
-        </td>
-        <td>46.4% Male and 53.6% female
-        </td>
-        <td>38 years        
-        </td>
-        <td>22.6
-        </td>
-        <td>1.4 
-        </td>
-        <td> 3.1
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Missouri/cities/Arnold-city">Arnold city</a></span>
         </td>        
         <td>21032     
@@ -577,19 +545,19 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Missouri/cities/Sedalia-city">Sedalia city</a></span>
+          <span class="name"> <a href="/states/Missouri/cities/Wentzville-city">Wentzville city</a></span>
         </td>        
-        <td>21445     
+        <td>31515     
         </td>
-        <td>46.9% Male and 53.1% female
+        <td>48.6% Male and 51.4% female
         </td>
-        <td>33.9 years        
+        <td>34.2 years        
         </td>
-        <td>14.9
+        <td>30.5
         </td>
-        <td>10.2 
+        <td>3.1 
         </td>
-        <td> 3.13
+        <td> 3.25
         </td>        
       <tr>       
         <td>        
@@ -609,6 +577,22 @@
         </td>        
       <tr>       
         <td>        
+          <span class="name"> <a href="/states/Missouri/cities/Sedalia-city">Sedalia city</a></span>
+        </td>        
+        <td>21445     
+        </td>
+        <td>46.9% Male and 53.1% female
+        </td>
+        <td>33.9 years        
+        </td>
+        <td>14.9
+        </td>
+        <td>10.2 
+        </td>
+        <td> 3.13
+        </td>        
+      <tr>       
+        <td>        
           <span class="name"> <a href="/states/Missouri/cities/Wildwood-city">Wildwood city</a></span>
         </td>        
         <td>35704     
@@ -622,6 +606,22 @@
         <td>2.4 
         </td>
         <td> 3.28
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Missouri/cities/Florissant-city">Florissant city</a></span>
+        </td>        
+        <td>52385     
+        </td>
+        <td>46.4% Male and 53.6% female
+        </td>
+        <td>38 years        
+        </td>
+        <td>22.6
+        </td>
+        <td>1.4 
+        </td>
+        <td> 3.1
         </td>        
          </tbody>
   </table>

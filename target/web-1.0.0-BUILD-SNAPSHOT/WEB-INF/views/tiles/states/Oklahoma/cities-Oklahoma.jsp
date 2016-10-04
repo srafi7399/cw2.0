@@ -337,22 +337,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Oklahoma/cities/Oklahoma-City-city">Oklahoma City city</a></span>
-        </td>        
-        <td>600044     
-        </td>
-        <td>49.3% Male and 50.7% female
-        </td>
-        <td>33.6 years        
-        </td>
-        <td>28.3
-        </td>
-        <td>18.3 
-        </td>
-        <td> 3.28
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Oklahoma/cities/Broken-Arrow-city">Broken Arrow city</a></span>
         </td>        
         <td>101915     
@@ -366,6 +350,22 @@
         <td>6.6 
         </td>
         <td> 3.16
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Oklahoma/cities/Oklahoma-City-city">Oklahoma City city</a></span>
+        </td>        
+        <td>600044     
+        </td>
+        <td>49.3% Male and 50.7% female
+        </td>
+        <td>33.6 years        
+        </td>
+        <td>28.3
+        </td>
+        <td>18.3 
+        </td>
+        <td> 3.28
         </td>        
       <tr>       
         <td>        

@@ -93,12 +93,6 @@ public class HomeController {
 	}
 
 
-@RequestMapping(value = "/states", method = RequestMethod.GET)
-	public String getstates(Locale locale, Model model) {
-	
-		model.addAttribute("fipcode", "");
-		return "states";
-	}   
 @RequestMapping(value = "/states/Maryland/cities/Middle-River", method = RequestMethod.GET)
 	public String getMarylandCityMiddleRiver(Locale locale, Model model) {
 	
@@ -735,12 +729,6 @@ public class HomeController {
 		model.addAttribute("fipcode", "1013");
 		return "AlabamaCountyButlerCounty";
 	}   
-@RequestMapping(value = "/states/Puerto-Rico/cities/Guayama-zona-urbana", method = RequestMethod.GET)
-	public String getPuerto_RicoCityGuayamazonaurbana(Locale locale, Model model) {
-	
-		model.addAttribute("fipcode", "7232221");
-		return "Puerto_RicoCityGuayamazonaurbana";
-	}   
 @RequestMapping(value = "/states/Texas/micros/Levelland", method = RequestMethod.GET)
 	public String getTexasMicroLevelland(Locale locale, Model model) {
 	
@@ -752,6 +740,12 @@ public class HomeController {
 	
 		model.addAttribute("fipcode", "3650034");
 		return "New_YorkCityNewburghcity";
+	}   
+@RequestMapping(value = "/states/Puerto-Rico/cities/Guayama-zona-urbana", method = RequestMethod.GET)
+	public String getPuerto_RicoCityGuayamazonaurbana(Locale locale, Model model) {
+	
+		model.addAttribute("fipcode", "7232221");
+		return "Puerto_RicoCityGuayamazonaurbana";
 	}   
 @RequestMapping(value = "/states/California/cities/Lompoc-city", method = RequestMethod.GET)
 	public String getCaliforniaCityLompoccity(Locale locale, Model model) {
@@ -1256,12 +1250,6 @@ public class HomeController {
 	
 		model.addAttribute("fipcode", "49700");
 		return "CaliforniaMetroYubaCity";
-	}   
-@RequestMapping(value = "/states/Puerto-Rico/cities/San-Juan-zona-urbana", method = RequestMethod.GET)
-	public String getPuerto_RicoCitySanJuanzonaurbana(Locale locale, Model model) {
-	
-		model.addAttribute("fipcode", "7276770");
-		return "Puerto_RicoCitySanJuanzonaurbana";
 	}   
 @RequestMapping(value = "/states/Puerto-Rico/counties/Humacao-Municipio", method = RequestMethod.GET)
 	public String getPuerto_RicoCountyHumacaoMunicipio(Locale locale, Model model) {
@@ -4329,18 +4317,6 @@ public class HomeController {
 		model.addAttribute("fipcode", "41035");
 		return "OregonCountyKlamathCounty";
 	}   
-@RequestMapping(value = "/states/Puerto-Rico/cities/Mayaguez-zona-urbana", method = RequestMethod.GET)
-	public String getPuerto_RicoCityMayaguezzonaurbana(Locale locale, Model model) {
-	
-		model.addAttribute("fipcode", "7252431");
-		return "Puerto_RicoCityMayaguezzonaurbana";
-	}   
-@RequestMapping(value = "/states/Puerto-Rico/cities/Vega-Baja-zona-urbana", method = RequestMethod.GET)
-	public String getPuerto_RicoCityVegaBajazonaurbana(Locale locale, Model model) {
-	
-		model.addAttribute("fipcode", "7285326");
-		return "Puerto_RicoCityVegaBajazonaurbana";
-	}   
 @RequestMapping(value = "/states/Oregon/counties/Lane-County", method = RequestMethod.GET)
 	public String getOregonCountyLaneCounty(Locale locale, Model model) {
 	
@@ -6062,12 +6038,6 @@ public class HomeController {
 	
 		model.addAttribute("fipcode", "41047");
 		return "OregonCountyMarionCounty";
-	}   
-@RequestMapping(value = "/states/Puerto-Rico/cities/Fajardo-zona-urbana", method = RequestMethod.GET)
-	public String getPuerto_RicoCityFajardozonaurbana(Locale locale, Model model) {
-	
-		model.addAttribute("fipcode", "7227964");
-		return "Puerto_RicoCityFajardozonaurbana";
 	}   
 @RequestMapping(value = "/states/California/cities/Livermore-city", method = RequestMethod.GET)
 	public String getCaliforniaCityLivermorecity(Locale locale, Model model) {
@@ -9471,24 +9441,6 @@ public class HomeController {
 		model.addAttribute("fipcode", "47155");
 		return "TennesseeCountySevierCounty";
 	}   
-@RequestMapping(value = "/states/Puerto-Rico/cities/Trujillo-Alto-zona-urbana", method = RequestMethod.GET)
-	public String getPuerto_RicoCityTrujilloAltozonaurbana(Locale locale, Model model) {
-	
-		model.addAttribute("fipcode", "7283606");
-		return "Puerto_RicoCityTrujilloAltozonaurbana";
-	}   
-@RequestMapping(value = "/states/Puerto-Rico/cities/Bayamon-zona-urbana", method = RequestMethod.GET)
-	public String getPuerto_RicoCityBayamonzonaurbana(Locale locale, Model model) {
-	
-		model.addAttribute("fipcode", "7206593");
-		return "Puerto_RicoCityBayamonzonaurbana";
-	}   
-@RequestMapping(value = "/states/Puerto-Rico/cities/Carolina-zona-urbana", method = RequestMethod.GET)
-	public String getPuerto_RicoCityCarolinazonaurbana(Locale locale, Model model) {
-	
-		model.addAttribute("fipcode", "7214290");
-		return "Puerto_RicoCityCarolinazonaurbana";
-	}   
 @RequestMapping(value = "/states/Texas/counties/Wichita-County", method = RequestMethod.GET)
 	public String getTexasCountyWichitaCounty(Locale locale, Model model) {
 	
@@ -11541,11 +11493,11 @@ public class HomeController {
 		model.addAttribute("fipcode", "2947180");
 		return "MissouriCityMehlville";
 	}   
-@RequestMapping(value = "/states/Puerto-Rico/metros/San-Germn", method = RequestMethod.GET)
-	public String getPuerto_RicoMetroSanGermn(Locale locale, Model model) {
+@RequestMapping(value = "/states/Puerto-Rico/metros/San-German", method = RequestMethod.GET)
+	public String getPuerto_RicoMetroSanGerman(Locale locale, Model model) {
 	
 		model.addAttribute("fipcode", "41900");
-		return "Puerto_RicoMetroSanGermn";
+		return "Puerto_RicoMetroSanGerman";
 	}   
 @RequestMapping(value = "/states/Wisconsin/metros/Green-Bay", method = RequestMethod.GET)
 	public String getWisconsinMetroGreenBay(Locale locale, Model model) {
@@ -12627,18 +12579,6 @@ public class HomeController {
 		model.addAttribute("fipcode", "25003");
 		return "MassachusettsCountyBerkshireCounty";
 	}   
-@RequestMapping(value = "/states/Puerto-Rico/cities/Guaynabo-zona-urbana", method = RequestMethod.GET)
-	public String getPuerto_RicoCityGuaynabozonaurbana(Locale locale, Model model) {
-	
-		model.addAttribute("fipcode", "7232522");
-		return "Puerto_RicoCityGuaynabozonaurbana";
-	}   
-@RequestMapping(value = "/states/Puerto-Rico/cities/Catano-zona-urbana", method = RequestMethod.GET)
-	public String getPuerto_RicoCityCatanozonaurbana(Locale locale, Model model) {
-	
-		model.addAttribute("fipcode", "7215193");
-		return "Puerto_RicoCityCatanozonaurbana";
-	}   
 @RequestMapping(value = "/states/New-York/cities/Merrick", method = RequestMethod.GET)
 	public String getNew_YorkCityMerrick(Locale locale, Model model) {
 	
@@ -12752,6 +12692,12 @@ public class HomeController {
 	
 		model.addAttribute("fipcode", "26340");
 		return "MichiganMicroHoughton";
+	}   
+@RequestMapping(value = "/states/Puerto-Rico/cities/Fajardo-zona-urbana", method = RequestMethod.GET)
+	public String getPuerto_RicoCityFajardozonaurbana(Locale locale, Model model) {
+	
+		model.addAttribute("fipcode", "7227964");
+		return "Puerto_RicoCityFajardozonaurbana";
 	}   
 @RequestMapping(value = "/states/Massachusetts/counties/Franklin-County", method = RequestMethod.GET)
 	public String getMassachusettsCountyFranklinCounty(Locale locale, Model model) {
@@ -14252,6 +14198,12 @@ public class HomeController {
 	
 		model.addAttribute("fipcode", "2688940");
 		return "MichiganCityWyomingcity";
+	}   
+@RequestMapping(value = "/states/Puerto-Rico/cities/San-Juan-zona-urbana", method = RequestMethod.GET)
+	public String getPuerto_RicoCitySanJuanzonaurbana(Locale locale, Model model) {
+	
+		model.addAttribute("fipcode", "7276770");
+		return "Puerto_RicoCitySanJuanzonaurbana";
 	}   
 @RequestMapping(value = "/states/California/cities/San-Fernando-city", method = RequestMethod.GET)
 	public String getCaliforniaCitySanFernandocity(Locale locale, Model model) {
@@ -16581,11 +16533,11 @@ public class HomeController {
 		model.addAttribute("fipcode", "55105");
 		return "WisconsinCountyRockCounty";
 	}   
-@RequestMapping(value = "/states/Puerto-Rico/metros/Mayagüez", method = RequestMethod.GET)
-	public String getPuerto_RicoMetroMayagez(Locale locale, Model model) {
+@RequestMapping(value = "/states/Puerto-Rico/metros/Mayaguez", method = RequestMethod.GET)
+	public String getPuerto_RicoMetroMayaguez(Locale locale, Model model) {
 	
 		model.addAttribute("fipcode", "32420");
-		return "Puerto_RicoMetroMayagez";
+		return "Puerto_RicoMetroMayaguez";
 	}   
 @RequestMapping(value = "/states/Minnesota/counties/Kandiyohi-County", method = RequestMethod.GET)
 	public String getMinnesotaCountyKandiyohiCounty(Locale locale, Model model) {
@@ -16874,24 +16826,6 @@ public class HomeController {
 	
 		model.addAttribute("fipcode", "4105350");
 		return "OregonCityBeavertoncity";
-	}   
-@RequestMapping(value = "/states/Puerto-Rico/cities/Arecibo-zona-urbana", method = RequestMethod.GET)
-	public String getPuerto_RicoCityArecibozonaurbana(Locale locale, Model model) {
-	
-		model.addAttribute("fipcode", "7203368");
-		return "Puerto_RicoCityArecibozonaurbana";
-	}   
-@RequestMapping(value = "/states/Puerto-Rico/cities/Ponce-zona-urbana", method = RequestMethod.GET)
-	public String getPuerto_RicoCityPoncezonaurbana(Locale locale, Model model) {
-	
-		model.addAttribute("fipcode", "7263820");
-		return "Puerto_RicoCityPoncezonaurbana";
-	}   
-@RequestMapping(value = "/states/Puerto-Rico/cities/Caguas-zona-urbana", method = RequestMethod.GET)
-	public String getPuerto_RicoCityCaguaszonaurbana(Locale locale, Model model) {
-	
-		model.addAttribute("fipcode", "7210334");
-		return "Puerto_RicoCityCaguaszonaurbana";
 	}   
 @RequestMapping(value = "/states/Minnesota/counties/Douglas-County", method = RequestMethod.GET)
 	public String getMinnesotaCountyDouglasCounty(Locale locale, Model model) {
@@ -18885,6 +18819,12 @@ public class HomeController {
 		model.addAttribute("fipcode", "1278250");
 		return "FloridaCityWinterGardencity";
 	}   
+@RequestMapping(value = "/states/Puerto-Rico/cities/Arecibo-zona-urbana", method = RequestMethod.GET)
+	public String getPuerto_RicoCityArecibozonaurbana(Locale locale, Model model) {
+	
+		model.addAttribute("fipcode", "7203368");
+		return "Puerto_RicoCityArecibozonaurbana";
+	}   
 @RequestMapping(value = "/states/Washington/cities/Federal-Way-city", method = RequestMethod.GET)
 	public String getWashingtonCityFederalWaycity(Locale locale, Model model) {
 	
@@ -19286,6 +19226,12 @@ public class HomeController {
 	
 		model.addAttribute("fipcode", "42620");
 		return "ArkansasMicroSearcy";
+	}   
+@RequestMapping(value = "/states/Puerto-Rico/cities/Ponce-zona-urbana", method = RequestMethod.GET)
+	public String getPuerto_RicoCityPoncezonaurbana(Locale locale, Model model) {
+	
+		model.addAttribute("fipcode", "7263820");
+		return "Puerto_RicoCityPoncezonaurbana";
 	}   
 @RequestMapping(value = "/states/Hawaii/counties/Honolulu-County", method = RequestMethod.GET)
 	public String getHawaiiCountyHonoluluCounty(Locale locale, Model model) {
@@ -20619,6 +20565,12 @@ public class HomeController {
 		model.addAttribute("fipcode", "40121");
 		return "OklahomaCountyPittsburgCounty";
 	}   
+@RequestMapping(value = "/states/Puerto-Rico/cities/Caguas-zona-urbana", method = RequestMethod.GET)
+	public String getPuerto_RicoCityCaguaszonaurbana(Locale locale, Model model) {
+	
+		model.addAttribute("fipcode", "7210334");
+		return "Puerto_RicoCityCaguaszonaurbana";
+	}   
 @RequestMapping(value = "/states/New-York/cities/North-Tonawanda-city", method = RequestMethod.GET)
 	public String getNew_YorkCityNorthTonawandacity(Locale locale, Model model) {
 	
@@ -21405,6 +21357,12 @@ public class HomeController {
 		model.addAttribute("fipcode", "683332");
 		return "CaliforniaCityWalnutcity";
 	}   
+@RequestMapping(value = "/states/Puerto-Rico/cities/Guaynabo-zona-urbana", method = RequestMethod.GET)
+	public String getPuerto_RicoCityGuaynabozonaurbana(Locale locale, Model model) {
+	
+		model.addAttribute("fipcode", "7232522");
+		return "Puerto_RicoCityGuaynabozonaurbana";
+	}   
 @RequestMapping(value = "/states/Kentucky/cities/Louisville-Jefferson-County-metro-government", method = RequestMethod.GET)
 	public String getKentuckyCityLouisvilleJeffersonCountymetrogovernment(Locale locale, Model model) {
 	
@@ -21518,6 +21476,12 @@ public class HomeController {
 	
 		model.addAttribute("fipcode", "683346");
 		return "CaliforniaCityWalnutCreekcity";
+	}   
+@RequestMapping(value = "/states/Puerto-Rico/cities/Catano-zona-urbana", method = RequestMethod.GET)
+	public String getPuerto_RicoCityCatanozonaurbana(Locale locale, Model model) {
+	
+		model.addAttribute("fipcode", "7215193");
+		return "Puerto_RicoCityCatanozonaurbana";
 	}   
 @RequestMapping(value = "/states/Michigan/metros/Battle-Creek", method = RequestMethod.GET)
 	public String getMichiganMetroBattleCreek(Locale locale, Model model) {
@@ -22617,12 +22581,6 @@ public class HomeController {
 		model.addAttribute("fipcode", "4748000");
 		return "TennesseeCityMemphiscity";
 	}   
-@RequestMapping(value = "/states/Puerto-Rico/cities/Levittown-comunidad", method = RequestMethod.GET)
-	public String getPuerto_RicoCityLevittowncomunidad(Locale locale, Model model) {
-	
-		model.addAttribute("fipcode", "7245336");
-		return "Puerto_RicoCityLevittowncomunidad";
-	}   
 @RequestMapping(value = "/states/New-Jersey/cities/Garfield-city", method = RequestMethod.GET)
 	public String getNew_JerseyCityGarfieldcity(Locale locale, Model model) {
 	
@@ -23655,6 +23613,12 @@ public class HomeController {
 		model.addAttribute("fipcode", "42005");
 		return "PennsylvaniaCountyArmstrongCounty";
 	}   
+@RequestMapping(value = "/states/Puerto-Rico/cities/Levittown-comunidad", method = RequestMethod.GET)
+	public String getPuerto_RicoCityLevittowncomunidad(Locale locale, Model model) {
+	
+		model.addAttribute("fipcode", "7245336");
+		return "Puerto_RicoCityLevittowncomunidad";
+	}   
 @RequestMapping(value = "/states/Illinois/counties/DuPage-County", method = RequestMethod.GET)
 	public String getIllinoisCountyDuPageCounty(Locale locale, Model model) {
 	
@@ -23696,6 +23660,12 @@ public class HomeController {
 	
 		model.addAttribute("fipcode", "42009");
 		return "PennsylvaniaCountyBedfordCounty";
+	}   
+@RequestMapping(value = "/states/Puerto-Rico/cities/Trujillo-Alto-zona-urbana", method = RequestMethod.GET)
+	public String getPuerto_RicoCityTrujilloAltozonaurbana(Locale locale, Model model) {
+	
+		model.addAttribute("fipcode", "7283606");
+		return "Puerto_RicoCityTrujilloAltozonaurbana";
 	}   
 @RequestMapping(value = "/states/Missouri/counties/Butler-County", method = RequestMethod.GET)
 	public String getMissouriCountyButlerCounty(Locale locale, Model model) {
@@ -25359,6 +25329,12 @@ public class HomeController {
 		model.addAttribute("fipcode", "3615000");
 		return "New_YorkCityCheektowaga";
 	}   
+@RequestMapping(value = "/states/Puerto-Rico/cities/Bayamon-zona-urbana", method = RequestMethod.GET)
+	public String getPuerto_RicoCityBayamonzonaurbana(Locale locale, Model model) {
+	
+		model.addAttribute("fipcode", "7206593");
+		return "Puerto_RicoCityBayamonzonaurbana";
+	}   
 @RequestMapping(value = "/states/Ohio/micros/Chillicothe", method = RequestMethod.GET)
 	public String getOhioMicroChillicothe(Locale locale, Model model) {
 	
@@ -25958,6 +25934,12 @@ public class HomeController {
 	
 		model.addAttribute("fipcode", "1221150");
 		return "FloridaCityEstero";
+	}   
+@RequestMapping(value = "/states/Puerto-Rico/cities/Carolina-zona-urbana", method = RequestMethod.GET)
+	public String getPuerto_RicoCityCarolinazonaurbana(Locale locale, Model model) {
+	
+		model.addAttribute("fipcode", "7214290");
+		return "Puerto_RicoCityCarolinazonaurbana";
 	}   
 @RequestMapping(value = "/states/South-Carolina/counties/Jasper-County", method = RequestMethod.GET)
 	public String getSouth_CarolinaCountyJasperCounty(Locale locale, Model model) {
@@ -29367,6 +29349,12 @@ public class HomeController {
 		model.addAttribute("fipcode", "4864064");
 		return "TexasCitySachsecity";
 	}   
+@RequestMapping(value = "/states/Puerto-Rico/cities/Mayaguez-zona-urbana", method = RequestMethod.GET)
+	public String getPuerto_RicoCityMayaguezzonaurbana(Locale locale, Model model) {
+	
+		model.addAttribute("fipcode", "7252431");
+		return "Puerto_RicoCityMayaguezzonaurbana";
+	}   
 @RequestMapping(value = "/states/Nebraska/micros/Hastings", method = RequestMethod.GET)
 	public String getNebraskaMicroHastings(Locale locale, Model model) {
 	
@@ -29576,6 +29564,12 @@ public class HomeController {
 	
 		model.addAttribute("fipcode", "37540");
 		return "TennesseeMicroParis";
+	}   
+@RequestMapping(value = "/states/Puerto-Rico/cities/Vega-Baja-zona-urbana", method = RequestMethod.GET)
+	public String getPuerto_RicoCityVegaBajazonaurbana(Locale locale, Model model) {
+	
+		model.addAttribute("fipcode", "7285326");
+		return "Puerto_RicoCityVegaBajazonaurbana";
 	}   
 @RequestMapping(value = "/states/Kentucky/micros/Middlesborough", method = RequestMethod.GET)
 	public String getKentuckyMicroMiddlesborough(Locale locale, Model model) {

@@ -1105,6 +1105,54 @@
         </td>        
       <tr>       
         <td>        
+          <span class="name"> <a href="/states/New-York/cities/Smithtown">Smithtown</a></span>
+        </td>        
+        <td>26064     
+        </td>
+        <td>50.3% Male and 49.7% female
+        </td>
+        <td>44.7 years        
+        </td>
+        <td>44.3
+        </td>
+        <td>6.2 
+        </td>
+        <td> 3.42
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/New-York/cities/New-City">New City</a></span>
+        </td>        
+        <td>35258     
+        </td>
+        <td>50% Male and 50% female
+        </td>
+        <td>44.2 years        
+        </td>
+        <td>55.9
+        </td>
+        <td>7.7 
+        </td>
+        <td> 3.47
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/New-York/cities/Rome-city">Rome city</a></span>
+        </td>        
+        <td>33092     
+        </td>
+        <td>51.7% Male and 48.3% female
+        </td>
+        <td>40.8 years        
+        </td>
+        <td>19.1
+        </td>
+        <td>5.9 
+        </td>
+        <td> 2.97
+        </td>        
+      <tr>       
+        <td>        
           <span class="name"> <a href="/states/New-York/cities/Kingston-city">Kingston city</a></span>
         </td>        
         <td>23758     
@@ -1118,6 +1166,118 @@
         <td>13.9 
         </td>
         <td> 3.17
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/New-York/cities/Lindenhurst-village">Lindenhurst village</a></span>
+        </td>        
+        <td>27283     
+        </td>
+        <td>48.1% Male and 51.9% female
+        </td>
+        <td>40.7 years        
+        </td>
+        <td>24.6
+        </td>
+        <td>13.4 
+        </td>
+        <td> 3.49
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/New-York/cities/Mount-Vernon-city">Mount Vernon city</a></span>
+        </td>        
+        <td>67899     
+        </td>
+        <td>45.4% Male and 54.6% female
+        </td>
+        <td>37.9 years        
+        </td>
+        <td>26.8
+        </td>
+        <td>14.6 
+        </td>
+        <td> 3.43
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/New-York/cities/Port-Chester-village">Port Chester village</a></span>
+        </td>        
+        <td>29261     
+        </td>
+        <td>52.2% Male and 47.8% female
+        </td>
+        <td>35.4 years        
+        </td>
+        <td>18.8
+        </td>
+        <td>60.6 
+        </td>
+        <td> 3.59
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/New-York/cities/Valley-Stream-village">Valley Stream village</a></span>
+        </td>        
+        <td>37618     
+        </td>
+        <td>49.7% Male and 50.3% female
+        </td>
+        <td>38 years        
+        </td>
+        <td>34.5
+        </td>
+        <td>30.6 
+        </td>
+        <td> 3.85
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/New-York/cities/Ronkonkoma">Ronkonkoma</a></span>
+        </td>        
+        <td>20033     
+        </td>
+        <td>49.5% Male and 50.5% female
+        </td>
+        <td>40.2 years        
+        </td>
+        <td>27.9
+        </td>
+        <td>10.6 
+        </td>
+        <td> 3.37
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/New-York/cities/Commack">Commack</a></span>
+        </td>        
+        <td>35290     
+        </td>
+        <td>49.4% Male and 50.6% female
+        </td>
+        <td>43.8 years        
+        </td>
+        <td>48.8
+        </td>
+        <td>6.5 
+        </td>
+        <td> 3.32
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/New-York/cities/Albany-city">Albany city</a></span>
+        </td>        
+        <td>98261     
+        </td>
+        <td>47.6% Male and 52.4% female
+        </td>
+        <td>31.4 years        
+        </td>
+        <td>36.3
+        </td>
+        <td>8.4 
+        </td>
+        <td> 3.24
         </td>        
       <tr>       
         <td>        
@@ -1153,38 +1313,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/New-York/cities/Mount-Vernon-city">Mount Vernon city</a></span>
-        </td>        
-        <td>67899     
-        </td>
-        <td>45.4% Male and 54.6% female
-        </td>
-        <td>37.9 years        
-        </td>
-        <td>26.8
-        </td>
-        <td>14.6 
-        </td>
-        <td> 3.43
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/New-York/cities/Commack">Commack</a></span>
-        </td>        
-        <td>35290     
-        </td>
-        <td>49.4% Male and 50.6% female
-        </td>
-        <td>43.8 years        
-        </td>
-        <td>48.8
-        </td>
-        <td>6.5 
-        </td>
-        <td> 3.32
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/New-York/cities/Holtsville">Holtsville</a></span>
         </td>        
         <td>20830     
@@ -1198,38 +1326,6 @@
         <td>16 
         </td>
         <td> 3.47
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/New-York/cities/Huntington-Station">Huntington Station</a></span>
-        </td>        
-        <td>33016     
-        </td>
-        <td>50.9% Male and 49.1% female
-        </td>
-        <td>36.1 years        
-        </td>
-        <td>27.6
-        </td>
-        <td>37.1 
-        </td>
-        <td> 3.57
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/New-York/cities/Valley-Stream-village">Valley Stream village</a></span>
-        </td>        
-        <td>37618     
-        </td>
-        <td>49.7% Male and 50.3% female
-        </td>
-        <td>38 years        
-        </td>
-        <td>34.5
-        </td>
-        <td>30.6 
-        </td>
-        <td> 3.85
         </td>        
       <tr>       
         <td>        
@@ -1249,118 +1345,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/New-York/cities/Rome-city">Rome city</a></span>
-        </td>        
-        <td>33092     
-        </td>
-        <td>51.7% Male and 48.3% female
-        </td>
-        <td>40.8 years        
-        </td>
-        <td>19.1
-        </td>
-        <td>5.9 
-        </td>
-        <td> 2.97
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/New-York/cities/New-City">New City</a></span>
-        </td>        
-        <td>35258     
-        </td>
-        <td>50% Male and 50% female
-        </td>
-        <td>44.2 years        
-        </td>
-        <td>55.9
-        </td>
-        <td>7.7 
-        </td>
-        <td> 3.47
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/New-York/cities/Albany-city">Albany city</a></span>
-        </td>        
-        <td>98261     
-        </td>
-        <td>47.6% Male and 52.4% female
-        </td>
-        <td>31.4 years        
-        </td>
-        <td>36.3
-        </td>
-        <td>8.4 
-        </td>
-        <td> 3.24
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/New-York/cities/Smithtown">Smithtown</a></span>
-        </td>        
-        <td>26064     
-        </td>
-        <td>50.3% Male and 49.7% female
-        </td>
-        <td>44.7 years        
-        </td>
-        <td>44.3
-        </td>
-        <td>6.2 
-        </td>
-        <td> 3.42
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/New-York/cities/Lindenhurst-village">Lindenhurst village</a></span>
-        </td>        
-        <td>27283     
-        </td>
-        <td>48.1% Male and 51.9% female
-        </td>
-        <td>40.7 years        
-        </td>
-        <td>24.6
-        </td>
-        <td>13.4 
-        </td>
-        <td> 3.49
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/New-York/cities/Port-Chester-village">Port Chester village</a></span>
-        </td>        
-        <td>29261     
-        </td>
-        <td>52.2% Male and 47.8% female
-        </td>
-        <td>35.4 years        
-        </td>
-        <td>18.8
-        </td>
-        <td>60.6 
-        </td>
-        <td> 3.59
-        </td>        
-      <tr>       
-        <td>        
-          <span class="name"> <a href="/states/New-York/cities/Ronkonkoma">Ronkonkoma</a></span>
-        </td>        
-        <td>20033     
-        </td>
-        <td>49.5% Male and 50.5% female
-        </td>
-        <td>40.2 years        
-        </td>
-        <td>27.9
-        </td>
-        <td>10.6 
-        </td>
-        <td> 3.37
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/New-York/cities/Baldwin">Baldwin</a></span>
         </td>        
         <td>23227     
@@ -1374,6 +1358,22 @@
         <td>29.3 
         </td>
         <td> 3.37
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/New-York/cities/Huntington-Station">Huntington Station</a></span>
+        </td>        
+        <td>33016     
+        </td>
+        <td>50.9% Male and 49.1% female
+        </td>
+        <td>36.1 years        
+        </td>
+        <td>27.6
+        </td>
+        <td>37.1 
+        </td>
+        <td> 3.57
         </td>        
          </tbody>
   </table>

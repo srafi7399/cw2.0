@@ -321,19 +321,19 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Texas/metros/AustinRound-Rock">Austin-Round Rock</a></span>
+          <span class="name"> <a href="/states/Texas/metros/San-AntonioNew-Braunfels">San Antonio-New Braunfels</a></span>
         </td>        
-        <td>1833344     
+        <td>2234884     
         </td>
-        <td>50.1% Male and 49.9% female
+        <td>49.2% Male and 50.8% female
         </td>
-        <td>33.2 years        
+        <td>34.2 years        
         </td>
-        <td>40.8
+        <td>26.5
         </td>
-        <td>31.7 
+        <td>54.4 
         </td>
-        <td> 3.33
+        <td> 3.47
         </td>        
       <tr>       
         <td>        
@@ -353,22 +353,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Texas/metros/Corpus-Christi">Corpus Christi</a></span>
-        </td>        
-        <td>436731     
-        </td>
-        <td>49.3% Male and 50.7% female
-        </td>
-        <td>35.8 years        
-        </td>
-        <td>19.1
-        </td>
-        <td>58.7 
-        </td>
-        <td> 3.28
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Texas/metros/Amarillo">Amarillo</a></span>
         </td>        
         <td>256766     
@@ -382,6 +366,22 @@
         <td>26.5 
         </td>
         <td> 3.2
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Texas/metros/AustinRound-Rock">Austin-Round Rock</a></span>
+        </td>        
+        <td>1833344     
+        </td>
+        <td>50.1% Male and 49.9% female
+        </td>
+        <td>33.2 years        
+        </td>
+        <td>40.8
+        </td>
+        <td>31.7 
+        </td>
+        <td> 3.33
         </td>        
       <tr>       
         <td>        
@@ -401,19 +401,19 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Texas/metros/San-AntonioNew-Braunfels">San Antonio-New Braunfels</a></span>
+          <span class="name"> <a href="/states/Texas/metros/Corpus-Christi">Corpus Christi</a></span>
         </td>        
-        <td>2234884     
+        <td>436731     
         </td>
-        <td>49.2% Male and 50.8% female
+        <td>49.3% Male and 50.7% female
         </td>
-        <td>34.2 years        
+        <td>35.8 years        
         </td>
-        <td>26.5
+        <td>19.1
         </td>
-        <td>54.4 
+        <td>58.7 
         </td>
-        <td> 3.47
+        <td> 3.28
         </td>        
       <tr>       
         <td>        

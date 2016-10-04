@@ -193,22 +193,6 @@
         </td>        
       <tr>       
         <td>        
-          <span class="name"> <a href="/states/Idaho/cities/Boise-City-city">Boise City city</a></span>
-        </td>        
-        <td>211880     
-        </td>
-        <td>49.5% Male and 50.5% female
-        </td>
-        <td>36 years        
-        </td>
-        <td>38.9
-        </td>
-        <td>7.6 
-        </td>
-        <td> 3
-        </td>        
-      <tr>       
-        <td>        
           <span class="name"> <a href="/states/Idaho/cities/Meridian-city">Meridian city</a></span>
         </td>        
         <td>80643     
@@ -222,6 +206,22 @@
         <td>7.7 
         </td>
         <td> 3.33
+        </td>        
+      <tr>       
+        <td>        
+          <span class="name"> <a href="/states/Idaho/cities/Boise-City-city">Boise City city</a></span>
+        </td>        
+        <td>211880     
+        </td>
+        <td>49.5% Male and 50.5% female
+        </td>
+        <td>36 years        
+        </td>
+        <td>38.9
+        </td>
+        <td>7.6 
+        </td>
+        <td> 3
         </td>        
       <tr>       
         <td>        
