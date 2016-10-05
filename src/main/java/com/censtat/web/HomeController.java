@@ -10808,7 +10808,7 @@ public class HomeController {
 		model.addAttribute("fipcode", "2874840");
 		return "MississippiCityTupelocity";
 	}   
-@RequestMapping(value = "/states/New-Mexico/micros/Española", method = RequestMethod.GET)
+@RequestMapping(value = "/states/New-Mexico/micros/Espanola", method = RequestMethod.GET)
 	public String getNew_MexicoMicroEspaola(Locale locale, Model model) {
 	
 		model.addAttribute("fipcode", "21580");
