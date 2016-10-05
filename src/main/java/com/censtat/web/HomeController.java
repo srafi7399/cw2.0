@@ -12,9 +12,8 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
-
-import com.census.db.main.CensusAccess;
-import com.census.db.main.MongoApp;
+import com.censtat.db.connect.CensusAccess;
+import com.censtat.db.connect.MongoApp;
 import com.mongodb.DBCursor;
 import com.mongodb.DBObject;
 
