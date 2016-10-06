@@ -542,6 +542,7 @@ public class CenstatPageGenTool {
 		Set<Map.Entry<String, File>> set = stateToFile.entrySet();
 		for (Map.Entry<String, File> me : set) {	
 		System.out.println("The Name of the file is --->"+me.getKey());
+		System.out.println("The Name of the file is --->"+me.getValue());
 			File fileToFlush = me.getValue();
 			EntityHolderTemplate template = fileToHolder.get(fileToFlush);
 			Mustache mustache = mf.compile("templates/states.tmpl");
