@@ -11,7 +11,6 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 import java.util.StringTokenizer;
-
 import com.censtat.data.implementation.DataEntity;
 import com.censtat.data.interfaces.DataEntityTypeInterface;
 import com.censtat.db.connect.MongoApp;
@@ -541,7 +540,8 @@ public class CenstatPageGenTool {
 			return;
 		}
 		Set<Map.Entry<String, File>> set = stateToFile.entrySet();
-		for (Map.Entry<String, File> me : set) {			
+		for (Map.Entry<String, File> me : set) {	
+		System.out.println("The Name of the file is --->"+me.getKey());
 			File fileToFlush = me.getValue();
 			EntityHolderTemplate template = fileToHolder.get(fileToFlush);
 			Mustache mustache = mf.compile("templates/states.tmpl");
@@ -593,24 +593,6 @@ public class CenstatPageGenTool {
 		
 	}
 
-	/*private String getProperName(String entityName) {
-		StringTokenizer tokens = new StringTokenizer(entityName);
-		String newString = "";
-		if (tokens.countTokens() == 1) {
-			return entityName;
-
-		} else {
-			while (tokens.hasMoreElements()) {
-				newString = newString.concat(tokens.nextToken());
-				if (tokens.hasMoreElements()) {
-					newString = newString.concat("_");
-				}
-
-			}
-		}
-		return newString;
-	}*/
-	//FIXME- Google does not index pages with underscopre so making page links have hypphen
 	
 	private String getProperName(String entityName)
 	{
