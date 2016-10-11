@@ -15,18 +15,18 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 import com.censtat.db.connect.CensusAccess;
-import com.censtat.node.router.CenstatViewDataNodeProxy;
+import com.mongodb.DBObject;
 @Controller
 public class ViewDataController {
 	private CensusAccess access = new CensusAccess();	
-	private CenstatViewDataNodeProxy proxy = new CenstatViewDataNodeProxy();
+	//private CenstatViewDataNodeProxy proxy = new CenstatViewDataNodeProxy();
 	
 	@Autowired
 	private HttpServletRequest request;
 	@RequestMapping(value = "/charts", method = RequestMethod.GET, produces="application/json")
 	public @ResponseBody Object getCharts(Locale locale, Model model) throws ClientProtocolException, IOException {	
-		Object object = proxy.getChartData(request.getHeader("resource"));
-		//DBObject object = access.getChartsForFip(request.getHeader("resource"));			
+		//Object object = proxy.getChartData(request.getHeader("resource"));
+		 DBObject object = access.getChartsForFip(request.getHeader("resource"));			
 		return object;
 	}
 

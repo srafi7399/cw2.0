@@ -83,6 +83,12 @@ public class HomeController {
 
 	}
 	
+	@RequestMapping(value = "/states", method = RequestMethod.GET)
+	public String getstates(Locale locale, Model model) {
+	
+		model.addAttribute("fipcode", "");
+		return "states";
+	}   
 	
 	
 	@RequestMapping(value = "/contactus", method = RequestMethod.GET)
