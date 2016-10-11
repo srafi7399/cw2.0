@@ -143,7 +143,22 @@ public class CenstatPageGenTool {
 		HashMap<DataEntity,String> citiesToAdd = new HashMap<DataEntity,String>();
 		HashMap<DataEntity,String> countiesToAdd = new HashMap<DataEntity,String>();
 		
+		String targetDir = System.getProperty("user.dir")
+				+File.separator+"src"
+				+File.separator+"main"
+				+File.separator+"webapp"
+				+File.separator+"WEB-INF"
+				+File.separator+"views"
+				+File.separator+"tiles"
+				+File.separator+"states";
 		
+		String tilesDir = System.getProperty("user.dir")
+				+File.separator+"src"
+				+File.separator+"main"
+				+File.separator+"webapp"
+				+File.separator+"WEB-INF"
+				+File.separator+"views"
+				+File.separator+"tiles";
 		
 		FileWriter writer = null;
 		File fileToFlush = null;
@@ -167,16 +182,19 @@ public class CenstatPageGenTool {
 			template.addLink("states", "/states");
 			
 			stateLink = "/states/" + this.getLinkName(entity.getState());
-			File stateDir = new File("\\states");
+			File stateDir = new File(targetDir);			
 			if (!stateDir.exists()) {
 				stateDir.mkdir();
 				// Put a states.jsp file here so it can link to all the states.
-				File statesHolder = new File("states.jsp");
+				File statesHolder = new File(tilesDir+File.separator+"states.jsp");
 				stateFileToFlush = statesHolder;
 
 				stateTemplate.addLink("Home", "/");
 				stateTemplate.setActive("states");
 				try {
+					if(statesHolder.exists()) {
+						statesHolder.delete();
+					}
 					statesHolder.createNewFile();
 					// stateFileToFlush=statesHolder;
 					mvcCodeTemplate.addLink("/states", "states",null,null);
@@ -267,7 +285,8 @@ public class CenstatPageGenTool {
 					try {
 						stateFile.createNewFile();
 						MustacheFactory statPageGen = new DefaultMustacheFactory();
-						Mustache mustache = statPageGen.compile("templates/statepage.tmpl");
+						//Mustache mustache = statPageGen.compile("templates/statepage.tmpl");
+						Mustache mustache = statPageGen.compile("templates"+File.separator+"statepage.tmpl");
 						ModuleSectionsStartVisitor startSection = new ModuleSectionsStartVisitor();						
 						FileWriter stateWriter = new FileWriter(stateFile);
 						startSection.visit(entity, stateWriter);
@@ -289,8 +308,9 @@ public class CenstatPageGenTool {
 			else if (entity.getDataEntityType().equals(
 					DataEntityTypeInterface.CITY_TYPE)) {
 			//	System.out.println(" Processing City Entity "+entity.getName());
-				File cityDir = new File("\\states\\"
-						+ this.getLinkName(entity.getState()) + "\\cities\\");
+				File cityDir = new File(targetDir
+									+ File.separator + this.getLinkName(entity.getState())
+									+ File.separator+ "cities");
 				if (!cityDir.exists()) {
 					cityDir.mkdirs();
 				}
@@ -331,9 +351,9 @@ public class CenstatPageGenTool {
 				template.addLink("Counties", stateLink + "/" + "counties-"+this.getLinkName(entity.getState()));
 				template.setActive(entity.getName());
 
-				File countyDir = new File("\\states\\"
-						+ this.getLinkName(entity.getState())
-						+ "\\counties\\");
+				File countyDir = new File(targetDir
+						+ File.separator + this.getLinkName(entity.getState())
+						+ File.separator + "counties");
 				if (!countyDir.exists()) {
 					countyDir.mkdirs();
 				}
@@ -345,10 +365,7 @@ public class CenstatPageGenTool {
 					try {
 						countyFile.createNewFile();
 						fileToFlush=countyFile;
-					} catch (IOException e) {
-						System.out.println("the path is -->"+countyDir.getPath());
-						System.out.println("the Entity -->"+entity.getName());
-							
+					} catch (IOException e) {						
 						e.printStackTrace();
 					}
 				}
@@ -373,9 +390,9 @@ public class CenstatPageGenTool {
 				template.addLink("Metros", stateLink + "/" + "metros-"+this.getLinkName(entity.getState()));
 				template.setActive(entity.getName());
 				
-				File metroDir = new File("\\states\\"
-						+ this.getLinkName(entity.getState())
-						+ "\\metros\\");
+				File metroDir = new File(targetDir 
+						+ File.separator + this.getLinkName(entity.getState())
+						+ File.separator + "metros");
 				if (!metroDir.exists()) {
 					metroDir.mkdirs();
 				}
@@ -387,9 +404,7 @@ public class CenstatPageGenTool {
 					try {
 						metroFile.createNewFile();
 						fileToFlush=metroFile;
-					} catch (IOException e) {
-						System.out.println("the path is -->"+metroDir.getPath());
-						System.out.println("the Entity -->"+entity.getName());
+					} catch (IOException e) {						
 						e.printStackTrace();
 					}
 				}
@@ -417,9 +432,9 @@ public class CenstatPageGenTool {
 				template.addLink("Micros", stateLink + "/" + "micros-"+this.getLinkName(entity.getState()));
 				template.setActive(entity.getName());
 				
-				File microDir = new File("\\states\\"
-						+ this.getLinkName(entity.getState())
-						+ "\\micros\\");
+				File microDir = new File(targetDir
+						+ File.separator + this.getLinkName(entity.getState())
+						+ File.separator + "micros");
 				if (!microDir.exists()) {
 					microDir.mkdirs();
 				}
@@ -457,7 +472,8 @@ public class CenstatPageGenTool {
 				//System.out.println("Flushing file "+fileToFlush.getName());
 				ModuleSectionsStartVisitor startSection = new ModuleSectionsStartVisitor();
 				MustacheFactory mf = new DefaultMustacheFactory();
-				Mustache mustache = mf.compile("templates/breadcrumb.tmpl");
+			//	Mustache mustache = mf.compile("templates/breadcrumb.tmpl");
+				Mustache mustache = mf.compile("templates"+File.separator+"breadcrumb.tmpl");
 				try {
 					if(fileToFlush!=null)
 					{
@@ -540,12 +556,11 @@ public class CenstatPageGenTool {
 			return;
 		}
 		Set<Map.Entry<String, File>> set = stateToFile.entrySet();
-		for (Map.Entry<String, File> me : set) {	
-		System.out.println("The Name of the file is --->"+me.getKey());
-		System.out.println("The Name of the file is --->"+me.getValue());
+		for (Map.Entry<String, File> me : set) {		
 			File fileToFlush = me.getValue();
 			EntityHolderTemplate template = fileToHolder.get(fileToFlush);
-			Mustache mustache = mf.compile("templates/states.tmpl");
+			//Mustache mustache = mf.compile("templates/states.tmpl");
+			Mustache mustache = mf.compile("templates"+File.separator+"states.tmpl");
 			try {
 				fileToFlush.createNewFile();
 				FileWriter stateWriter = new FileWriter(fileToFlush);
@@ -578,8 +593,10 @@ public class CenstatPageGenTool {
 	{
 		
 		MustacheFactory mf = new DefaultMustacheFactory();
-		Mustache mustache = mf.compile("templates/mvccontrollercode.tmpl");
-		Mustache mustache2 = mf.compile("templates/tiletemplate.tmpl");
+		Mustache mustache = mf.compile("templates"+File.separator+"mvccontrollercode.tmpl");
+		//Mustache mustache = mf.compile("templates/mvccontrollercode.tmpl");
+		Mustache mustache2 = mf.compile("templates"+File.separator+"tiletemplate.tmpl");
+		//Mustache mustache2 = mf.compile("templates/tiletemplate.tmpl");
 		try {
 			FileWriter tileWriter = new FileWriter("tiles.xml");
 			FileWriter controller = new FileWriter("HomeController.java");			
