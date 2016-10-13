@@ -359,13 +359,13 @@ public class DataParserJSONObjectFactory {
 	}
 	
 	public void createDBCollection() {
-		try {
+		/*try {
 			app.createConnection();
 		} catch (UnknownHostException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
-		}
-		if (MongoApp.db.collectionExists("DataEntity")) {
+		}*/
+		if (MongoApp.db.getCollection("DataEntity").count()>1) {
 			DBCollection collection = MongoApp.db.getCollection("DataEntity");
 			collection.drop();
 			System.out.println("Sucessfully dropped the view collection");
