@@ -30,8 +30,14 @@ public class AgeSexModuleVisitor implements ModuleVisitorInterface {
 	public FileWriter visit(DataEntity entity, FileWriter writer) {
 		template.setKeyMap(entity.getItentifierKeys());
 		MustacheFactory mf = new DefaultMustacheFactory();
-		Mustache mustache = mf.compile("templates/sexandage.tmpl");
-		mustache.execute(writer, template);		
+		Mustache mustache = null;
+		if(CenBuildContext.getInstance().getCurrentBuildContext().equals(CenBuildContext.STAGE)){
+			mustache = mf.compile("templates/sexandage_stage.tmpl");
+		}
+		else{
+		    mustache = mf.compile("templates/sexandage.tmpl");
+		}
+	 	mustache.execute(writer, template);		
 		buildandStoreGUICharts(entity);
 		return writer;
 	}

@@ -559,8 +559,15 @@ public class CenstatPageGenTool {
 		for (Map.Entry<String, File> me : set) {		
 			File fileToFlush = me.getValue();
 			EntityHolderTemplate template = fileToHolder.get(fileToFlush);
-			//Mustache mustache = mf.compile("templates/states.tmpl");
-			Mustache mustache = mf.compile("templates"+File.separator+"states.tmpl");
+			// Mustache mustache = mf.compile("templates/states.tmpl");
+			Mustache mustache = null;
+			if (CenBuildContext.getInstance().getCurrentBuildContext().equals(CenBuildContext.STAGE)) {
+				mustache = mf.compile("templates" + File.separator + "states_stage.tmpl");
+			} else if (CenBuildContext.getInstance().getCurrentBuildContext().equals(CenBuildContext.PROD)) {
+				mustache = mf.compile("templates" + File.separator + "states.tmpl");
+			} else if (CenBuildContext.getInstance().getCurrentBuildContext().equals(CenBuildContext.TEST)) {
+				mustache = mf.compile("templates" + File.separator + "states.tmpl");
+			}
 			try {
 				fileToFlush.createNewFile();
 				FileWriter stateWriter = new FileWriter(fileToFlush);
@@ -575,7 +582,14 @@ public class CenstatPageGenTool {
 	private void generateStatesHolderFile(EntityHolderTemplate statetemplate, File fileToWrite)
 	{
 		MustacheFactory mf = new DefaultMustacheFactory();
-		Mustache mustache = mf.compile("states.html");
+		Mustache mustache = null;
+		if (CenBuildContext.getInstance().getCurrentBuildContext().equals(CenBuildContext.STAGE)) {
+			mustache = mf.compile("templates" + File.separator + "states_stage.tmpl");
+		} else if (CenBuildContext.getInstance().getCurrentBuildContext().equals(CenBuildContext.PROD)) {
+			mustache = mf.compile("templates" + File.separator + "states.tmpl");
+		} else if (CenBuildContext.getInstance().getCurrentBuildContext().equals(CenBuildContext.TEST)) {
+			mustache = mf.compile("templates" + File.separator + "states.tmpl");
+		}
 		try {
 			FileWriter stateWriter = new FileWriter(fileToWrite);
 			mustache.execute(stateWriter, statetemplate).flush();
@@ -864,12 +878,29 @@ public class CenstatPageGenTool {
 		}
 		
 	}
-
+	/**
+	 * The Main Method to Run the Program
+	 * @param args
+	 */
 	public static void main(String[] args) {
+		boolean shouldExit = true;
+		if (args[0].equals(CenBuildContext.PROD)) {
+			shouldExit=false;
+			CenBuildContext.getInstance().setBuildContext(CenBuildContext.PROD);
+		} else if (args[0].equals(CenBuildContext.STAGE)) {
+			shouldExit=false;
+			CenBuildContext.getInstance().setBuildContext(CenBuildContext.STAGE);
+		} else if (args[0].equals(CenBuildContext.TEST)) {
+			shouldExit=false;
+			CenBuildContext.getInstance().setBuildContext(CenBuildContext.TEST);
+		}
+		if(shouldExit){
+			System.exit(0);
+		}
+		System.out.println("Current Build Context---->"+CenBuildContext.getInstance().getCurrentBuildContext());
 		CenstatPageGenTool tool = CenstatPageGenTool.getInstance();
 		tool.buildPages();
-		DataEntityViewFactory.getInstance().storeViewData();	
-
+		DataEntityViewFactory.getInstance().storeViewData();
 	}
 
 }
