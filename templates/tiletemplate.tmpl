@@ -56,6 +56,12 @@
 		<put-attribute name="current" value="aboutus" cascade="true" />
 	</definition>
 
+	<definition name="privacy" extends="homep">
+		<put-attribute name="title" value="Privacy Policy of Censtat.com" />
+		<put-attribute name="privacy" value="/WEB-INF/views/tiles/privacy.jsp" />	
+		<put-attribute name="current" value="privacy" cascade="true" />	
+	</definition>
+
 <definition name="states" extends="homep">		
 		<put-attribute name="homecontent" value="/WEB-INF/views/tiles/states.jsp" />
 		<put-attribute name="current" value="states" cascade="true" />		
