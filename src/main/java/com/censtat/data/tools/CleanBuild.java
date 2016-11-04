@@ -25,6 +25,20 @@ public class CleanBuild {
 				+File.separator+"WEB-INF"
 				+File.separator+"views"
 				+File.separator+"tiles";
+
+			String tilesXmlFile = System.getProperty("user.dir")
+				+File.separator+"src"
+				+File.separator+"main"
+				+File.separator+"webapp"
+				+File.separator+"WEB-INF"
+				+File.separator+"spring"
+				+File.separator+"tiles.xml";
+			File tilesFile = new File(tilesXmlFile);
+			if(tilesFile.exists()) {
+				if(tilesFile.delete()) {
+					System.out.println("Sucessfully Deleted the Tiles files ");
+				}
+			}
 		
 		String states = tilesDir +File.separator+"states.jsp";
 				

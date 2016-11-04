@@ -632,10 +632,17 @@ public class CenstatPageGenTool {
 	}
 
 	private void generateTilesCode(MVCControllerCodeTemplate template) {
+		String tilesDir = System.getProperty("user.dir")
+				+File.separator+"src"
+				+File.separator+"main"
+				+File.separator+"webapp"
+				+File.separator+"WEB-INF"
+				+File.separator+"spring";
+				
 			MustacheFactory mf = new DefaultMustacheFactory();
 			Mustache mustache2 = mf.compile("templates"+File.separator+"tiletemplate.tmpl");
 			try {
-			FileWriter tileWriter = new FileWriter("tiles.xml");			
+			FileWriter tileWriter = new FileWriter(tilesDir+"tiles.xml");			
 			
 			//Now Add the Module Stuff
 			String[] sourceFiles = { "AgeSexController.java", "AncestryController.java", "CitizenshipController.java",
