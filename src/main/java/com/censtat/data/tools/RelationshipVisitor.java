@@ -1,8 +1,10 @@
 package com.censtat.data.tools;
 
+import java.io.File;
 import java.io.FileWriter;
 
 import com.censtat.data.implementation.DataEntity;
+import com.censtat.data.interfaces.DataEntityTypeInterface;
 import com.censtat.ui.charts.BasicPieChartBuilder;
 import com.censtat.ui.charts.CenPieChart;
 import com.censtat.ui.charts.DataEntityViewData;
@@ -32,7 +34,28 @@ public class RelationshipVisitor  implements ModuleVisitorInterface {
 		Mustache mustache = mf.compile("templates/relationship.tmpl");
 		mustache.execute(writer, template);		
 		buildandStoreGUICharts(entity);
+		createRelationshipPage(entity);
 		return writer;
+	}
+	
+	
+	private void createRelationshipPage(DataEntity entity) {
+		System.out.println("*********** Creating The Race Module Page  ******************");
+		String toCreate = "/states/"+ CenModulePageCreator.getInstance().getLinkName(entity.getState());
+		if (entity.getDataEntityType().equals(DataEntityTypeInterface.CITY_TYPE)) {
+			toCreate = toCreate +  "/cities";
+		} else if (entity.getDataEntityType().equals(DataEntityTypeInterface.COUNTY_TYPE)) {
+			toCreate = toCreate + "/counties";
+		} else if (entity.getDataEntityType().equals(DataEntityTypeInterface.METRO_TYPE)) {
+			toCreate = toCreate  + "/metros";
+		} else if (entity.getDataEntityType().equals(DataEntityTypeInterface.MICRO_TYPE)) {
+			toCreate = toCreate +  "/micros";
+		} else if(entity.getDataEntityType().equals(DataEntityTypeInterface.STATE_TYPE)) {
+			CenModulePageCreator.getInstance().addModuleInfo(CenModulePageCreator.MODULE_RELATIONSHIP, toCreate, entity);
+			return;
+		}
+		toCreate = toCreate + "/"+ CenModulePageCreator.getInstance().getLinkName(entity.getName());
+		CenModulePageCreator.getInstance().addModuleInfo(CenModulePageCreator.MODULE_RELATIONSHIP, toCreate, entity);
 	}
 	
 	

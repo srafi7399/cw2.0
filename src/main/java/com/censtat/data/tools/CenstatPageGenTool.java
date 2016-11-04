@@ -11,6 +11,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 import java.util.StringTokenizer;
+
 import com.censtat.data.implementation.DataEntity;
 import com.censtat.data.interfaces.DataEntityTypeInterface;
 import com.censtat.db.connect.MongoApp;
@@ -151,7 +152,7 @@ public class CenstatPageGenTool {
 				+File.separator+"views"
 				+File.separator+"tiles"
 				+File.separator+"states";
-		
+		CenPageCreationContext.getInstance().setCurrentWorkingDirectory(targetDir);		
 		String tilesDir = System.getProperty("user.dir")
 				+File.separator+"src"
 				+File.separator+"main"
@@ -191,6 +192,7 @@ public class CenstatPageGenTool {
 
 				stateTemplate.addLink("Home", "/");
 				stateTemplate.setActive("states");
+				/*FIX ME --- CODE Needs to be REFACTORED */
 				try {
 					if(statesHolder.exists()) {
 						statesHolder.delete();
@@ -535,14 +537,15 @@ public class CenstatPageGenTool {
 						.get(entity.getState()));
 				entTmpl.addEntity(entity, link);
 			}
-		}
-		
+		}		
 		generateMVCControllerCode(mvcCodeTemplate);
 		generateStatesHolderFile(stateTemplate,stateFileToFlush);	
 		generateHolderFilesForStates(forMetroFile,forMetros);
 		generateHolderFilesForStates(forMicroFile,forMicros);
 		generateHolderFilesForStates(forCitiesFile,forCities);
-		generateHolderFilesForStates(forCountiesFile,forCounties);			
+		generateHolderFilesForStates(forCountiesFile,forCounties);	
+		CenModulePageCreator.getInstance().createModulePages();
+		generateTilesCode(mvcCodeTemplate);
 
 	}
 	
@@ -603,20 +606,23 @@ public class CenstatPageGenTool {
 	}
 	
 	
+	
+	
+	
+	
 	private void generateMVCControllerCode(MVCControllerCodeTemplate template)
 	{
-		
+				
 		MustacheFactory mf = new DefaultMustacheFactory();
 		Mustache mustache = mf.compile("templates"+File.separator+"mvccontrollercode.tmpl");
 		//Mustache mustache = mf.compile("templates/mvccontrollercode.tmpl");
-		Mustache mustache2 = mf.compile("templates"+File.separator+"tiletemplate.tmpl");
+		
 		//Mustache mustache2 = mf.compile("templates/tiletemplate.tmpl");
 		try {
-			FileWriter tileWriter = new FileWriter("tiles.xml");
+		
 			FileWriter controller = new FileWriter("HomeController.java");			
 			mustache.execute(controller, template).flush();
-			mustache2.execute(tileWriter, template).flush();
-			tileWriter.close();
+			//Now Add the Module Stuff		
 			controller.close();
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
@@ -625,8 +631,41 @@ public class CenstatPageGenTool {
 		
 	}
 
+	private void generateTilesCode(MVCControllerCodeTemplate template) {
+			MustacheFactory mf = new DefaultMustacheFactory();
+			Mustache mustache2 = mf.compile("templates"+File.separator+"tiletemplate.tmpl");
+			try {
+			FileWriter tileWriter = new FileWriter("tiles.xml");			
+			
+			//Now Add the Module Stuff
+			String[] sourceFiles = { "AgeSexController.java", "AncestryController.java", "CitizenshipController.java",
+					"ComputerUsageController.java", "EducationalAttainmentController.java", "FertilityController.java",
+					"GrandParentsController.java", "HispanicOrLatinoController.java", "HouseHoldsByTypeController.java",
+					"LanguagesSpokenController.java", "MaritialStatusController.java", "PlaceOfBirthController.java",
+					"RaceController.java", "RelationShipsController.java", "SchoolEnrollmentController.java",
+					"VeteranStatusController.java" };
+
+			for (int i = 0; i < sourceFiles.length; i++) {
+				ModuleControllerCodeTemplate conTemp =	CenModulePageCreator.getInstance().getControllerForJavaFile(sourceFiles[i]);
+				System.out.println("Received the Following Controller --->"+conTemp.getControllerName());				
+				ArrayList<link> links = conTemp.links();
+				Iterator<link> iter = links.iterator();
+				while(iter.hasNext()) {
+					link l = iter.next();
+					template.addLink(l.linkName, l.linkValue, l.fipCode, l.entityName);					
+				}
+			}
+			mustache2.execute(tileWriter, template).flush();
+			tileWriter.close();		
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+	}
+
 	
-	private String getProperName(String entityName)
+	public String getProperName(String entityName)
 	{
 	if(entityName.contains("-"))
 		{
@@ -847,7 +886,7 @@ public class CenstatPageGenTool {
 	class MVCControllerCodeTemplate {		
 		ArrayList<link> links = new ArrayList<link>();
 		String fipCode = null;	
-		public List<link> links() {
+		public ArrayList<link> links() {
 			return links;
 		}
 		
@@ -861,6 +900,9 @@ public class CenstatPageGenTool {
 			
 		}
 		
+	}
+
+
 		class link {
 			String linkName = null;
 			String linkValue = null;
@@ -876,8 +918,27 @@ public class CenstatPageGenTool {
 			
 
 		}
+	
+	class ModuleControllerCodeTemplate extends MVCControllerCodeTemplate {
+		String controllerName = null;
 		
+		public ModuleControllerCodeTemplate(String controllerName) {
+			this.controllerName=controllerName;
+		}
+
+		public void setControllerName(String controllerName) {
+			this.controllerName = controllerName;
+		}
+
+		public String getControllerName() {
+			return this.controllerName;
+		}
+
+		
+
 	}
+	
+	
 	/**
 	 * The Main Method to Run the Program
 	 * @param args
