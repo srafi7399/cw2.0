@@ -95,37 +95,37 @@ public class CenModulePageCreator {
 	
 	private String getPageName(String type) {
 		if (type.equals(MODULE_AGE_SEX_TYPE)) {
-			return "age-sex.jsp";
+			return "Age-Sex.jsp";
 		} else if (type.equals(MODULE_RACE_TYPE)) {
-			return "race.jsp";
+			return "Race.jsp";
 		} else if (type.equals(MODULE_ANCESTRY)) {
-			return "ancestry.jsp";
+			return "Ancestry.jsp";
 		} else if (type.equals(MODULE_COMPUTER_USAGE)) {
-			return "computer-usage.jsp";
+			return "Computer-Usage.jsp";
 		} else if (type.equals(MODULE_EDUCATIONALATTAINMENT)) {
-			return "educational-attainment.jsp";
+			return "Educational-Attainment.jsp";
 		} else if (type.equals(MODULE_FERTILITY)) {
-			return "fertility.jsp";
+			return "Fertility.jsp";
 		} else if (type.equals(MODULE_GRANDPARENTS)) {
-			return "grand-parents.jsp";
+			return "Grand-Parents.jsp";
 		} else if (type.equals(MODULE_HISPANIC_LATINO)) {
-			return "hispanic-latino.jsp";
+			return "Hispanic-Latino.jsp";
 		} else if (type.equals(MODULE_HOUSEHOLDS_BY_TYPE)) {
-			return "households-bytpye.jsp";
+			return "HouseHolds-ByType.jsp";
 		}else if(type.equals(MODULE_LANGUAGES_SPOKEN)){
-			return "languages-spoken.jsp";
+			return "Languages-Spoken.jsp";
 		}else if(type.equals(MODULE_MARITIAL_STATUS)){
-			return "maritial-status.jsp";
+			return "Maritial-Status.jsp";
 		}else if(type.equals(MODULE_PLACEOFBIRTH)){
-			return "placeof-birth.jsp";
+			return "Place-Of-Birth.jsp";
 		}else if(type.equals(MODULE_RELATIONSHIP)){
-			return "relationship.jsp";
+			return "Relationships.jsp";
 		}else if(type.equals(MODULE_SCHOOLENROLLMENT)){
-			return "school-enrollment.jsp";
+			return "School-Enrollment.jsp";
 		}else if(type.equals(MODULE_USCITIZENSHIP)){
-			return "us-citizenship.jsp";
+			return "US-Citizenship.jsp";
 		}else if(type.equals(MODULE_VETERAN_STATUS)){
-			return "veterans.jsp";
+			return "Veteran-Status.jsp";
 		}
 		return null;
 	}
@@ -220,7 +220,6 @@ public class CenModulePageCreator {
 		if(entity.getDataEntityType().equals(DataEntityTypeInterface.STATE_TYPE)) {
 			System.out.println("This should not Happen"+entity.getName());
 			String linkValue = CenstatPageGenTool.getInstance().getProperName(SpecialCharTool.cleanAndReturn(this.getLinkName(entity.getName())));
-			System.out.println("Returning the Link Value--->>>>> "+linkValue);
 			return linkValue;
 		}
 		return CenstatPageGenTool.getInstance().getProperName(entity.getState()) + entity.getDataEntityType()
