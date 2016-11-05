@@ -25,40 +25,40 @@
 						<div>
 							<ul class="nav navbar-nav">
 								<li class=""><a href="http://censtat.com/">Home</a></li>	
-								<li class=""><a href="http://censtat.com/states">States Data</a></li>	
+								<li class=""><a href="${requestScope['javax.servlet.forward.request_uri']}/states">States Data</a></li>	
 							
 								 <li class="dropdown">
                 <a href="http://censtat.com/states/Arkansas#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Metros Data <span class="caret"></span></a>
                 <ul class="dropdown-menu">                 
                   										
 					
-				<li><a href="/states/Alabama/metros-Alabama">Alabama</a></li>
-					<li><a href="/states/Alaska/metros-Alaska">Alaska</a></li>
-					<li><a href="/states/Arizona/metros-Arizona">Arizona</a></li>
-					<li><a href="/states/Arkansas/metros-Arkansas">Arkansas</a></li>
-					<li><a href="/states/California/metros-California">California</a></li>
-					<li><a href="/states/Colorado/metros-Colorado">Colorado</a></li>
-					<li><a href="/states/Connecticut/metros-Connecticut">Connecticut</a></li>
-					<li><a href="/states/Delaware/metros-Delaware">Delaware</a></li>
-					<li><a href="/states/District-of-Columbia/metros-District-of-Columbia">District of Columbia</a></li>
-					<li><a href="/states/Florida/metros-Florida">Florida</a></li>
-					<li><a href="/states/Georgia/metros-Georgia">Georgia</a></li>
-					<li><a href="/states/Hawaii/metros-Hawaii">Hawaii</a></li>
-					<li><a href="/states/Idaho/metros-Idaho">Idaho</a></li>
-					<li><a href="/states/Illinois/metros-Illinois">Illinois</a></li>
-					<li><a href="/states/Indiana/metros-Indiana">Indiana</a></li>
-					<li><a href="/states/Iowa/metros-Iowa">Iowa</a></li>
-					<li><a href="/states/Kansas/metros-Kansas">Kansas</a></li>
-					<li><a href="/states/Kentucky/metros-Kentucky">Kentucky</a></li>
-					<li><a href="/states/Louisiana/metros-Louisiana">Louisiana</a></li>
-					<li><a href="/states/Maine/metros-Maine">Maine</a></li>
-					<li><a href="/states/Maryland/metros-Maryland">Maryland</a></li>
-					<li><a href="/states/Massachusetts/metros-Massachusetts">Massachusetts</a></li>
-					<li><a href="/states/Michigan/metros-Michigan">Michigan</a></li>
-					<li><a href="/states/Minnesota/metros-Minnesota">Minnesota</a></li>
-					<li><a href="/states/Mississippi/metros-Mississippi">Mississippi</a></li>
-					<li><a href="/states/Missouri/metros-Missouri">Missouri</a></li>
-					<li><a href="/states/Montana/metros-Montana">Montana</a></li>
+				<li><a href="${requestScope['javax.servlet.forward.request_uri']}/states/Alabama/metros-Alabama">Alabama</a></li>
+					<li><a href="${requestScope['javax.servlet.forward.request_uri']}/states/Alaska/metros-Alaska">Alaska</a></li>
+					<li><a href="${requestScope['javax.servlet.forward.request_uri']}/states/Arizona/metros-Arizona">Arizona</a></li>
+					<li><a href="${requestScope['javax.servlet.forward.request_uri']}/states/Arkansas/metros-Arkansas">Arkansas</a></li>
+					<li><a href="${requestScope['javax.servlet.forward.request_uri']}/states/California/metros-California">California</a></li>
+					<li><a href="${requestScope['javax.servlet.forward.request_uri']}/states/Colorado/metros-Colorado">Colorado</a></li>
+					<li><a href="${requestScope['javax.servlet.forward.request_uri']}/states/Connecticut/metros-Connecticut">Connecticut</a></li>
+					<li><a href="${requestScope['javax.servlet.forward.request_uri']}/states/Delaware/metros-Delaware">Delaware</a></li>
+					<li><a href="${requestScope['javax.servlet.forward.request_uri']}/states/District-of-Columbia/metros-District-of-Columbia">District of Columbia</a></li>
+					<li><a href="${requestScope['javax.servlet.forward.request_uri']}/states/Florida/metros-Florida">Florida</a></li>
+					<li><a href="${requestScope['javax.servlet.forward.request_uri']}/states/Georgia/metros-Georgia">Georgia</a></li>
+					<li><a href="${requestScope['javax.servlet.forward.request_uri']}/states/Hawaii/metros-Hawaii">Hawaii</a></li>
+					<li><a href="${requestScope['javax.servlet.forward.request_uri']}/states/Idaho/metros-Idaho">Idaho</a></li>
+					<li><a href="${requestScope['javax.servlet.forward.request_uri']}/states/Illinois/metros-Illinois">Illinois</a></li>
+					<li><a href="${requestScope['javax.servlet.forward.request_uri']}/states/Indiana/metros-Indiana">Indiana</a></li>
+					<li><a href="${requestScope['javax.servlet.forward.request_uri']}/states/Iowa/metros-Iowa">Iowa</a></li>
+					<li><a href="${requestScope['javax.servlet.forward.request_uri']}/states/Kansas/metros-Kansas">Kansas</a></li>
+					<li><a href="${requestScope['javax.servlet.forward.request_uri']}/states/Kentucky/metros-Kentucky">Kentucky</a></li>
+					<li><a href="${requestScope['javax.servlet.forward.request_uri']}/states/Louisiana/metros-Louisiana">Louisiana</a></li>
+					<li><a href="${requestScope['javax.servlet.forward.request_uri']}/states/Maine/metros-Maine">Maine</a></li>
+					<li><a href="${requestScope['javax.servlet.forward.request_uri']}/states/Maryland/metros-Maryland">Maryland</a></li>
+					<li><a href="${requestScope['javax.servlet.forward.request_uri']}/states/Massachusetts/metros-Massachusetts">Massachusetts</a></li>
+					<li><a href="${requestScope['javax.servlet.forward.request_uri']}/states/Michigan/metros-Michigan">Michigan</a></li>
+					<li><a href="${requestScope['javax.servlet.forward.request_uri']}/states/Minnesota/metros-Minnesota">Minnesota</a></li>
+					<li><a href="${requestScope['javax.servlet.forward.request_uri']}/states/Mississippi/metros-Mississippi">Mississippi</a></li>
+					<li><a href="${requestScope['javax.servlet.forward.request_uri']}/states/Missouri/metros-Missouri">Missouri</a></li>
+					<li><a href="${requestScope['javax.servlet.forward.request_uri']}/states/Montana/metros-Montana">Montana</a></li>
 					<li><a href="/states/Nebraska/metros-Nebraska">Nebraska</a></li>
 					<li><a href="/states/Nevada/metros-Nevada">Nevada</a></li>
 					<li><a href="/states/New-Hampshire/metros-New-Hampshire">New Hampshire</a></li>
