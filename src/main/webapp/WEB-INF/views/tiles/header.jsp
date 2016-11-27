@@ -14,6 +14,9 @@
         </a>
 
         <!-- Header Navbar -->
+        <script type="text/javascript">
+		var CONTEXT_ROOT = '<%= request.getContextPath() %>';
+		</script>
         <nav class="navbar navbar-static-top" role="navigation">
         
          <a href="#" class="sidebar-toggle" data-toggle="offcanvas" role="button">
@@ -24,7 +27,7 @@
 		
 						<div>
 							<ul class="nav navbar-nav">
-								<li class=""><a href="http://censtat.com/">Home</a></li>	
+								<li class=""><a href=${CONTEXT_ROOT}>Home</a></li>	
 								<li class=""><a href="${requestScope['javax.servlet.forward.request_uri']}states">States Data</a></li>	
 							
 								 <li class="dropdown">
