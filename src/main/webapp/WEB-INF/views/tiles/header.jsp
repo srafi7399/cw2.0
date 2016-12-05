@@ -14,8 +14,8 @@
         </a>
 
         <!-- Header Navbar -->
-        <c:set var="root" value="${pageroot.request.rootPath}"> 
-        <c:set var = "root"  value = "${root}/censite">
+        <c:set var="context" value="${pageroot.request.rootPath}"> 
+        <c:set var = "root"  value = "${context}/censite">
         <nav class="navbar navbar-static-top" role="navigation">
         
          <a href="#" class="sidebar-toggle" data-toggle="offcanvas" role="button">
