@@ -14,8 +14,8 @@
         </a>
 
         <!-- Header Navbar -->
-        <script type="text/javascript">
-		var CONTEXT_ROOT = '<%= request.getContextPath() %>';
+        <script type="text/javascript">		
+		<c:set var="context" value="${pageContext.request.contextPath}" />
 		</script>
         <nav class="navbar navbar-static-top" role="navigation">
         
@@ -27,19 +27,19 @@
 		
 						<div>
 							<ul class="nav navbar-nav">
-								<li class=""><a href=${CONTEXT_ROOT}>Home</a></li>	
-								<li class=""><a href="${requestScope['javax.servlet.forward.request_uri']}states">States Data</a></li>	
+								<li class=""><a href=${context}>Home</a></li>	
+								<li class=""><a href="${context}/states">States Data</a></li>	
 							
 								 <li class="dropdown">
                 <a href="http://censtat.com/states/Arkansas#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Metros Data <span class="caret"></span></a>
                 <ul class="dropdown-menu">                 
                   										
 					
-				<li><a href="${requestScope['javax.servlet.forward.request_uri']}states/Alabama/metros-Alabama">Alabama</a></li>
-					<li><a href="${requestScope['javax.servlet.forward.request_uri']}states/Alaska/metros-Alaska">Alaska</a></li>
-					<li><a href="${requestScope['javax.servlet.forward.request_uri']}states/Arizona/metros-Arizona">Arizona</a></li>
-					<li><a href="${requestScope['javax.servlet.forward.request_uri']}states/Arkansas/metros-Arkansas">Arkansas</a></li>
-					<li><a href="${requestScope['javax.servlet.forward.request_uri']}states/California/metros-California">California</a></li>
+				<li><a href="${context}/states/Alabama/metros-Alabama">Alabama</a></li>
+					<li><a href="${context}/states/Alaska/metros-Alaska">Alaska</a></li>
+					<li><a href="${context}/states/Arizona/metros-Arizona">Arizona</a></li>
+					<li><a href="${context}/states/Arkansas/metros-Arkansas">Arkansas</a></li>
+					<li><a href="${context}/states/California/metros-California">California</a></li>
 					<li><a href="${requestScope['javax.servlet.forward.request_uri']}states/Colorado/metros-Colorado">Colorado</a></li>
 					<li><a href="${requestScope['javax.servlet.forward.request_uri']}states/Connecticut/metros-Connecticut">Connecticut</a></li>
 					<li><a href="${requestScope['javax.servlet.forward.request_uri']}states/Delaware/metros-Delaware">Delaware</a></li>
