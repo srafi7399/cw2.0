@@ -14,7 +14,7 @@
         </a>
 
         <!-- Header Navbar -->
-        <c:set var="context" value="${pageroot.request.rootPath}"> 
+        <c:set var="context" value="${pageContext.request.contextPath}"> 
         <c:set var = "root"  value = "${context}/censite">
         <nav class="navbar navbar-static-top" role="navigation">
         
