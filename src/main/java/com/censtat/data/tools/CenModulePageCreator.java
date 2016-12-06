@@ -324,7 +324,7 @@ public class CenModulePageCreator {
 					System.out.println(e);
 				}
 			}
-			ModuleSectionsStartVisitor startSection = new ModuleSectionsStartVisitor();
+			NestedModuleSectionsStartVisitor startSection = new NestedModuleSectionsStartVisitor();
 			ModuleSectionStopVisitor stopSection = new ModuleSectionStopVisitor();
 			MustacheFactory mf = new DefaultMustacheFactory();				
 			Mustache mustache = mf.compile("templates"+File.separator+this.getTemplateFile(type));
