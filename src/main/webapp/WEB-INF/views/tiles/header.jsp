@@ -14,10 +14,10 @@
         </a>
 
         <!-- Header Navbar -->
-        <c:set var="context" value="${pageContext.request.contextPath}"> 
-        <c:set var = "root"  value = "${context}/censite">
+        <c:set var="root" value="${pageContext.request.contextPath}">        
         <nav class="navbar navbar-static-top" role="navigation">
         
+
          <a href="#" class="sidebar-toggle" data-toggle="offcanvas" role="button">
             <span class="sr-only">Toggle navigation</span>
           </a>
@@ -26,11 +26,11 @@
 		
 						<div>
 							<ul class="nav navbar-nav">
-								<li class=""><a href=${root}>Home</a></li>	
+								<li class=""><a href="${root}">Home</a></li>	
 								<li class=""><a href="${root}/states">States Data</a></li>	
 							
 								 <li class="dropdown">
-                <a href="http://censtat.com/states/Arkansas#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Metros Data <span class="caret"></span></a>
+                <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Metros Data <span class="caret"></span></a>
                 <ul class="dropdown-menu">                 
                   										
 					
@@ -94,7 +94,7 @@
 								
 								
 								 <li class="dropdown">
-                <a href="http://censtat.com/states/Arkansas#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Cities Data <span class="caret"></span></a>
+                <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Cities Data <span class="caret"></span></a>
                 <ul class="dropdown-menu">    
 					
 						<li><a href="${root}/states/Alabama/cities-Alabama">Alabama</a></li>
@@ -155,7 +155,7 @@
 								
 							
 								 <li class="dropdown">
-                <a href="http://censtat.com/states/Arkansas#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Counties Data <span class="caret"></span></a>
+                <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Counties Data <span class="caret"></span></a>
                 <ul class="dropdown-menu">                  
 
 					<li><a href="${root}/states/Alabama/counties-Alabama">Alabama</a></li>
