@@ -478,7 +478,7 @@ public class CenstatPageGenTool {
 			//	Mustache mustache = mf.compile("templates/breadcrumb.tmpl");
 				Mustache mustache = mf.compile("templates"+File.separator+"breadcrumb.tmpl");
 				bcTemplateMap.put(entity,template);
-				System.out.println("Current Map Size -->"+bcTemplateMap.size())
+				System.out.println("Current Map Size -->"+bcTemplateMap.size());
 				try {
 					if(fileToFlush!=null)
 					{
