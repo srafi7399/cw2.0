@@ -25,22 +25,22 @@ public class CenModulePageCreator {
 	
 	private ArrayList<CenModuleInfoObject> moduleInfoHolder = new ArrayList<CenModuleInfoObject>();
 
-	public static final String MODULE_AGE_SEX_TYPE = "Age Sex Module";
-	public static final String MODULE_RACE_TYPE = "Race Module";
+	public static final String MODULE_AGE_SEX_TYPE = "Age and Sex Relationships";
+	public static final String MODULE_RACE_TYPE = "Races";
 	public static final String MODULE_HISPANIC_LATINO = "Hispanic or Latino";
 	public static final String MODULE_HOUSEHOLDS_BY_TYPE = "House Holds By Type";
-	public static final String MODULE_RELATIONSHIP = "Relationships Module";
-	public static final String MODULE_MARITIAL_STATUS = "Maritial Status Module";
-	public static final String MODULE_FERTILITY = "Fertility Module";
-	public static final String MODULE_GRANDPARENTS = "Grand Parents Module";
-	public static final String MODULE_SCHOOLENROLLMENT = "School Enrollment Module";
+	public static final String MODULE_RELATIONSHIP = "Relationships";
+	public static final String MODULE_MARITIAL_STATUS = "Maritial Status ";
+	public static final String MODULE_FERTILITY = "Fertility";
+	public static final String MODULE_GRANDPARENTS = "Grand Parents";
+	public static final String MODULE_SCHOOLENROLLMENT = "School Enrollment";
 	public static final String MODULE_EDUCATIONALATTAINMENT = "Educational Attainment";
-	public static final String MODULE_VETERAN_STATUS = "Veteran Status Module";
-	public static final String MODULE_PLACEOFBIRTH = "Place Of Birth Module";
-	public static final String MODULE_USCITIZENSHIP = "US Citizenship Module";
-	public static final String MODULE_LANGUAGES_SPOKEN = "Languages Spoken Module";
+	public static final String MODULE_VETERAN_STATUS = "Veteran Status";
+	public static final String MODULE_PLACEOFBIRTH = "Place Of Birth";
+	public static final String MODULE_USCITIZENSHIP = "US Citizenship";
+	public static final String MODULE_LANGUAGES_SPOKEN = "Languages Spoken";
 	public static final String MODULE_ANCESTRY = "Ancestry";
-	public static final String MODULE_COMPUTER_USAGE = "Computer Usage Module";
+	public static final String MODULE_COMPUTER_USAGE = "Computer Usage ";
 	private ModuleControllerCodeTemplate forAgeSexController = CenstatPageGenTool.getInstance().new ModuleControllerCodeTemplate("AgeSexController");
 	private ModuleControllerCodeTemplate forAncestryController = CenstatPageGenTool.getInstance().new ModuleControllerCodeTemplate("AncestryController");
 	private ModuleControllerCodeTemplate forCitizenshipController = CenstatPageGenTool.getInstance().new ModuleControllerCodeTemplate("CitizenshipController");
@@ -326,11 +326,14 @@ public class CenModulePageCreator {
 			}
 			NestedModuleSectionsStartVisitor startSection = new NestedModuleSectionsStartVisitor();
 			ModuleSectionStopVisitor stopSection = new ModuleSectionStopVisitor();
+			MustacheFactory bct = new DefaultMustacheFactory();			
+			Mustache mus = bct.compile("templates"+File.separator+"breadcrumb.tmpl");
 			MustacheFactory mf = new DefaultMustacheFactory();				
 			Mustache mustache = mf.compile("templates"+File.separator+this.getTemplateFile(type));
 			try {
 				writer = new FileWriter(fileToCreate);
 				startSection.visit(entity, writer);
+				mus.execute(writer,CenstatPageGenTool.getInstance().getBreadCrumbForEntity(entity));
 				mustache.execute(writer, template);	
 				stopSection.visit(entity, writer);
 				writer.flush();

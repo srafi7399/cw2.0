@@ -38,6 +38,7 @@ public class CenstatPageGenTool {
 	private MongoApp app = null;
 	GsonBuilder builder = new GsonBuilder();
 	Gson gson = builder.create();
+	private HashMap<DataEntity,BreadCrumbTemplate> bcTemplateMap = new HashMap<DataEntity,BreadCrumbTemplate>();
 	
 	/**
 	 * 
@@ -476,6 +477,7 @@ public class CenstatPageGenTool {
 				MustacheFactory mf = new DefaultMustacheFactory();
 			//	Mustache mustache = mf.compile("templates/breadcrumb.tmpl");
 				Mustache mustache = mf.compile("templates"+File.separator+"breadcrumb.tmpl");
+				bcTemplateMap.put(entity,template);
 				try {
 					if(fileToFlush!=null)
 					{
@@ -603,6 +605,10 @@ public class CenstatPageGenTool {
 			e.printStackTrace();
 		}
 		
+	}
+
+	public BreadCrumbTemplate getBreadCrumbForEntity(DataEntity entity) {
+		return this.bcTemplateMap.get(entity);		
 	}
 	
 	
