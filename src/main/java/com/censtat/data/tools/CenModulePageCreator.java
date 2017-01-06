@@ -5,6 +5,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Iterator;
+import java.util.List;
 import java.util.StringTokenizer;
 
 import org.apache.commons.io.FileUtils;
@@ -333,7 +334,7 @@ public class CenModulePageCreator {
 			try {
 				writer = new FileWriter(fileToCreate);
 				startSection.visit(entity, writer);
-				//mus.execute(writer,temp);
+				mus.execute(writer,this.generateBreadCrumb(entity,type));
 				mustache.execute(writer, template);	
 				stopSection.visit(entity, writer);
 				writer.flush();
@@ -442,33 +443,33 @@ public class CenModulePageCreator {
 			CenModuleBreadCrumb template = new CenModuleBreadCrumb();			
 			template.addLink("Home", "/");			
 			template.addLink("states", "/states");			
-			stateLink = "/states/" + this.getLinkName(entity.getState());
+			String stateLink = "/states/" + this.getLinkName(entity.getState());
 			if (!entity.getDataEntityType().equals(DataEntityTypeInterface.STATE_TYPE)) {
 				template.addLink(entity.getState(), stateLink);				
 			}
 			if (entity.getDataEntityType().equals(DataEntityTypeInterface.CITY_TYPE)) {
 				template.addLink("cities", stateLink + "/" + "cities-"+this.getLinkName(entity.getState()));
-				template.addLink(entity.getName(),stateLink + "/" +this.getLinkName(entity.getName));
+				template.addLink(entity.getName(),stateLink + "/" +this.getLinkName(entity.getName()));
 				template.setActive(type);
 			}
 			else if (entity.getDataEntityType().equals(DataEntityTypeInterface.COUNTY_TYPE)) {
 				template.addLink("Counties", stateLink + "/" + "counties-"+this.getLinkName(entity.getState()));
-				template.addLink(entity.getName(),stateLink + "/" +this.getLinkName(entity.getName));
+				template.addLink(entity.getName(),stateLink + "/" +this.getLinkName(entity.getName()));
 				template.setActive(type);
 			}
 			else if(entity.getDataEntityType().equals(DataEntityTypeInterface.METRO_TYPE)) {
 				template.addLink("Metros", stateLink + "/" + "metros-"+this.getLinkName(entity.getState()));
-				template.addLink(entity.getName(),stateLink + "/" +this.getLinkName(entity.getName));
+				template.addLink(entity.getName(),stateLink + "/" +this.getLinkName(entity.getName()));
 				template.setActive(type);
 			}
 			else if(entity.getDataEntityType().equals(DataEntityTypeInterface.MICRO_TYPE)) {
-				template.addLink("Micros", stateLink + "/" + "micros-"+this.getLinkName(entity.getState()));
-				template.addLink(entity.getName(),stateLink + "/" +this.getLinkName(entity.getName));
+				template.addLink("Micros", stateLink + "/" + "micros-"+getLinkName(entity.getState()));
+				template.addLink(entity.getName(),stateLink + "/" +this.getLinkName(entity.getName()));
 				template.setActive(type);
 
 			}
 
-		retrun null;
+		return template;
 	}
 	
 	class CenModuleBreadCrumb {
