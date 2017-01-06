@@ -333,7 +333,9 @@ public class CenModulePageCreator {
 			try {
 				writer = new FileWriter(fileToCreate);
 				startSection.visit(entity, writer);
-				mus.execute(writer,CenstatPageGenTool.getInstance().getBreadCrumbForEntity(entity));
+				CenstatPageGenTool.BreadCrumbTemplate temp = CenstatPageGenTool.getInstance().getBreadCrumbForEntity(entity);
+				System.out.println("Links ---->"+temp.links());
+				mus.execute(writer,temp);
 				mustache.execute(writer, template);	
 				stopSection.visit(entity, writer);
 				writer.flush();
