@@ -333,9 +333,7 @@ public class CenModulePageCreator {
 			try {
 				writer = new FileWriter(fileToCreate);
 				startSection.visit(entity, writer);
-				CenstatPageGenTool.BreadCrumbTemplate temp = CenstatPageGenTool.getInstance().getBreadCrumbForEntity(entity);
-				System.out.println("Links ---->"+temp.links());
-				mus.execute(writer,temp);
+				//mus.execute(writer,temp);
 				mustache.execute(writer, template);	
 				stopSection.visit(entity, writer);
 				writer.flush();
@@ -439,8 +437,74 @@ public class CenModulePageCreator {
 		
 
 	}
-	
 
+	private CenModuleBreadCrumb generateBreadCrumb(DataEntity entity, String type ) {
+			CenModuleBreadCrumb template = new CenModuleBreadCrumb();			
+			template.addLink("Home", "/");			
+			template.addLink("states", "/states");			
+			stateLink = "/states/" + this.getLinkName(entity.getState());
+			if (!entity.getDataEntityType().equals(DataEntityTypeInterface.STATE_TYPE)) {
+				template.addLink(entity.getState(), stateLink);				
+			}
+			if (entity.getDataEntityType().equals(DataEntityTypeInterface.CITY_TYPE)) {
+				template.addLink("cities", stateLink + "/" + "cities-"+this.getLinkName(entity.getState()));
+				template.addLink(entity.getName(),stateLink + "/" +this.getLinkName(entity.getName));
+				template.setActive(type);
+			}
+			else if (entity.getDataEntityType().equals(DataEntityTypeInterface.COUNTY_TYPE)) {
+				template.addLink("Counties", stateLink + "/" + "counties-"+this.getLinkName(entity.getState()));
+				template.addLink(entity.getName(),stateLink + "/" +this.getLinkName(entity.getName));
+				template.setActive(type);
+			}
+			else if(entity.getDataEntityType().equals(DataEntityTypeInterface.METRO_TYPE)) {
+				template.addLink("Metros", stateLink + "/" + "metros-"+this.getLinkName(entity.getState()));
+				template.addLink(entity.getName(),stateLink + "/" +this.getLinkName(entity.getName));
+				template.setActive(type);
+			}
+			else if(entity.getDataEntityType().equals(DataEntityTypeInterface.MICRO_TYPE)) {
+				template.addLink("Micros", stateLink + "/" + "micros-"+this.getLinkName(entity.getState()));
+				template.addLink(entity.getName(),stateLink + "/" +this.getLinkName(entity.getName));
+				template.setActive(type);
+
+			}
+
+		retrun null;
+	}
+	
+	class CenModuleBreadCrumb {
+
+		ArrayList<link> links = new ArrayList<link>();
+		private String activeLink = null;
+
+		public List<link> links() {
+			return links;
+		}
+
+		public void setActive(String active) {
+			this.activeLink = active;
+		}
+
+		public String active() {
+			return this.activeLink;
+		}
+
+		public void addLink(String name, String value) {
+			link l = new link(name, value);
+			this.links.add(l);
+		}
+
+		class link {
+			String linkName = null;
+			String linkValue = null;
+
+			public link(String name, String value) {
+				this.linkName = name;
+				this.linkValue = value;
+			}
+
+		}
+	
+	}
 	
 
 	class CenModuleInfoObject {

@@ -476,9 +476,8 @@ public class CenstatPageGenTool {
 				ModuleSectionsStartVisitor startSection = new ModuleSectionsStartVisitor();
 				MustacheFactory mf = new DefaultMustacheFactory();
 			//	Mustache mustache = mf.compile("templates/breadcrumb.tmpl");
-				Mustache mustache = mf.compile("templates"+File.separator+"breadcrumb.tmpl");
-				bcTemplateMap.put(entity,template);
-				System.out.println("Current Map Size -->"+bcTemplateMap.size());
+				Mustache mustache = mf.compile("templates"+File.separator+"breadcrumb.tmpl");			
+				
 				try {
 					if(fileToFlush!=null)
 					{
@@ -608,12 +607,7 @@ public class CenstatPageGenTool {
 		
 	}
 
-	public BreadCrumbTemplate getBreadCrumbForEntity(DataEntity entity) {
-		System.out.println("Gettting the BC Template for --->>"+entity.getName());
-		BreadCrumbTemplate result = this.bcTemplateMap.get(entity);	
-		System.out.println(" The Value of the Template is "+result);
-		return result;	
-	}
+	
 	
 	
 	
