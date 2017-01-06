@@ -449,24 +449,28 @@ public class CenModulePageCreator {
 			}
 			if (entity.getDataEntityType().equals(DataEntityTypeInterface.CITY_TYPE)) {
 				template.addLink("cities", stateLink + "/" + "cities-"+this.getLinkName(entity.getState()));
-				template.addLink(entity.getName(),stateLink + "/" +this.getLinkName(entity.getName()));
+				template.addLink(entity.getName(),stateLink + "cities"+"/" +this.getLinkName(entity.getName()));
 				template.setActive(type);
 			}
 			else if (entity.getDataEntityType().equals(DataEntityTypeInterface.COUNTY_TYPE)) {
 				template.addLink("Counties", stateLink + "/" + "counties-"+this.getLinkName(entity.getState()));
-				template.addLink(entity.getName(),stateLink + "/" +this.getLinkName(entity.getName()));
+				template.addLink(entity.getName(),stateLink +"/counties"+ "/" +this.getLinkName(entity.getName()));
 				template.setActive(type);
 			}
 			else if(entity.getDataEntityType().equals(DataEntityTypeInterface.METRO_TYPE)) {
 				template.addLink("Metros", stateLink + "/" + "metros-"+this.getLinkName(entity.getState()));
-				template.addLink(entity.getName(),stateLink + "/" +this.getLinkName(entity.getName()));
+				template.addLink(entity.getName(),stateLink +"/metroes" +"/" +this.getLinkName(entity.getName()));
 				template.setActive(type);
 			}
 			else if(entity.getDataEntityType().equals(DataEntityTypeInterface.MICRO_TYPE)) {
 				template.addLink("Micros", stateLink + "/" + "micros-"+getLinkName(entity.getState()));
-				template.addLink(entity.getName(),stateLink + "/" +this.getLinkName(entity.getName()));
+				template.addLink(entity.getName(),stateLink +"/micros" +"/" +this.getLinkName(entity.getName()));
 				template.setActive(type);
 
+			}
+			else if(entity.getDataEntityType().equals(DataEntityTypeInterface.STATE_TYPE)) {
+				template.addLink(entity.getState(), stateLink);
+				template.setActive(type);
 			}
 
 		return template;
