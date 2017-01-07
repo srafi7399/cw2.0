@@ -23,11 +23,11 @@ public class CitizenshipVisitor implements ModuleVisitorInterface {
 
 	@Override
 	public FileWriter visit(DataEntity entity, FileWriter writer) {
-		template.setKeyMap(entity.getItentifierKeys());
+		/*template.setKeyMap(entity.getItentifierKeys());
 		MustacheFactory mf = new DefaultMustacheFactory();
 		Mustache mustache = mf.compile("templates/citizenship.tmpl");
 		mustache.execute(writer, template);		
-		buildandStoreGUICharts(entity);
+		buildandStoreGUICharts(entity);*/
 		createCitizenshipPage(entity);
 		return writer;
 	}

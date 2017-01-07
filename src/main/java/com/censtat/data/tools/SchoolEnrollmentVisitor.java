@@ -28,11 +28,11 @@ public class SchoolEnrollmentVisitor implements ModuleVisitorInterface {
 	Gson gson = builder.create();
 	@Override
 	public FileWriter visit(DataEntity entity, FileWriter writer) {
-		template.setKeyMap(entity.getItentifierKeys());
+		/*template.setKeyMap(entity.getItentifierKeys());
 		MustacheFactory mf = new DefaultMustacheFactory();
 		Mustache mustache = mf.compile("templates/schoolenrollment.tmpl");
 		mustache.execute(writer, template);		
-		buildandStoreGUICharts(entity);
+		buildandStoreGUICharts(entity);*/
 		createSchoolEnrollmentPage(entity);
 		return writer;	
 	}

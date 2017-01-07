@@ -16,10 +16,10 @@ public class RaceModuleVisitor implements ModuleVisitorInterface {
 	
 	@Override
 	public FileWriter visit(DataEntity entity, FileWriter writer) {		
-		template.setKeyMap(entity.getItentifierKeys());
+		/*template.setKeyMap(entity.getItentifierKeys());
 		MustacheFactory mf = new DefaultMustacheFactory();
 		Mustache mustache = mf.compile("templates/race.tmpl");
-		mustache.execute(writer, template);		
+		mustache.execute(writer, template);	*/	
 		createRacePage(entity);
 		return writer;
 	}

@@ -28,11 +28,11 @@ public class PlaceofBirthVisitor implements ModuleVisitorInterface {
 
 	@Override
 	public FileWriter visit(DataEntity entity, FileWriter writer) {
-		template.setKeyMap(entity.getItentifierKeys());
+		/*template.setKeyMap(entity.getItentifierKeys());
 		MustacheFactory mf = new DefaultMustacheFactory();
 		Mustache mustache = mf.compile("templates/birthplace.tmpl");
 		mustache.execute(writer, template);		
-		buildandStoreGUICharts(entity);
+		buildandStoreGUICharts(entity);*/
 		createPlaceOfBirthPage(entity);
 		return writer;
 	}

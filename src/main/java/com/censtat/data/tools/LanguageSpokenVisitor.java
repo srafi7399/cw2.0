@@ -25,11 +25,11 @@ public class LanguageSpokenVisitor implements ModuleVisitorInterface {
 
 	@Override
 	public FileWriter visit(DataEntity entity, FileWriter writer) {
-		template.setKeyMap(entity.getItentifierKeys());
+	/*	template.setKeyMap(entity.getItentifierKeys());
 		MustacheFactory mf = new DefaultMustacheFactory();
 		Mustache mustache = mf.compile("templates/language.tmpl");
 		mustache.execute(writer, template);		
-		buildandStoreGUICharts(entity);
+		buildandStoreGUICharts(entity);*/
 		createLanguagesSpokenPage(entity);
 		return writer;
 	}

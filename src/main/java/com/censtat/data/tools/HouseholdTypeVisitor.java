@@ -23,11 +23,11 @@ public class HouseholdTypeVisitor implements ModuleVisitorInterface {
 
 	@Override
 	public FileWriter visit(DataEntity entity, FileWriter writer) {
-		template.setKeyMap(entity.getItentifierKeys());
+		/*template.setKeyMap(entity.getItentifierKeys());
 		MustacheFactory mf = new DefaultMustacheFactory();
 		Mustache mustache = mf.compile("templates/householdsbytype.tmpl");
 		mustache.execute(writer, template);		
-		buildandStoreGUICharts(entity);
+		buildandStoreGUICharts(entity);*/
 		createHouseHoldsByTypePage(entity);
 		return writer;
 	}

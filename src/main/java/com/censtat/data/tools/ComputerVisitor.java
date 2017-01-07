@@ -15,10 +15,10 @@ public class ComputerVisitor implements ModuleVisitorInterface {
 	@Override
 	public FileWriter visit(DataEntity entity, FileWriter writer) {
 		
-		template.setKeyMap(entity.getItentifierKeys());
+		/*template.setKeyMap(entity.getItentifierKeys());
 		MustacheFactory mf = new DefaultMustacheFactory();
 		Mustache mustache = mf.compile("templates/computers.tmpl");
-		mustache.execute(writer, template);
+		mustache.execute(writer, template);*/
 		createComputerUsagePage(entity);
 		return writer;
 	}

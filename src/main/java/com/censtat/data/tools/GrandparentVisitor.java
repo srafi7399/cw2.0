@@ -13,10 +13,10 @@ public class GrandparentVisitor implements ModuleVisitorInterface {
 	private KeyGenTemplateFile template = new KeyGenTemplateFile();
 	@Override
 	public FileWriter visit(DataEntity entity, FileWriter writer) {
-		template.setKeyMap(entity.getItentifierKeys());
-		MustacheFactory mf = new DefaultMustacheFactory();
-		Mustache mustache = mf.compile("templates/grandparents.tmpl");
-		mustache.execute(writer, template);		
+		// template.setKeyMap(entity.getItentifierKeys());
+		// MustacheFactory mf = new DefaultMustacheFactory();
+		// Mustache mustache = mf.compile("templates/grandparents.tmpl");
+		// mustache.execute(writer, template);		
 		createGrandParentsPage(entity);
 		return writer;
 		

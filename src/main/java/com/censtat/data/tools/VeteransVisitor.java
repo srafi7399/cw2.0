@@ -15,10 +15,10 @@ public class VeteransVisitor implements ModuleVisitorInterface {
 
 	@Override
 	public FileWriter visit(DataEntity entity, FileWriter writer) {
-		template.setKeyMap(entity.getItentifierKeys());
+		/*template.setKeyMap(entity.getItentifierKeys());
 		MustacheFactory mf = new DefaultMustacheFactory();
 		Mustache mustache = mf.compile("templates/veterans.tmpl");
-		mustache.execute(writer, template);
+		mustache.execute(writer, template);*/
 		createVeteransPage(entity);
 		return writer;
 	}

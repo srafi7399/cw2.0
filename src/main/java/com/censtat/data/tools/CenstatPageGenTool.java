@@ -487,6 +487,8 @@ public class CenstatPageGenTool {
 						writer = DataModuleRef.getInstance().createModuleContent(entity, writer);
 						writer.flush();
 						writer.close();
+						/* FIX ME */
+						//Need to remove generation of content all together and focus on Module content
 					}
 					fileToFlush=null;				
 				} catch (IOException e) {
