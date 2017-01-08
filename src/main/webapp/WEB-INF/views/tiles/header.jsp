@@ -26,7 +26,7 @@
 		
 						<div>
 							<ul class="nav navbar-nav">
-								<li class=""><a href="${root}">Home</a></li>	
+								<li class=""><a href="${root}/">Home</a></li>	
 								<li class=""><a href="${root}/states">States Data</a></li>	
 							
 								 <li class="dropdown">
