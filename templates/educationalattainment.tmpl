@@ -1,3 +1,36 @@
+<script src="${pageContext.request.contextPath}/js/icharts.js"></script> 
+ <script>
+  $(document).ready(function() 
+          {   
+			
+	  var re= ${fipcode};	  
+	  var dat ;
+	  $.ajax({
+			url : '${pageContext.request.contextPath}/charts',
+			type : "GET",			
+			headers: {
+		        'resource':re
+			},
+			dataType : "json",
+			contentType : "application/json",
+				success: function(data){     
+	             var obj= JSON.parse(JSON.stringify(data));           
+	             var temp = obj.idToJsonMap; 
+	           /* for (var key in temp) {
+   			 	drawchart(key,temp[key]);
+				}*/
+				drawchart("name_educational_attainment_levels",temp["name_educational_attainment_levels"]);			
+	              
+	             }
+		});
+			        	 
+        	 
+ });
+</script>
+
+
+
+
 <div itemscope itemtype="http://schema.org/Dataset">
 <div id = "educationalatt" class="panel panel-default">
 	

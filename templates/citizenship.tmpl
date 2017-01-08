@@ -1,3 +1,35 @@
+<script src="${pageContext.request.contextPath}/js/icharts.js"></script> 
+ <script>
+  $(document).ready(function() 
+          {   
+			
+	  var re= ${fipcode};	  
+	  var dat ;
+	  $.ajax({
+			url : '${pageContext.request.contextPath}/charts',
+			type : "GET",			
+			headers: {
+		        'resource':re
+			},
+			dataType : "json",
+			contentType : "application/json",
+				success: function(data){     
+	             var obj= JSON.parse(JSON.stringify(data));           
+	             var temp = obj.idToJsonMap; 
+	           /* for (var key in temp) {
+   			 	drawchart(key,temp[key]);
+				}*/
+				drawchart("name_natural_us_citizen_vs_not_a_us_citizen",temp["name_natural_us_citizen_vs_not_a_us_citizen"]);
+						 
+	              
+	             }
+		});
+			        	 
+        	 
+ });
+
+
+
 <div itemscope itemtype="http://schema.org/Dataset">
 <div id = "citizenship" class="panel panel-default">		
 			<div class="panel-heading">
