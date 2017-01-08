@@ -1,4 +1,4 @@
-<script src="${pageContext.request.contextPath}/js/icharts-min.js"></script> 
+<script src="${pageContext.request.contextPath}/js/icharts.js"></script> 
  <script>
   $(document).ready(function() 
           {   
@@ -16,9 +16,13 @@
 				success: function(data){     
 	             var obj= JSON.parse(JSON.stringify(data));           
 	             var temp = obj.idToJsonMap; 
-	            for (var key in temp) {
+	           /* for (var key in temp) {
    			 	drawchart(key,temp[key]);
-				}
+				}*/
+				drawchart("name_male_female_percentage",temp["name_male_female_percentage"]);
+				drawchart("name_18_years_and_over_cdp",temp["name_18_years_and_over_cdp"]);
+				drawchart("name_65_years_and_over_cdp",temp["name_65_years_and_over_cdp"]);
+				drawchart("name_age_distribution",temp["name_age_distribution"]);	 
 	              
 	             }
 		});
