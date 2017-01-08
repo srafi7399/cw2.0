@@ -7,9 +7,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 import java.util.StringTokenizer;
-
 import org.apache.commons.io.FileUtils;
-
 import com.censtat.data.implementation.DataEntity;
 import com.censtat.data.tools.CenstatPageGenTool.ModuleControllerCodeTemplate;
 import com.github.mustachejava.DefaultMustacheFactory;
@@ -180,8 +178,11 @@ public class CenModulePageCreator {
 	
 	private String getTemplateFile(String type) {		
 		if (type.equals(MODULE_AGE_SEX_TYPE)) {
-			return "sexandage.tmpl";
-		} else if (type.equals(MODULE_RACE_TYPE)) {
+			if (CenBuildContext.getInstance().getCurrentBuildContext().equals(CenBuildContext.STAGE)) {
+			return "sexandage_stage.tmpl";
+		}
+			return "sexandage.tmpl";				
+		}else if (type.equals(MODULE_RACE_TYPE)) {
 			return "race.tmpl";
 		} else if (type.equals(MODULE_ANCESTRY)) {
 			return "ancestry.tmpl";
@@ -285,6 +286,8 @@ public class CenModulePageCreator {
 		}
 	}
 
+
+
 	public void createModulePages() {
 		String tilesDir = System.getProperty("user.dir")
 				+File.separator+"src"
@@ -300,8 +303,7 @@ public class CenModulePageCreator {
 		FileWriter writer = null;
 		Iterator<CenModuleInfoObject> iter = this.moduleInfoHolder.iterator();
 		while(iter.hasNext()) {
-			System.out.println("**********Creating the Module Pages**********"+count++);
-			
+			System.out.println("**********Creating the Module Pages**********"+count++);			
 			CenModuleInfoObject object = iter.next();
 			String fileName = object.getFileNameToCreate();
 			String type = object.getTypeOfModule();
@@ -313,8 +315,7 @@ public class CenModulePageCreator {
 				try{
 					directory.mkdir();
 				} catch(Exception e) {
-					System.out.println(e);
-					
+					System.out.println(e);					
 				}
 			}			
 			fileToCreate = new File(directory+File.separator+getPageName(type));
@@ -351,7 +352,7 @@ public class CenModulePageCreator {
 	}
 	
 	public ModuleControllerCodeTemplate getControllerForJavaFile(String fileName) {
-		System.out.println("Fetching Controller for the file Name ---->"+fileName);
+		
 		if (fileName.equals("AgeSexController.java")) {
 			return this.forAgeSexController;
 
