@@ -114,7 +114,17 @@ public class DataModuleRef {
 				}
 			}
 		}
+		createPageContent(entity,writer);
 		stopSection.visit(entity, writer);
+		return writer;
+	}
+
+	private FileWriter createPageContent(DataEntity entity,FileWriter writer) {
+		KeyGenTemplateFile template = new KeyGenTemplateFile()
+		template.setKeyMap(entity.getItentifierKeys());
+		MustacheFactory mf = new DefaultMustacheFactory();
+		Mustache mustache = mf.compile("templates/descpage.tmpl");
+		mustache.execute(writer, template);		
 		return writer;
 	}
 }
