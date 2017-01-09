@@ -9,6 +9,10 @@ import java.util.Set;
 import com.censtat.data.implementation.DataEntity;
 import com.censtat.data.implementation.DataModule;
 
+import com.github.mustachejava.DefaultMustacheFactory;
+import com.github.mustachejava.Mustache;
+import com.github.mustachejava.MustacheFactory;
+
 /**
  * 
  * @author Rafi Shaik
@@ -120,7 +124,7 @@ public class DataModuleRef {
 	}
 
 	private FileWriter createPageContent(DataEntity entity,FileWriter writer) {
-		KeyGenTemplateFile template = new KeyGenTemplateFile()
+		KeyGenTemplateFile template = new KeyGenTemplateFile();
 		template.setKeyMap(entity.getItentifierKeys());
 		MustacheFactory mf = new DefaultMustacheFactory();
 		Mustache mustache = mf.compile("templates/descpage.tmpl");
