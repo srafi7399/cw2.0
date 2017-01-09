@@ -1,44 +1,44 @@
 <div>
-<h4>Demographic and Social Characteristics of {{value_name}}. (Per 2013 US Census)</h4>
+<h3>Demographic and Social Characteristics of {{value_name}}. (Per 2013 US Census)</h3>
 
-<h5>Sex and Age Details</h5>
-<p>{{value_name}} is situated in the state of {{value_state}} and has a total population of {{value_total_population}} . The percentage of male polulation {{value_total_population_male}} % and the female population is {{value_total_population_female}} %. The number of males over the age of 18 is {{value_18_years_and_over_male}} % whereas the number of females over the age of 18 is {{value_18_years_and_over_female}} %. For population over the age of 65 , males constitute {{value_65_years_and_over_male}} % and females constitute {value_65_years_and_over_fe_male}} %. The Median Age of the population in {{value_name}} is {{value_median_age_in_years}} years. {{value_18_years_and_over}} % of the population is 18 years or older and {{value_65_years_and_over}} % of the population is aged 65 and over. {{value_under_5_years}} % of the population is under 5 years of age. For more detailed information of the age related demographics details of {{value_name}} click <a href="${requestScope['javax.servlet.forward.request_uri']}/Age-Sex">here</a>.
+<h4>Sex and Age Details</h4>
+<p>{{value_name}} is situated in the state of {{value_state}} and has a total population of {{value_total_population}} . The percentage of male polulation {{value_total_population_male}} % and the female population is {{value_total_population_female}} %. The number of males over the age of 18 is {{value_18_years_and_over_male}} % whereas the number of females over the age of 18 is {{value_18_years_and_over_female}} %. For population over the age of 65 , males constitute {{value_65_years_and_over_male}} % and females constitute {{value_65_years_and_over_fe_male}} %. The Median Age of the population in {{value_name}} is {{value_median_age_in_years}} years. {{value_18_years_and_over}} % of the population is 18 years or older and {{value_65_years_and_over}} % of the population is aged 65 and over. {{value_under_5_years}} % of the population is under 5 years of age. For more detailed information of the age related demographics details of {{value_name}} click <a href="${requestScope['javax.servlet.forward.request_uri']}/Age-Sex">here</a>.
 </p>
 
-<!-- <h5>Race Related Data</h5>
-<p> {{XXX}} % of the population in {{value_name}} belongs to One race with {{XXX}} % of the population belonging to two or more races. White population constitutes {{XXX}} % of the population whereas Black or African Americans constitute {{XXX}} % . For a more detailed breakdown of race data click {{here}}.</p>
+<h4>Race Related Data</h4>
+<p> {{value_one_race}} % of the population in {{value_name}} belongs to One race with {{value_two_or_more_race}} % of the population belonging to two or more races. White population constitutes {{value_one_race_white}} % of the population whereas Black or African Americans constitute {{value_one_race_black_or_african_american}} % . For a more detailed breakdown of race data click <a href="${requestScope['javax.servlet.forward.request_uri']}/Race">here</a>.</p>
 
-<h5>Hispanic Or Latino </h5>
-<p>Hispanic or Latinos (of any race) make up {{XXX}} % of the population of {{value_name}}.  Amongst the Hispanic or Latino population {{XXX}} % are Mexican and {{XX}} % are Puerto Rican.  {{XXX}} % of the population of {{value_name}} is not Hispanic or Latino. For a more detailed breakdown of Hispanic or Latino population in {{value_name}} click {{here}}.</p>
+<h4>Hispanic Or Latino </h4>
+<p>Hispanic or Latinos (of any race) make up {{value_hispanic_or_latino_any_race}} % of the population of {{value_name}}.  Amongst the Hispanic or Latino population {{value_hispanic_or_latino_any_race_mexican}} % are Mexican and {{value_hispanic_or_latino_any_race_puerto_rico}} % are Puerto Rican.  {{value_not_hispanic_or_latino}} % of the population of {{value_name}} is not Hispanic or Latino. For a more detailed breakdown of Hispanic or Latino population in {{value_name}} click <a href="${requestScope['javax.servlet.forward.request_uri']}/Hispanic-Latino">here</a>.</p>
 
-<h5>Households by type</h5> 
-<p>The total number of Households in {{value_name}}  is {{XXX}} . {{XXX}} % of these households are family households whereas {{XXX}} % are nonfamily households. The average family size in {{value_name}} is {{3.64}} persons per household. Married couple households are {{XXX}} % whereas male households (No Wife Present) is {{XXX}} % and female households (no Husband present) constitute {{XXX}} %.  Amongst the nonfamily households {{XXX}} % have the householder living alone . For more detailed information on Households by type please click {{here}}.</p>
+<h4>Households by type</h4> 
+<p>The total number of Households in {{value_name}}  is {{value_tot_hoshold}} . {{value_fam_hoshold}} % of these households are family households whereas {{value_non_fam_hoshold}} % are nonfamily households. The average family size in {{value_name}} is {{value_ave_fam_size}} persons per household. Married couple households are {{value_marr_couple_fam}} % whereas male households (No Wife Present) is {{value_male_no_wife_hoshold}} % and female households (no Husband present) constitute {{value_female_no_male_hoshold}} %.  Amongst the nonfamily households {{value_hosholder_liv_alone}} % have the householder living alone . For more detailed information on Households by type please click <a href="${requestScope['javax.servlet.forward.request_uri']}/HouseHolds-ByType">here</a>.</p>
 
-<h5>Relationships </h5>
-<p>Householder population constitute {{XXX}} % of the population in {{value_name}} and the Spouse and children constitute {{XXX}} % and {{XXX}} % of the population. For more detailed information on Relationships in {{value_name}} click {{here}}.</p>
+<h4>Relationships </h4>
+<p>Householder population constitute {{value_relationship_by_type_householder}} % of the population in {{value_name}} and the Spouse and children constitute {{value_relationship_by_type_spouse}} % and {{value_relationship_by_type_child}} % of the population. For more detailed information on Relationships in {{value_name}} click <a href="${requestScope['javax.servlet.forward.request_uri']}/Relationships">here</a>.</p>
 
-<h5>Marital Status</h5>
-<p>While {{XXX}} % of males and {{XXX}} % of females have never married there are {{XXX}} % of males and {{XXX}} % of females who are married in {{value_name}}.  {{XXX}} % of males in {{Los Angles}} are Widowed and {{XXX}} % of females in {{Los Angles}} are widowed. While Divorce amongst males is {{XXX}} % , it is {{XXX}} % amongst females. For more detailed details on marital status in {{value_name}} click {{here}}.
+<h4>Marital Status</h4>
+<p>While {{value_maritial_status_male_never_married}} % of males and {{value_maritial_status_female_never_married}} % of females have never married there are {{value_maritial_status_male_now_married}} % of males and {{value_maritial_status_female_now_married}} % of females who are married in {{value_name}}.  {{value_maritial_status_male_widowed}} % of males in {{value_name}} are Widowed and {{value_maritial_status_female_widowed}} % of females in {{value_name}} are widowed. While Divorce amongst males is {{value_maritial_status_male_divorced}} % , it is {{value_maritial_status_female_divorced}} % amongst females. For more detailed details on marital status in {{value_name}} click <a href="${requestScope['javax.servlet.forward.request_uri']}/Maritial-Status">here</a>.
 </p>
 
-<h5>Fertility Data </h5>
-<p>In the last 12 months {{XXX}} women per 1000 women in {{value_name}} gave birth . Amongst  the 15 to 19 years age group there were {{XXX}} women per 1000 women in {{value_name}} who have birth during the last 12 months . Amongst the 35 to 50 years age group there were {{XXX}} women per 1000 women who gave birth during the last 12 months. For more detailed information on Fertility data for {{value_name}} please click {{here}}.</p>
+<h4>Fertility Data </h4>
+<p>In the last 12 months {{value_fertitlity_per_1000_unmarried}} women per 1000 unmarried women in {{value_name}} gave birth . Amongst  the 15 to 19 years age group there were {{value_fertitlity_per_1000_15_to_19}} women per 1000 women in {{value_name}} who have birth during the last 12 months . Amongst the 35 to 50 years age group there were {{value_fertitlity_per_1000_35_to_50}} women per 1000 women who gave birth during the last 12 months. For more detailed information on Fertility data for {{value_name}} please click <a href="${requestScope['javax.servlet.forward.request_uri']}/Fertility">here</a>.</p>
 
-<h5>Grandparents</h5>
-<p>In {{value_name}} {{XXX}} % of Grandparents are responsible for their Grandchildren . {{XXX}} is the total number of grandparents responsible for their own grandchildren under 18 years of age. For more detailed information on Grandparents responsible for Grandparents in {{value_name}} click here. </p>
+<h4>Grandparents</h4>
+<p>In {{value_name}} {{value_gp_res_for_gc}} % of Grandparents are responsible for their Grandchildren . {{value_per_fgp_res_own_gc_under18}} is the total number of grandparents responsible for their own grandchildren under 18 years of age. For more detailed information on Grandparents responsible for Grandparents in {{value_name}} click <a href="${requestScope['javax.servlet.forward.request_uri']}/Grand-Parents">here</a>. </p>
 
-<h5>School Enrollment </h5>
-<p>In {{value_name}}  the population that is over 3 years old and enrolled in school is {{XXX}}. {{XXX}} % of this population is enrolled in elementary school ( grades 1-8) and {{XXX}} % of this population is enrolled in High School (grades 9-12). {{XXX}} % are enrolled in Kindergarten and {{XXX}} % are enrolled in Nursery school (Preschool). {{XXX}} % are enrolled in College or Graduate schools. For more details on school enrollment data for {{value_name}} click {{here}}.</p>
+<h4>School Enrollment </h4>
+<p>In {{value_name}}  the population that is over 3 years old and enrolled in school is {{value_pop_3_over_enrolled_school}}. {{value_school_enrollment_elementary}} % of this population is enrolled in elementary school ( grades 1-8) and {{value_school_enrollment_high_school}} % of this population is enrolled in High School (grades 9-12). {{value_school_enrollment_kinder_garten}} % are enrolled in Kindergarten and {{value_school_entollment_nur_preschool}} % are enrolled in Nursery school (Preschool). {{value_school_enrollment_college}} % are enrolled in College or Graduate schools. For more details on school enrollment data for {{value_name}} click <a href="${requestScope['javax.servlet.forward.request_uri']}/School-Enrollment">here</a>.</p>
 
-<h5>Educational Attainment</h5> 
-<p>In {{value_name}} {{XX}} % of the population has a high school degree or higher. {{XXX}} % of the population has a bachelor’s degree or higher. For a more detailed breakdown of the educational attainment levels in {{value_name}} please click {{here}}.</p>
+<h4>Educational Attainment</h4> 
+<p>In {{value_name}} {{value_educational_attainment_per_hs_higher}} % of the population has a high school degree or higher. {{value_educational_attainment_per_bachelors_higher}} % of the population has a bachelor’s degree or higher. For a more detailed breakdown of the educational attainment levels in {{value_name}} please click <a href="${requestScope['javax.servlet.forward.request_uri']}/Educational-Attainment">here</a>.</p>
 
-<h5>Veterans </h5>
-<p>{{value_name}} has a population of {{XXX}} people who are 18 years or older, of this {{XXX}} % are civilian veterans. For more detailed information on Veterans click {{here}}.</p>
+<h4>Veterans </h4>
+<p>{{value_name}} has a population of {{value_veteran_status_civpop_18_over}} people who are 18 years or older, of this {{value_veteran_status_civ_veterans}} % are civilian veterans. For more detailed information on Veterans click <a href="${requestScope['javax.servlet.forward.request_uri']}/Veteran-Status">here</a>}.</p>
 
-<h5>Natural Vs Foreign Born </h5>
+<!-- <h4>Natural Vs Foreign Born </h4>
 <p>In {{value_name}} {{XXX}} % of the population is native born vs {{XXX}} % of the population which is foreign born. For more detailed information on Place of Birth related data for {{value_name}} click {{here}}.</p>
 
-<h5>Citizenship Status </h5>
+<h4>Citizenship Status </h4>
 <p>The foreign born population of {{value_name}} is {{XXX}} . Of this {{XXX}} % are Naturalized U.S citizens and {{XXX}} % are not  US Citizens. For more detailed information on Foreign born population of {{value_name}} click {{here}}.</p> -->
 </div>
