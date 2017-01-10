@@ -126,8 +126,12 @@ public class DataModuleRef {
 	private FileWriter createPageContent(DataEntity entity,FileWriter writer) {
 		KeyGenTemplateFile template = new KeyGenTemplateFile();
 		template.setKeyMap(entity.getItentifierKeys());
+		String templateFile = "templates/descpage.tmpl";
+		if(CenBuildContext.getInstance().getCurrentBuildContext().equals(CenBuildContext.STAGE)) {
+			templateFile="templates/descpage_stage.tmpl";
+		}
 		MustacheFactory mf = new DefaultMustacheFactory();
-		Mustache mustache = mf.compile("templates/descpage.tmpl");
+		Mustache mustache = mf.compile(templateFile);
 		mustache.execute(writer, template);		
 		return writer;
 	}
