@@ -215,7 +215,7 @@
                 </ul>
               </li>	
               
-              		<li class=""><a href="http://censtat.com/content">US Population 2010-2014</a></li>
+              		<!-- <li class=""><a href="http://censtat.com/content">US Population 2010-2014</a></li> -->
 							
 							</ul>
 							
@@ -226,7 +226,7 @@
         </nav>
       </header>
 
-	<script>	
+	<!-- <script>	
 		$(document).ready(function() {	
 			console.log(document.title);
 			if (document.title === 'Unites States Population 2010-2014') {
@@ -236,6 +236,6 @@
 
 		});
 	</script>
-	  
+	   -->
 	
 
