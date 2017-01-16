@@ -214,6 +214,68 @@
                   
                 </ul>
               </li>	
+
+
+              <li class="dropdown">
+                <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Micros Data <span class="caret"></span></a>
+                <ul class="dropdown-menu">                  
+
+					<li><a href="${root}/states/Alabama/micros-Alabama">Alabama</a></li>
+					<li><a href="${root}/states/Alaska/micros-Alaska">Alaska</a></li>
+					<li><a href="${root}/states/Arizona/micros-Arizona">Arizona</a></li>
+					<li><a href="${root}/states/Arkansas/micros-Arkansas">Arkansas</a></li>
+					<li><a href="${root}/states/California/micros-California">California</a></li>
+					<li><a href="${root}/states/Colorado/micros-Colorado">Colorado</a></li>
+					<li><a href="${root}/states/Connecticut/micros-Connecticut">Connecticut</a></li>
+					<li><a href="${root}/states/Delaware/micros-Delaware">Delaware</a></li>
+					<li><a href="${root}/states/District-of-Columbia/micros-District-of-Columbia">District of Columbia</a></li>
+					<li><a href="${root}/states/Florida/micros-Florida">Florida</a></li>
+					<li><a href="${root}/states/Georgia/micros-Georgia">Georgia</a></li>
+					<li><a href="${root}/states/Hawaii/micros-Hawaii">Hawaii</a></li>
+					<li><a href="${root}/states/Idaho/micros-Idaho">Idaho</a></li>
+					<li><a href="${root}/states/Illinois/micros-Illinois">Illinois</a></li>
+					<li><a href="${root}/states/Indiana/micros-Indiana">Indiana</a></li>
+					<li><a href="${root}/states/Iowa/micros-Iowa">Iowa</a></li>
+					<li><a href="${root}/states/Kansas/micros-Kansas">Kansas</a></li>
+					<li><a href="${root}/states/Kentucky/micros-Kentucky">Kentucky</a></li>
+					<li><a href="${root}/states/Louisiana/micros-Louisiana">Louisiana</a></li>
+					<li><a href="${root}/states/Maine/micros-Maine">Maine</a></li>
+					<li><a href="${root}/states/Maryland/micros-Maryland">Maryland</a></li>
+					<li><a href="${root}/states/Massachusetts/micros-Massachusetts">Massachusetts</a></li>
+					<li><a href="${root}/states/Michigan/micros-Michigan">Michigan</a></li>
+					<li><a href="${root}/states/Minnesota/micros-Minnesota">Minnesota</a></li>
+					<li><a href="${root}/states/Mississippi/micros-Mississippi">Mississippi</a></li>
+					<li><a href="${root}/states/Missouri/micros-Missouri">Missouri</a></li>
+					<li><a href="${root}/states/Montana/micros-Montana">Montana</a></li>
+					<li><a href="${root}/states/Nebraska/micros-Nebraska">Nebraska</a></li>
+					<li><a href="${root}/states/Nevada/micros-Nevada">Nevada</a></li>
+					<li><a href="${root}/states/New-Hampshire/micros-New-Hampshire">New Hampshire</a></li>
+					<li><a href="${root}/states/New-Jersey/micros-New-Jersey">New Jersey</a></li>
+					<li><a href="${root}/states/New-Mexico/micros-New-Mexico">New Mexico</a></li>
+					<li><a href="${root}/states/New-York/micros-New-York">New York</a></li>
+					<li><a href="${root}/states/North-Carolina/micros-North-Carolina">North Carolina</a></li>
+					<li><a href="${root}/states/North-Dakota/micros-North-Dakota">North Dakota</a></li>
+					<li><a href="${root}/states/Ohio/micros-Ohio">Ohio</a></li>
+					<li><a href="${root}/states/Oklahoma/micros-Oklahoma">Oklahoma</a></li>
+					<li><a href="${root}/states/Oregon/micros-Oregon">Oregon</a></li>
+					<li><a href="${root}/states/Pennsylvania/micros-Pennsylvania">Pennsylvania</a></li>
+					<li><a href="${root}/states/Rhode-Island/micros-Rhode-Island">Rhode Island</a></li>
+					<li><a href="${root}/states/South-Carolina/micros-South-Carolina">South Carolina</a></li>
+					<li><a href="${root}/states/South-Dakota/micros-South-Dakota">South Dakota</a></li>
+					<li><a href="${root}/states/Tennessee/micros-Tennessee">Tennessee</a></li>
+					<li><a href="${root}/states/Texas/micros-Texas">Texas</a></li>
+					<li><a href="${root}/states/Utah/micros-Utah">Utah</a></li>
+					<li><a href="${root}/states/Vermont/micros-Vermont">Vermont</a></li>
+					<li><a href="${root}/states/Virginia/micros-Virginia">Virginia</a></li>
+					<li><a href="${root}/states/Washington/micros-Washington">Washington</a></li>
+					<li><a href="${root}/states/West-Virginia/micros-West-Virginia">West Virginia</a></li>
+					<li><a href="${root}/states/Wisconsin/micros-Wisconsin">Wisconsin</a></li>
+					<li><a href="${root}/states/Wyoming/micros-Wyoming">Wyoming</a></li>
+					<li><a href="${root}/states/Puerto-Rico/micros-Puerto-Rico">Puerto Rico</a></li>               
+                  <li role="separator" class="divider"></li>
+                  
+                </ul>
+              </li>	
               
               		<!-- <li class=""><a href="http://censtat.com/content">US Population 2010-2014</a></li> -->
 							
