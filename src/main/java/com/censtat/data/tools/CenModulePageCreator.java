@@ -450,7 +450,7 @@ public class CenModulePageCreator {
 			}
 			if (entity.getDataEntityType().equals(DataEntityTypeInterface.CITY_TYPE)) {
 				template.addLink("cities", stateLink + "/" + "cities-"+this.getLinkName(entity.getState()));
-				template.addLink(entity.getName(),stateLink + "cities"+"/" +this.getLinkName(entity.getName()));
+				template.addLink(entity.getName(),stateLink + "/cities"+"/" +this.getLinkName(entity.getName()));
 				template.setActive(type);
 			}
 			else if (entity.getDataEntityType().equals(DataEntityTypeInterface.COUNTY_TYPE)) {
@@ -460,7 +460,7 @@ public class CenModulePageCreator {
 			}
 			else if(entity.getDataEntityType().equals(DataEntityTypeInterface.METRO_TYPE)) {
 				template.addLink("Metros", stateLink + "/" + "metros-"+this.getLinkName(entity.getState()));
-				template.addLink(entity.getName(),stateLink +"/metroes" +"/" +this.getLinkName(entity.getName()));
+				template.addLink(entity.getName(),stateLink +"/metros" +"/" +this.getLinkName(entity.getName()));
 				template.setActive(type);
 			}
 			else if(entity.getDataEntityType().equals(DataEntityTypeInterface.MICRO_TYPE)) {
