@@ -665,7 +665,7 @@ public class CenstatPageGenTool {
 				Iterator<link> iter = links.iterator();
 				while(iter.hasNext()) {
 					link l = iter.next();
-					template.addLink(l.linkName, l.linkValue, l.fipCode, l.entityName);					
+					template.addLinkWithTitle(l.linkName, l.linkValue, l.fipCode, l.entityName, "Sample");					
 				}
 			}
 			mustache2.execute(tileWriter, template).flush();
@@ -903,12 +903,30 @@ public class CenstatPageGenTool {
 			return links;
 		}
 		
+			
 		
-		
-		
-		
+		/**
+		 * 
+		 * @param linkName
+		 * @param linkValue
+		 * @param fip
+		 * @param en
+		 */
 		public void addLink(String linkName, String linkValue, String fip,String en){
 			link l = new link(linkName, linkValue,fip,en);
+			this.links.add(l);
+			
+		}
+		/**
+		 * 
+		 * @param linkName
+		 * @param linkValue
+		 * @param fip
+		 * @param en
+		 * @param title
+		 */
+		public void addLinkWithTitle(String linkName, String linkValue , String fip, String en, String title ) {
+			link l = new link(linkName, linkValue,fip,en,title);
 			this.links.add(l);
 			
 		}
@@ -921,6 +939,7 @@ public class CenstatPageGenTool {
 			String linkValue = null;
 			String fipCode = null;
 			String entityName = "";
+			String title = "";
 
 			public link(String name, String value, String fip, String en) {
 				this.linkName = name;
@@ -928,6 +947,15 @@ public class CenstatPageGenTool {
 				this.fipCode = fip;
 				this.entityName=en;
 			}
+			
+			public link(String name, String value, String fip, String en,String title) {
+				this.linkName = name;
+				this.linkValue = value;
+				this.fipCode = fip;
+				this.entityName=en;
+				this.title=title;
+			}
+			
 			
 
 		}
