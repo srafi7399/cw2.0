@@ -25,7 +25,7 @@ public class HomeController {
 
 	private static final Logger logger = LoggerFactory
 			.getLogger(HomeController.class);
-	static MongoApp app = null;
+	/*static MongoApp app = null;
 	static {
 		app = new MongoApp();
 		try {
@@ -34,7 +34,7 @@ public class HomeController {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-	}	
+	}	*/
 	
 	@RequestMapping(value = "/", method = RequestMethod.GET)
 	public String home(Locale locale, Model model) {
