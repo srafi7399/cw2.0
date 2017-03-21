@@ -638,6 +638,7 @@ public class CenstatPageGenTool {
 	}
 
 	private void generateTilesCode(MVCControllerCodeTemplate template) {
+		String title = "";
 		String tilesDir = System.getProperty("user.dir")
 				+File.separator+"src"
 				+File.separator+"main"
@@ -664,8 +665,8 @@ public class CenstatPageGenTool {
 				Iterator<link> iter = links.iterator();
 				while(iter.hasNext()) {
 					link l = iter.next();
-					template.addLinkWithTitle(l.linkName, l.linkValue, l.fipCode, l.entityName,
-							CenModulePageCreator.getInstance().getTitleForModulePage((sourceFiles[i])));					
+					title = CenModulePageCreator.getInstance().getTitleForModulePage((sourceFiles[i]));
+					template.addLinkWithTitle(l.linkName, l.linkValue, l.fipCode, l.entityName,	title);					
 				}
 			}
 			mustache2.execute(tileWriter, template).flush();
@@ -939,7 +940,7 @@ public class CenstatPageGenTool {
 			String linkValue = null;
 			String fipCode = null;
 			String entityName = "";
-			String title = "";
+			String title = "Demographics and Social Data";
 
 			public link(String name, String value, String fip, String en) {
 				this.linkName = name;
