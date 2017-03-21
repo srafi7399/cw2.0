@@ -22,7 +22,7 @@
         <!-- To the right -->
        
         <!-- Default to the left -->      
-         <p><strong>© 2016 Censtat.com </strong> | <a href="${pageContext.request.contextPath}/privacy">Privacy Policy</a> |<a href="${pageContext.request.contextPath}/contactus">Contact Us</a>| <a href="${pageContext.request.contextPath}/aboutus">About Us</a></p> 
+         <p><strong>© 2017 Censtat.com </strong> | <a href="${pageContext.request.contextPath}/privacy">Privacy Policy</a> |<a href="${pageContext.request.contextPath}/contactus">Contact Us</a>| <a href="${pageContext.request.contextPath}/aboutus">About Us</a></p> 
       </footer>
       
  </div>
