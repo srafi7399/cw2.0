@@ -405,6 +405,64 @@ public class CenModulePageCreator {
 	}
 	
 	/**
+	 * A method to return the Title for each of the Module Pages
+	 * @param moduleName
+	 * @return
+	 */
+	public String getTitleForModulePage(String fileName) {
+		if (fileName.equals("AgeSexController.java")) {
+			return "Age Details of the population of ";
+
+		} else if (fileName.equals("AncestryController.java")) {
+			return "Ancestry of the population of ";
+
+		} else if (fileName.equals("CitizenshipController.java")) {
+			return "Citizenship of the population of ";
+
+		} else if (fileName.equals("ComputerUsageController.java")) {
+			return "Computer Usage for the population of ";
+
+		} else if (fileName.equals("EducationalAttainmentController.java")) {
+			return "Educational Attainment for the Population of ";
+
+		} else if (fileName.equals("GrandParentsController.java")) {
+			return "Grandparents for the population of " ;
+
+		} else if (fileName.equals("HispanicOrLatinoController.java")) {
+			return "Hispanics or Latinos for the population of ";
+
+		} else if (fileName.equals("HouseHoldsByTypeController.java")) {
+			return "Households for the population of ";
+
+		} else if (fileName.equals("LanguagesSpokenController.java")) {
+			return "Languages Spoken for the population of ";
+
+		} else if (fileName.equals("MaritialStatusController.java")) {
+			return "Maritial Status for the population of ";
+
+		} else if (fileName.equals("PlaceOfBirthController.java")) {
+			return "Place of Birth data for the population of ";
+
+		} else if (fileName.equals("RaceController.java")) {
+			return "Races for the population of ";
+
+		} else if (fileName.equals("RelationShipsController.java")) {
+			return "Relationships for the population of ";
+
+		} else if (fileName.equals("SchoolEnrollmentController.java")) {
+			return "School Enrollment for the population of ";
+
+		} else if (fileName.equals("VeteranStatusController.java")) {
+			return "Veterans for the population of ";
+		}
+		else if(fileName.equals("FertilityController.java")) {
+			return "Fertility for the Population of ";
+		}
+		
+		return "";
+	}
+	
+	/**
 	 * 
 	 */
 	private void generateControllerComponents() {

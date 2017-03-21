@@ -659,13 +659,13 @@ public class CenstatPageGenTool {
 					"VeteranStatusController.java" };
 
 			for (int i = 0; i < sourceFiles.length; i++) {
-				ModuleControllerCodeTemplate conTemp =	CenModulePageCreator.getInstance().getControllerForJavaFile(sourceFiles[i]);
-				System.out.println("Received the Following Controller --->"+conTemp.getControllerName());				
+				ModuleControllerCodeTemplate conTemp =	CenModulePageCreator.getInstance().getControllerForJavaFile(sourceFiles[i]);							
 				ArrayList<link> links = conTemp.links();
 				Iterator<link> iter = links.iterator();
 				while(iter.hasNext()) {
 					link l = iter.next();
-					template.addLinkWithTitle(l.linkName, l.linkValue, l.fipCode, l.entityName, "Sample");					
+					template.addLinkWithTitle(l.linkName, l.linkValue, l.fipCode, l.entityName,
+							CenModulePageCreator.getInstance().getTitleForModulePage((sourceFiles[i])));					
 				}
 			}
 			mustache2.execute(tileWriter, template).flush();
