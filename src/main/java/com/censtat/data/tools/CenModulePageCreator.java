@@ -429,7 +429,7 @@ public class CenModulePageCreator {
 			return "Data on Grandparents" ;
 
 		} else if (fileName.equals("HispanicOrLatinoController.java")) {
-			return "Information Hispanics or Latinos";
+			return "Information on Hispanics or Latinos";
 
 		} else if (fileName.equals("HouseHoldsByTypeController.java")) {
 			return "Households Data ";
