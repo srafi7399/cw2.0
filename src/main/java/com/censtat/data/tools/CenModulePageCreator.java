@@ -411,7 +411,7 @@ public class CenModulePageCreator {
 	 */
 	public String getTitleForModulePage(String fileName) {
 		if (fileName.equals("AgeSexController.java")) {
-			return "Age Data";
+			return "Age and Sex Data";
 
 		} else if (fileName.equals("AncestryController.java")) {
 			return "Ancestry Data";
